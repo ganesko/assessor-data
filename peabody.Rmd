@@ -1,0 +1,146 @@
+---
+title: "peabody"
+author: "greta-anesko"
+date: "2026-02-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(readr)
+library(here)
+```
+
+```{r, warning=FALSE}
+df1 <- read_tsv(here("Peabody", "Peabody FY25 Comm.txt"), col_names = FALSE, show_col_types = FALSE)
+df4 <- read_tsv(here("Peabody", "Peabody FY25 Res.txt"), col_names = FALSE, show_col_types = FALSE)
+```
+
+```{r}
+# USECODE
+# FUELTYPE
+# AREASQ
+# STORYHEIGHT
+
+df1_select <- df1 %>%
+  select(X13, X36, X23, X29) %>%
+  rename(USECODE_char = X13, FUELTYPE = X36, AREASQ = X23, STORYHEIGHT = X29) 
+# use gross building area instead of residential living area for commercial
+# missing fuel type for commercial
+
+df1_select$STORYHEIGHT = as.numeric(df1_select$STORYHEIGHT)
+
+df4_select <- df4 %>%
+  select(X13, X36, X25, X29) %>%
+  rename(USECODE_char = X13, FUELTYPE = X36, AREASQ = X25, STORYHEIGHT = X29)
+```
+
+```{r}
+df <- bind_rows(df1_select, df4_select)
+```
+
+```{r}
+usecodes <- data.frame(unique(df$USECODE_char))
+```
+
+```{r}
+df <- df %>%
+  mutate(USECODE = recode(USECODE_char,
+                          "Improved, Education" = 934,
+                          "Sand And Gravel" = 410,
+                          "Utility Authority, Electric, Light, Sewe" = 971,
+                          "Gas Pressure Control Stations" = 428,
+                          "Gymnasiums & Athletic Clubs" = 376,
+                          "Apartments - More than Eight Units" = 112,
+                          "Storage, Warehouses And Distribution" = NA_real_, # warehouses for storage of manufactured products is 401, but could also be any code 31 because this is the title of code 31
+                          "Truck Terminals" = 314,
+                          "General Office" = 340,
+                          "Small Retail And Service Stores Under 10" = 325,
+                          "Commercial Condominium" = NA_real_, # there is only a code for residential condominiums
+                          "Church, Mosque, Synagogue, Temple etc" = 960,
+                          "Religious Group - Other" = 962,
+                          "Churches, Synagogues And Temples" = 960,
+                          "Medical Office" = 342,
+                          "Shopping Centers" = 323,
+                          "Rectory or Parsonage etc" = 961,
+                          "Charitable - Other" = 951,
+                          "Improved - Selectman/City Council" = 931,
+                          "Improved, Municipal Public Safety" = 935,
+                          "Multiple Use - Primarily Residential" = 013,
+                          "Automobile Repair" = 332,
+                          "Commercial Greenhouses" = 318,
+                          "Automotive Vehicles Sales & Services" = 330,
+                          "Fuel Service Only" = 333,
+                          "Office Condominium" = NA_real_, # there is only a code for residential condominiums
+                          "Discount Stores" = 322,
+                          "Multiple Use - Primarily Commercial" = 031,
+                          "Eating And Drinking Establishments" = 326,
+                          "Manufacturing Facilities" = 400, # check
+                          "Automotive Gas Sales & Service" = 334, # check
+                          "Telephone Exchange Stations" = 430,
+                          "Retail Building Materials, Farm Equipmen" = 321, # check
+                          "Other" = NA_real_, # could be other in any section, or any code 99
+                          "Child Care Facility" = 140,
+                          "Improved Municipal or Public Safety Othe" = 935, # check
+                          "Banks" = 341,
+                          "Nursing Homes" = 304,
+                          "Elementary School" = 940,
+                          "Educational  Private - Other" = 947,
+                          "Motels" = 301,
+                          "Supermarkets Greater Than 10,000 Sf" = 324,
+                          "Medical Condominium" = NA_real_, # there is only a code for residential condominiums
+                          "Automotive Supplies Retail" = 331,
+                          "Cemetaries" = 953,
+                          "Manufacturing Warehouse Facilities" = 401,
+                          "Other Motor Vehicles Sales & Services" = 338,
+                          "Industrial Condo" = NA_real_, # there is only a code for residential condominiums
+                          "Secondary Level" = 941,
+                          "Golfing - Areas Of Land Arranged As A Go" = 283,
+                          "Charitable - Hospitals" = 955,
+                          "U.S. Government" = 900,
+                          "Housing Authority" = 970,
+                          "Apartments - 4 To 8 Units" = 111,
+                          "Fraternal Organizations" = 353,
+                          "Other Congregate Housing" = 125,
+                          "Car Wash Facilities" = 335,
+                          "Day Care Center" = 352,
+                          "Private Hospitals" = 305,
+                          "Charitable Organizations" = 951, # check: charitable - other
+                          "Function Halls, Community Centers, Fater" = 954,
+                          "Hotels" = 300,
+                          "Vacant - Selectman/City Council" = 930,
+                          "Multiple Use- Part Taxable/Exempt" = NA_real_, # check
+                          "Rooming & Boarding Houses" = 121,
+                          "Property Used For Postal Services" = 350,
+                          "Charitable Services" = 957,
+                          "Bowling" = 370,
+                          "Funeral Homes" = 355,
+                          "Judiciary" = 926,
+                          "Cable Tv Transmitting Facilities" = 432,
+                          "Office Building- manufacturing" = 402,
+                          "Housing, Other" = 959,
+                          "Municipality" = NA_real_, # check
+                          "Single Family Residence" = 101,
+                          "Two-Family" = 104,
+                          "Multiple Houses On One Parcel" = 109,
+                          "Residential Condominium" = 102,
+                          "Three-Family" = 105,
+                          "Necessary Related Land - farm roads/pond" = 276
+                          ))
+```
+
+```{r}
+na_count_B <- sum(is.na(df$USECODE)) # 241 properties with no use code out of 15902
+```
+
+
+
+
+
+
+
+
