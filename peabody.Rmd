@@ -137,6 +137,11 @@ df <- df %>%
 na_count_B <- sum(is.na(df$USECODE)) # 241 properties with no use code out of 15902
 ```
 
+```{r}
+write.csv(df, file = "Peabody_Incomplete.csv", row.names = FALSE)
+```
+
+
 
 
 
