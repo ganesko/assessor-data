@@ -1,0 +1,67 @@
+---
+title: "ashburnham"
+author: "greta-anesko"
+date: "2026-02-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(readr)
+library(here)
+```
+
+```{r}
+df1 <- read_csv(here("Ashburnham", "Ashburnham-Commercial_20251113.csv"), show_col_types = FALSE)
+df2 <- read_csv(here("Ashburnham", "Ashburnham-Condo_20251113.csv"), show_col_types = FALSE)
+df3 <- read_csv(here("Ashburnham", "Ashburnham-Residential_20251113.csv"), show_col_types = FALSE)
+```
+
+```{r}
+# USECODE
+# FUELTYPE
+# AREASQ
+# STORYHEIGHT
+
+df1_select <- df1 %>%
+  select(`ASSESS CODE 1`, `Usrfld 207 Desc`, `LIVING AREA`, `Stories:`) %>%
+  rename(USECODE = `ASSESS CODE 1`, FUELTYPE = `Usrfld 207 Desc`, AREASQ = `LIVING AREA`, STORYHEIGHT = `Stories:`) %>%
+  mutate(USECODE = str_remove(USECODE, "0$")) %>%
+  mutate(USECODE = if_else(str_detect(USECODE, "^.{4}$"),
+                      str_replace(USECODE, "^0", ""),
+                      USECODE))
+
+df2_select <- df2 %>%
+  select(`ASSESS CODE 1`, `Heat Sys Desc`, `LIVING AREA`, `Stories:`) %>%
+  rename(USECODE = `ASSESS CODE 1`, FUELTYPE = `Heat Sys Desc`, AREASQ = `LIVING AREA`, STORYHEIGHT = `Stories:`) %>%
+  mutate(USECODE = as.character(USECODE)) %>%
+  mutate(USECODE = str_remove(USECODE, "0$")) %>%
+  mutate(USECODE = if_else(str_detect(USECODE, "^.{4}$"),
+                      str_replace(USECODE, "^0", ""),
+                      USECODE))
+
+df3_select <- df3 %>%
+  select(`ASSESS CODE 1`, `Usrfld 82 Desc`, `LIVING AREA`, `Stories:`) %>%
+  rename(USECODE = `ASSESS CODE 1`, FUELTYPE = `Usrfld 82 Desc`, AREASQ = `LIVING AREA`, STORYHEIGHT = `Stories:`) %>%
+  mutate(USECODE = str_remove(USECODE, "0$")) %>%
+  mutate(USECODE = if_else(str_detect(USECODE, "^.{4}$"),
+                      str_replace(USECODE, "^0", ""),
+                      USECODE)) %>%
+  mutate(USECODE = if_else(str_detect(USECODE, "^.{4}$"),
+                      str_replace(USECODE, "3$", ""),
+                      USECODE))
+```
+
+```{r}
+df <- bind_rows(df1_select, df2_select, df3_select)
+```
+
+```{r}
+write.csv(df, file = "Ashburnham_Final.csv", row.names = FALSE)
+```
+
+
