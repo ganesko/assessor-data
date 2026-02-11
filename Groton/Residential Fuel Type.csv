@@ -1,0 +1,3672 @@
+﻿MBLU,Block,Lot,Unit,Location,Usrfld_82_Desc
+    101,      1,      0,       ,64 WEST MAIN ST ,Gas
+    101,      3,      0,       ,54 WEST MAIN ST,Oil
+    101,      4,      0,       ,48 WEST MAIN ST,Oil
+    101,      4,      0,       ,48 WEST MAIN ST,Oil
+    101,      6,      0,       ,34 WEST MAIN ST,Gas
+    101,      7,      0,       ,16 WEST MAIN ST,Gas
+    101,     17,      0,       ,13 WEST MAIN ST,Gas
+    101,     19,      0,       ,23 WEST MAIN ST,Gas
+    101,     20,      0,       ,25 WEST MAIN ST,Gas
+    101,     21,      0,       ,29 WEST MAIN ST,Gas
+    101,     22,      0,       ,33 WEST MAIN ST ,Oil
+    101,     24,      0,       ,41 WEST MAIN ST,Oil
+    101,     25,      0,       ,43 WEST MAIN ST,Oil
+    101,     26,      0,       ,55 WEST MAIN ST,Gas
+    101,     27,      0,       ,57 WEST MAIN ST,Gas
+    101,     28,      0,       ,59 WEST MAIN ST,Gas
+    102,      1,      0,       ,CANNERY ROW,Oil
+    102,      2,      0,       ,38 CANNERY ROW,Oil
+    102,      4,      0,       ,120 TOWNSEND RD,Gas
+    102,      5,      0,       ,114 TOWNSEND RD,Oil
+    102,      6,      0,       ,106 TOWNSEND RD,Gas
+    102,      7,      0,       ,102 TOWNSEND RD,Oil
+    102,      8,      0,       ,96 TOWNSEND RD,Gas
+    102,      9,      0,       ,90 TOWNSEND RD,Oil
+    102,     11,      0,       ,66 TOWNSEND RD,Oil
+    102,     12,      0,       ,60 TOWNSEND RD,Gas
+    102,     13,      0,       ,56 TOWNSEND RD,Oil
+    102,     14,      0,       ,48 TOWNSEND RD,Oil
+    102,     15,      0,       ,42-44 TOWNSEND RD,Gas
+    102,     16,      0,       ,40 TOWNSEND RD ,Oil
+    102,     18,      0,       ,28 TOWNSEND RD ,Gas
+    102,     19,      0,       ,19 PEPPERELL RD,Gas
+    102,     20,      0,       ,16 TOWNSEND RD,Gas
+    102,     21,      0,       ,13 PEPPERELL RD,Oil
+    102,     22,      0,       ,17 PEPPERELL RD,Oil
+    102,     23,      0,       ,25 PEPPERELL RD,Oil
+    102,     24,      0,       ,37 PEPPERELL RD ,Gas
+    102,     25,      0,       ,39 PEPPERELL RD,Oil
+    102,     26,      0,       ,51 PEPPERELL RD,Gas
+    102,     27,      0,       ,55 PEPPERELL RD,Oil
+    102,     28,      0,       ,32 ST JAMES AVE,Oil
+    102,     29,      0,       ,7 SHEPLEY ST,Oil
+    102,     30,      0,       ,15 SHEPLEY ST,Gas
+    102,     31,      0,       ,23 SHEPLEY ST,Oil
+    102,     32,      0,       ,27 SHEPLEY ST,Gas
+    102,     33,      0,       ,9 WESTVIEW ST,Gas
+    102,     34,      0,       ,17 WESTVIEW ST,Gas
+    102,     35,      0,       ,25 WESTVIEW ST,Oil
+    102,     36,      0,       ,26 WESTVIEW ST,Oil
+    102,     37,      0,       ,14 WESTVIEW ST ,Oil
+    102,     38,      0,       ,6 WESTVIEW ST,Oil
+    102,     39,      0,       ,29 BIXBY HILL RD,Oil
+    102,     40,      0,       ,37 BIXBY HILL RD,Gas
+    102,     41,      0,       ,36 BIXBY HILL RD,Gas
+    102,     42,      0,       ,20 BIXBY HILL RD,Oil
+    102,     43,      0,       ,17 BIXBY HILL RD,Oil
+    102,     45,      0,       ,81 PEPPERELL RD ,Oil
+    102,     46,      0,       ,11 BIXBY HILL RD,Gas
+    102,     47,      0,       ,12 BIXBY HILL RD,Gas
+    102,     48,      0,       ,2 BIXBY HILL RD,Oil
+    102,     49,      0,       ,103 PEPPERELL RD,Gas
+    102,     50,      0,       ,107 PEPPERELL RD,Gas
+    102,     51,      0,       ,122 PEPPERELL RD,Gas
+    102,     53,      0,       ,110 PEPPERELL RD,Gas
+    102,     54,      0,       ,106 PEPPERELL RD,Gas
+    102,     55,      0,       ,102 PEPPERELL RD,Oil
+    102,     59,      0,       ,48 FOX RUN,Oil
+    102,     60,      0,       ,20 FOX RUN,Oil
+    102,     61,      0,       ,16 FOX RUN,Oil
+    102,     62,      0,       ,8 FOX RUN ,Gas
+    102,     63,      0,       ,78 PEPPERELL RD,Gas
+    102,     64,      0,       ,70 PEPPERELL RD,Oil
+    102,     65,      0,       ,56 PEPPERELL RD,Oil
+    102,     66,      0,       ,48 PEPPERELL RD,Oil
+    102,     67,      0,       ,40 PEPPERELL RD,Oil
+    102,     68,      0,       ,32 PEPPERELL RD,Oil
+    102,     69,      0,       ,18 PEPPERELL RD,Gas
+    103,      5,      0,       ,176 KEMP ST,Oil
+    103,      6,      0,       ,170 KEMP ST,Oil
+    103,      7,      0,       ,166 KEMP ST,Oil
+    103,      8,      0,       ,130 KEMP ST ,Gas
+    103,      9,      0,       ,122 KEMP ST,Oil
+    103,     10,      0,       ,112 KEMP ST,Gas
+    103,     11,      0,       ,92 KEMP ST,Gas
+    103,     12,      0,       ,72 KEMP ST,Gas
+    103,     14,      0,       ,70 KEMP ST,Oil
+    103,     15,      0,       ,54 KEMP ST ,Gas
+    103,     16,      0,       ,44 KEMP ST,Oil
+    103,     17,      0,       ,39 KEMP ST,Gas
+    103,     18,      0,       ,51 KEMP ST,Gas
+    103,     19,      0,       ,63 KEMP ST ,Gas
+    103,     22,      0,       ,93 KEMP ST,Oil
+    103,     23,      0,       ,119 KEMP ST,Oil
+    103,     24,      0,       ,117 KEMP ST,Oil
+    103,     26,      0,       ,161 KEMP ST,Oil
+    103,     27,      0,       ,167 KEMP ST ,Oil
+    103,     29,      0,       ,177 KEMP ST,Oil
+    103,     30,      0,       ,183 KEMP ST,Oil
+    103,     31,      0,       ,208 TOWNSEND RD,Oil
+    103,     32,      0,       ,198-200 TOWNSEND RD ,Oil
+    103,     34,      0,       ,178  TOWNSEND RD,Oil
+    103,     36,      0,       ,148 TOWNSEND RD,Oil
+    103,     37,      0,       ,142 TOWNSEND RD ,Gas
+    103,     38,      0,       ,7 WINDMILL HILL RD,Electric
+    103,     39,      0,       ,13 WINDMILL HILL RD,Oil
+    103,     40,      0,       ,15 WINDMILL HILL RD,Gas
+    103,     41,      0,       ,19 WINDMILL HILL RD,Oil
+    103,     42,      0,       ,27 WINDMILL HILL RD,Gas
+    103,     43,      0,       ,31 WINDMILL HILL RD,Gas
+    103,     44,      0,       ,43 WINDMILL HILL RD,Oil
+    103,     45,      0,       ,47 WINDMILL HILL RD,Oil
+    103,     46,      0,       ,9 OLD ORCHARD ST,Oil
+    103,     47,      0,       ,13 OLD ORCHARD ST ,Gas
+    103,     48,      0,       ,21 OLD ORCHARD ST,Gas
+    103,     49,      0,       ,29 OLD ORCHARD ST,Oil
+    103,     50,      0,       ,37 OLD ORCHARD ST,Gas
+    103,     51,      0,       ,47 OLD ORCHARD ST,Gas
+    103,     52,      0,       ,55 OLD ORCHARD ST,Oil
+    103,     53,      0,       ,57 OLD ORCHARD ST,Oil
+    103,     54,      0,       ,61 OLD ORCHARD ST,Oil
+    103,     55,      0,       ,62 OLD ORCHARD ST,Gas
+    103,     56,      0,       ,56 OLD ORCHARD ST,Gas
+    103,     57,      0,       ,54 OLD ORCHARD ST,Gas
+    103,     58,      0,       ,46 OLD ORCHARD ST,Gas
+    103,     59,      0,       ,40 OLD ORCHARD ST,Gas
+    103,     60,      0,       ,38 OLD ORCHARD ST ,Gas
+    103,     61,      0,       ,30 OLD ORCHARD ST,Oil
+    103,     62,      0,       ,20 OLD ORCHARD ST,Oil
+    103,     63,      0,       ,12 OLD ORCHARD ST,Gas
+    103,     64,      0,       ,10 OLD ORCHARD ST,Oil
+    103,     66,      0,       ,42 BIXBY HILL RD,Gas
+    103,     67,      0,       ,46 WINDMILL HILL RD,Oil
+    103,     68,      0,       ,38 WINDMILL HILL RD,Gas
+    103,     69,      0,       ,38 WESTVIEW ST,Oil
+    103,     70,      0,       ,39 WESTVIEW ST,Oil
+    103,     71,      0,       ,128 TOWNSEND RD,Gas
+    103,     72,      0,       ,119 PEPPERELL RD,Gas
+    103,     73,      0,       ,123 PEPPERELL RD,Gas
+    103,     74,      1,       ,129 PEPPERELL RD,Gas
+    103,     74,      2,       ,135 PEPPERELL RD,Gas
+    103,     74,      3,       ,149 PEPPERELL RD,Gas
+    103,     75,      0,       ,132 PEPPERELL RD,Gas
+    104,      1,      0,       ,271 HILL RD,Oil
+    104,      2,      0,       ,253 HILL RD,Gas
+    104,      4,      0,       ,313 HILL RD,Oil
+    104,      7,      0,       ,166 PEPPERELL RD ,Gas
+    104,      8,      0,       ,156 PEPPERELL RD,Gas
+    104,     10,      0,       ,140 PEPPERELL RD,Oil
+    104,     11,      0,       ,153 PEPPERELL RD,Oil
+    104,     12,      0,       ,159 PEPPERELL RD,Oil
+    104,     13,      0,       ,165 PEPPERELL RD ,Oil
+    104,     14,      0,       ,171 PEPPERELL RD ,Gas
+    104,     15,      0,       ,3 KEMP ST,Gas
+    104,     16,      0,       ,31 KEMP ST ,Gas
+    104,     17,      0,       ,18 KEMP ST ,Oil
+    104,     17,      1,       ,34 KEMP ST,Gas
+    104,     17,      3,       ,225 PEPPERELL RD,Gas
+    104,     18,      0,       ,191 PEPPERELL RD,Oil
+    104,     19,      0,       ,235 PEPPERELL RD,Coal or Wood
+    104,     20,      0,       ,239 PEPPERELL RD,Gas
+    104,     21,      0,       ,236 PEPPERELL RD ,Gas
+    104,     22,      0,       ,202 PEPPERELL RD,Gas
+    104,     23,      0,       ,314 HILL RD ,Gas
+    104,     25,      0,       ,296 HILL RD,Gas
+    104,     26,      0,       ,286 HILL RD,Gas
+    104,     27,      0,       ,270 HILL RD,Gas
+    104,     28,      0,       ,250 HILL RD,Oil
+    104,     29,      0,       ,186 HILL RD,Oil
+    104,     30,      0,      1,1 MAPLE AVE ,Gas
+    104,     30,      0,      2,15 MAPLE AVE ,Gas
+    104,     30,      0,      4,51 MAPLE AVE ,Gas
+    104,     30,      0,      5,79 MAPLE AVE ,Gas
+    104,     30,      0,      6,99 MAPLE AVE ,Gas
+    104,     30,      0,      7,103 MAPLE AVE ,Gas
+    104,     30,      2,      1,15 HAYES WOODS LN ,Gas
+    104,     30,      2,      2,19 HAYES WOODS LN ,Gas
+    104,     30,      2,      8,20 HAYES WOODS LN ,Gas
+    104,     30,      2,      9,16 HAYES WOODS LN ,Gas
+    105,      1,      0,       ,173 HILL RD,Oil
+    105,      4,      0,       ,63 SPENCER CIR,Oil
+    105,      5,      0,       ,61 SPENCER CIR,Oil
+    105,      6,      0,       ,59 SPENCER CIR,Oil
+    105,      7,      0,       ,57 SPENCER CIR ,Oil
+    105,      8,      0,       ,55 SPENCER CIR,Oil
+    105,      9,      0,       ,49 SPENCER CIR,Oil
+    105,     10,      0,       ,45 SPENCER CIR,Oil
+    105,     11,      0,       ,39 SPENCER CIR ,Oil
+    105,     13,      0,       ,207 HILL RD,Oil
+    105,     14,      0,       ,239 HILL RD,Oil
+    105,     15,      0,       ,235 HILL RD,Oil
+    105,     16,      0,       ,241 HILL RD,Oil
+    105,     17,      0,       ,243 HILL RD,Oil
+    105,     19,      0,       ,53 FOX RUN,Oil
+    105,     20,      0,       ,55 FOX RUN,Oil
+    105,     21,      0,       ,50 FOX RUN,Oil
+    105,     22,      0,       ,46 FOX RUN,Oil
+    105,     23,      0,       ,1 INTEGRITY WAY,Oil
+    105,     24,      0,       ,3 INTEGRITY WAY ,Gas
+    105,     25,      0,       ,5 INTEGRITY WAY,Gas
+    105,     27,      0,       ,6 INTEGRITY WAY,Gas
+    105,     29,      0,       ,2 INTEGRITY WAY,Gas
+    105,     31,      0,       ,236 HILL RD ,Oil
+    105,     32,      0,       ,220 HILL RD ,Gas
+    105,     32,      0,       ,220 HILL RD ,Oil
+    105,     33,      0,       ,204 HILL RD,Oil
+    106,      1,      0,       ,220 WEST MAIN ST,Oil
+    106,      2,      0,       ,216 WEST MAIN ST,Oil
+    106,      3,      0,       ,210 WEST MAIN ST,Gas
+    106,      4,      0,       ,206 WEST MAIN ST ,Oil
+    106,      5,      0,       ,196 WEST MAIN ST,Gas
+    106,      6,      0,       ,186 WEST MAIN ST,Gas
+    106,      7,      0,       ,174 WEST MAIN ST,Gas
+    106,      9,      0,       ,170 WEST MAIN ST,Gas
+    106,     14,      0,       ,108 WEST MAIN ST,Gas
+    106,     15,      0,       ,94 WEST MAIN ST,Gas
+    106,     16,      0,       ,74 WEST MAIN ST,Gas
+    106,     17,      0,       ,68 WEST MAIN ST,Gas
+    106,     18,      0,       ,65 WEST MAIN ST ,Gas
+    106,     21,      0,       ,75 WEST MAIN ST ,Gas
+    106,     22,      0,       ,77 WEST MAIN ST,Gas
+    106,     23,      0,       ,81 WEST MAIN ST,Oil
+    106,     24,      0,       ,85 WEST MAIN ST,Gas
+    106,     25,      0,       ,91 WEST MAIN ST,Oil
+    106,     26,      0,       ,93 WEST MAIN ST,Gas
+    106,     27,      0,       ,95 WEST MAIN ST,Gas
+    106,     29,      0,       ,111 WEST MAIN ST,Gas
+    106,     30,      0,       ,119 WEST MAIN ST,Oil
+    106,     39,      0,       ,165 WEST MAIN ST,Gas
+    106,     40,      0,       ,181 WEST MAIN ST,Gas
+    106,     42,      0,       ,191 WEST MAIN ST,Gas
+    106,     43,      0,       ,199 WEST MAIN ST,Oil
+    106,     44,      0,       ,201 WEST MAIN ST,Gas
+    107,      1,      0,       ,111 FARMERS ROW ,Gas
+    107,      2,      0,       ,123 FARMERS ROW ,Oil
+    107,      4,      0,       ,125 FARMERS ROW,Oil
+    107,      5,      0,       ,133 FARMERS ROW,Oil
+    107,      6,      0,       ,9 HIGLEY ST,Oil
+    107,      7,      0,       ,17 HIGLEY ST,Oil
+    107,      9,      0,       ,31-33 HIGLEY ST,Oil
+    107,     10,      0,       ,35 HIGLEY ST,Gas
+    107,     11,      0,       ,64 HIGLEY ST,Gas
+    107,     11,      0,       ,64 HIGLEY ST,Gas
+    107,     11,      0,       ,64 HIGLEY ST,Oil
+    107,     13,      0,       ,24 HIGLEY ST,Oil
+    107,     14,      0,       ,20 HIGLEY ST,Oil
+    107,     15,      0,       ,154 FARMERS ROW,Gas
+    107,     16,      0,       ,182 FARMERS ROW,Gas
+    107,     17,      0,       ,112 FARMERS ROW,Oil
+    108,      2,      0,       ,188 BROADMEADOW RD ,Gas
+    108,      3,      0,       ,67 FARMERS ROW,Gas
+    108,      4,      0,       ,168 BROADMEADOW RD,Electric
+    108,      5,      0,       ,152 BROADMEADOW RD,Gas
+    108,      6,      0,       ,151 BROADMEADOW RD,Gas
+    108,      7,      0,       ,161 BROADMEADOW RD,Gas
+    108,      8,      0,       ,169 BROADMEADOW RD ,Oil
+    108,      9,      0,       ,93 FARMERS ROW ,Gas
+    108,     10,      0,       ,90 FARMERS ROW,Gas
+    108,     10,      0,       ,90 FARMERS ROW,Oil
+    108,     11,      0,       ,76 FARMERS ROW,Gas
+    108,     11,      0,       ,76 FARMERS ROW,Gas
+    108,     12,      0,       ,37 LONG HILL RD,Oil
+    108,     13,      0,       ,49 LONG HILL RD,Oil
+    108,     16,      0,       ,61 LONG HILL RD,Oil
+    108,     17,      0,       ,63 LONG HILL RD,Oil
+    108,     18,      0,       ,59 LONG HILL RD ,Oil
+    108,     19,      0,       ,57 LONG HILL RD,Oil
+    108,     20,      0,       ,79 LONG HILL RD,Gas
+    108,     21,      0,       ,87 LONG HILL RD,Gas
+    108,     22,      0,       ,97 LONG HILL RD,Oil
+    108,     23,      0,       ,107 LONG HILL RD,Gas
+    108,     24,      0,       ,46 LONG HILL RD ,Oil
+    108,     25,      0,       ,44 FARMERS ROW ,Gas
+    108,     26,      0,       ,24 FARMERS ROW ,Gas
+    108,     27,      0,       ,18 FARMERS ROW,Gas
+    108,     28,      0,       ,12 FARMERS ROW ,Gas
+    108,     29,      0,       ,2 FARMERS ROW,Gas
+    108,     31,      0,       ,80 RIVERBEND DR,Gas
+    109,      1,      0,       ,73 PLEASANT ST,Gas
+    109,      2,      0,       ,79 PLEASANT ST,Oil
+    109,      9,      0,       ,67 MILL ST,Gas
+    109,     10,      0,       ,11 CANTERBURY LN,Gas
+    109,     11,      0,       ,15 CANTERBURY LN,Gas
+    109,     13,      0,       ,17 CANTERBURY LN,Gas
+    109,     14,      0,       ,18 CANTERBURY LN,Oil
+    109,     15,      0,       ,16 CANTERBURY LN,Gas
+    109,     16,      0,       ,12 CANTERBURY LN,Gas
+    109,     17,      0,       ,10 CANTERBURY LN ,Gas
+    109,     19,      0,       ,93 MILL ST,Gas
+    109,     20,      0,       ,103 MILL ST,Gas
+    109,     21,      0,       ,113 MILL ST,Oil
+    109,     22,      0,       ,5 JENKINS RD,Gas
+    109,     23,      0,       ,21 JENKINS RD ,Oil
+    109,     25,      0,       ,135 MILL ST,Gas
+    109,     27,      0,       ,106 MILL ST ,Oil
+    109,     28,      0,       ,104 MILL ST,Oil
+    109,     29,      0,       ,96 MILL ST,Oil
+    109,     30,      0,       ,90 MILL ST,Oil
+    109,     31,      0,       ,52 MILL ST ,Gas
+    109,     32,      0,       ,38 MILL ST,Oil
+    109,     33,      0,       ,3 WESTBROOK LN,Oil
+    109,     35,      0,       ,25 WESTBROOK LN,Oil
+    109,     36,      0,       ,26 WESTBROOK LN,Oil
+    109,     37,      0,       ,20 WESTBROOK LN ,Oil
+    109,     39,      0,       ,65 WEST ST,Oil
+    109,     43,      0,       ,108 PLEASANT ST ,Gas
+    109,     43,      0,       ,108 PLEASANT ST ,Gas
+    109,     45,      0,       ,96 PLEASANT ST ,Oil
+    109,     46,      0,       ,88 PLEASANT ST ,Gas
+    109,     47,      0,       ,82 PLEASANT ST,Oil
+    109,     48,      0,       ,76 PLEASANT ST,Gas
+    109,     49,      0,       ,19 FAIRVIEW AVE,Oil
+    109,     51,      0,       ,45 WEST ST ,Oil
+    109,     53,      0,       ,42 FAIRVIEW AVE,Gas
+    109,     54,      0,       ,34 FAIRVIEW AVE,Gas
+    109,     55,      0,       ,26 FAIRVIEW AVE ,Oil
+    109,     56,      0,       ,20 FAIRVIEW AVE,Oil
+    109,     57,      0,       ,323 MAIN ST,Coal or Wood
+    109,     58,      0,       ,329 MAIN ST,Gas
+    109,     59,      0,       ,335 MAIN ST,Oil
+    110,      4,      0,       ,399 MAIN ST,Gas
+    110,      5,      0,       ,403 MAIN ST,Gas
+    110,      6,      0,       ,415 MAIN ST,Oil
+    110,     10,      0,       ,21 ARLINGTON ST,Oil
+    110,     11,      0,       ,210 MILL ST,Oil
+    110,     12,      0,       ,206 MILL ST,Oil
+    110,     16,      0,       ,150 MILL ST,Oil
+    110,     17,      0,       ,148 MILL ST,Oil
+    110,     18,      0,       ,157 MILL ST ,Oil
+    110,     19,      0,       ,167 MILL ST ,Gas
+    110,     20,      0,       ,179 MILL ST,Oil
+    110,     21,      0,       ,191 MILL ST,Oil
+    110,     23,      0,       ,219 MILL ST,Oil
+    110,     25,      1,       ,197 MILL ST,Oil
+    110,     25,      2,       ,199 MILL ST,Oil
+    110,     26,      0,       ,231 MILL ST,Gas
+    110,     26,      0,       ,231 MILL ST,Oil
+    110,     27,      0,       ,241 MILL ST,Oil
+    110,     29,      0,       ,445 MAIN ST,Oil
+    110,     30,      0,       ,452 MAIN ST,Oil
+    110,     31,      0,       ,20 TAYLOR ST,Gas
+    110,     33,      0,       ,436 MAIN ST ,Gas
+    110,     38,      0,       ,396 MAIN ST,Gas
+    110,     39,      0,       ,386 MAIN ST,Gas
+    110,     40,      0,       ,368 MAIN ST,Oil
+    110,     41,      0,       ,356 MAIN ST,Gas
+    111,      1,      0,       ,103-103A HOLLIS ST,Oil
+    111,      2,      0,       ,111 HOLLIS ST,Oil
+    111,      3,      0,       ,86-88-90-92 CHAMPNEY ST,Oil
+    111,      5,      0,       ,72 CHAMPNEY ST,Oil
+    111,      6,      0,       ,68 CHAMPNEY ST,Oil
+    111,      8,      0,       ,64 CHAMPNEY ST,Gas
+    111,      9,      0,       ,58 CHAMPNEY ST ,Gas
+    111,     10,      0,       ,54 CHAMPNEY ST,Gas
+    111,     11,      0,       ,50 CHAMPNEY ST,Oil
+    111,     12,      0,       ,46 CHAMPNEY ST,Gas
+    111,     13,      0,       ,44 CHAMPNEY ST,Gas
+    111,     14,      0,       ,36 CHAMPNEY ST,Gas
+    111,     15,      0,       ,28 CHAMPNEY ST,Gas
+    111,     16,      0,       ,13 CHAMPNEY ST,Oil
+    111,     17,      0,       ,19 CHAMPNEY ST,Oil
+    111,     18,      0,       ,29 A & B CHAMPNEY ST ,Gas
+    111,     19,      0,       ,37 CHAMPNEY ST,Gas
+    111,     20,      0,       ,43 CHAMPNEY ST,Oil
+    111,     21,      0,       ,47 CHAMPNEY ST ,Gas
+    111,     22,      0,       ,59 CHAMPNEY ST,Gas
+    111,     24,      0,       ,77 CHAMPNEY ST,Gas
+    111,     25,      0,       ,83 CHAMPNEY ST ,Gas
+    111,     26,      0,       ,89 CHAMPNEY ST ,Gas
+    111,     27,      0,       ,139 HOLLIS ST,Oil
+    111,     28,      0,       ,13 COMMON ST,Gas
+    111,     29,      0,       ,23 COMMON ST ,Oil
+    111,     30,      0,       ,35 COMMON ST,Oil
+    111,     31,      0,       ,43 COMMON ST,Gas
+    111,     32,      0,       ,57 COMMON ST,Oil
+    111,     33,      0,       ,53 COMMON ST,Oil
+    111,     36,      0,       ,65 COMMON ST,Oil
+    111,     37,      0,       ,62 COMMON ST,Oil
+    111,     38,      0,       ,42 COMMON ST,Oil
+    111,     39,      0,       ,22 COMMON ST,Gas
+    111,     41,      0,       ,169 HOLLIS ST,Gas
+    111,     42,      0,       ,177 HOLLIS ST,Oil
+    111,     43,      0,       ,185 HOLLIS ST,Oil
+    111,     44,      0,       ,191 HOLLIS ST,Oil
+    111,     45,      0,       ,207 HOLLIS ST,Oil
+    111,     46,      0,       ,216 HOLLIS ST,Oil
+    111,     47,      0,       ,200 HOLLIS ST,Oil
+    111,     49,      0,       ,192 HOLLIS ST,Gas
+    111,     51,      0,       ,41 MARTINS POND RD,Gas
+    111,     52,      0,       ,48 MARTINS POND RD,Gas
+    111,     53,      0,       ,42 MARTINS POND RD,Oil
+    111,     54,      0,       ,38 MARTINS POND RD,Gas
+    111,     55,      0,       ,16 MARTINS POND RD,Gas
+    111,     56,      0,       ,46 WOOD LN ,Oil
+    111,     57,      0,       ,38 WOOD LN ,Oil
+    111,     59,      0,       ,158 HOLLIS ST,Gas
+    111,     60,      0,       ,154 HOLLIS ST,Oil
+    111,     61,      0,       ,7 WOOD LN,Oil
+    111,     62,      0,       ,136 HOLLIS ST,Gas
+    111,     63,      0,       ,130 HOLLIS ST,Gas
+    111,     65,      0,       ,114 HOLLIS ST,Gas
+    112,      2,      0,       ,205-207 MAIN ST ,Oil
+    112,      3,      0,       ,209 MAIN ST,Gas
+    112,      4,      0,       ,215 MAIN ST,Gas
+    112,      5,      0,       ,217 MAIN ST,Oil
+    112,      6,      0,       ,219 MAIN ST,Gas
+    112,      7,      0,       ,13 PLEASANT ST ,Oil
+    112,      8,      0,       ,17 ADAMS AVE,Oil
+    112,      9,      0,       ,14 ADAMS AVE,Gas
+    112,     10,      0,       ,29 PLEASANT ST,Gas
+    112,     11,      0,       ,35 PLEASANT ST,Oil
+    112,     12,      0,       ,39 PLEASANT ST ,Oil
+    112,     13,      0,       ,43 PLEASANT ST,Oil
+    112,     14,      0,       ,49 PLEASANT ST,Gas
+    112,     15,      0,       ,53 PLEASANT ST ,Oil
+    112,     18,      0,       ,68 PLEASANT ST,Gas
+    112,     19,      0,       ,58 PLEASANT ST,Oil
+    112,     20,      0,       ,54 PLEASANT ST,Gas
+    112,     21,      0,       ,50 PLEASANT ST #A & B,Oil
+    112,     22,      0,       ,15 WHITING AVE,Oil
+    112,     23,      0,       ,21 WHITING AVE,Oil
+    112,     24,      0,       ,29 WHITING AVE,Oil
+    112,     25,      0,       ,30 WHITING AVE,Gas
+    112,     26,      0,       ,10 WHITING AVE,Gas
+    112,     27,      0,       ,4 WHITING AVE,Gas
+    112,     28,      0,       ,22 ELM ST,Oil
+    112,     29,      0,       ,18 ELM ST,Oil
+    112,     30,      0,       ,8-10-12 ELM ST,Oil
+    112,     31,      0,       ,4 ELM ST ,Gas
+    112,     32,      0,       ,9-11 ELM ST,Oil
+    112,     34,      0,       ,21 ELM ST,Gas
+    112,     34,      0,       ,21 ELM ST,Oil
+    112,     35,      0,       ,25 ELM ST,Gas
+    112,     36,      0,       ,42 PLEASANT ST,Oil
+    112,     37,      0,       ,32 PLEASANT ST,Gas
+    112,     38,      0,       ,28 PLEASANT ST,Oil
+    112,     39,      0,       ,20 PLEASANT ST,Oil
+    112,     43,      0,       ,239 MAIN ST,Gas
+    112,     44,      0,       ,243 MAIN ST,Oil
+    112,     45,      0,       ,247 MAIN ST ,Gas
+    112,     46,      0,       ,255 MAIN ST,Oil
+    112,     48,      0,       ,261 MAIN ST,Gas
+    112,     49,      0,       ,263 MAIN ST,Oil
+    112,     51,      0,       ,271 MAIN ST,Gas
+    112,     52,      0,       ,9 WEST ST ,Oil
+    112,     53,      0,       ,11 WEST ST,Oil
+    112,     54,      0,       ,15 WEST ST,Oil
+    112,     55,      0,       ,21 WEST ST,Oil
+    112,     56,      0,       ,29 WEST ST,Gas
+    112,     58,      0,       ,32 WEST ST,Gas
+    112,     59,      0,       ,20 WEST ST ,Oil
+    112,     61,      0,       ,279 MAIN ST ,Oil
+    112,     63,      0,       ,297 A & B MAIN ST ,Gas
+    112,     64,      0,       ,305 MAIN ST,Gas
+    112,     65,      0,       ,13 FAIRVIEW AVE,Gas
+    112,     66,      0,       ,311 MAIN ST,Gas
+    112,     67,      0,       ,3 CHAMPNEY ST,Oil
+    112,     68,      0,       ,22 CHAMPNEY ST,Gas
+    112,     69,      0,       ,18 CHAMPNEY ST,Oil
+    112,     75,      0,       ,280 MAIN ST,Gas
+    112,     77,      0,       ,17 SCHOOL ST,Oil
+    112,     78,      0,       ,25 SCHOOL ST,Oil
+    112,     79,      0,       ,33 SCHOOL ST,Gas
+    112,     80,      0,       ,37 SCHOOL ST ,Oil
+    112,     81,      0,       ,45 SCHOOL ST,Oil
+    112,     83,      0,       ,49 SCHOOL ST,Gas
+    112,     85,      0,       ,264 MAIN ST,Gas
+    112,     86,      0,       ,5 LEGION RD,Oil
+    112,     87,      0,       ,258 MAIN ST,Gas
+    112,     88,      0,       ,254 MAIN ST,Oil
+    112,     89,      0,       ,248 MAIN ST,Gas
+    112,     92,      0,       ,228 MAIN ST,Gas
+    112,     93,      0,       ,220 MAIN ST ,Oil
+    112,     95,      0,       ,"214 MAIN ST #A,B,C",Oil
+    112,     96,      0,       ,208 MAIN ST,Oil
+    112,     98,      0,       ,31 HOLLIS ST,Gas
+    112,     99,      0,       ,35 HOLLIS ST,Gas
+    112,    100,      0,       ,37 HOLLIS ST,Gas
+    112,    101,      0,       ,41 HOLLIS ST,Oil
+    112,    102,      0,       ,43 HOLLIS ST,Oil
+    112,    103,      0,       ,47 HOLLIS ST,Gas
+    112,    104,      0,       ,51 HOLLIS ST ,Oil
+    112,    107,      0,       ,97 HOLLIS ST ,Gas
+    112,    108,      1,       ,96 HOLLIS ST,Oil
+    112,    108,      2,       ,100 HOLLIS ST,Gas
+    112,    110,      0,       ,70 HOLLIS ST,Oil
+    112,    111,      0,       ,68 HOLLIS ST,Oil
+    112,    112,      0,       ,64 HOLLIS ST,Oil
+    112,    113,      0,       ,58 HOLLIS ST,Oil
+    112,    115,      0,       ,46 HOLLIS ST,Oil
+    112,    116,      0,       ,40 HOLLIS ST,Gas
+    112,    117,      0,       ,39 WILLOWDALE RD,Oil
+    112,    118,      0,       ,43 WILLOWDALE RD,Gas
+    112,    119,      0,       ,49 WILLOWDALE RD,Gas
+    112,    120,      0,       ,55-57 WILLOWDALE RD,Oil
+    112,    122,      0,       ,85 WILLOWDALE RD,Oil
+    112,    124,      0,       ,54 WILLOWDALE RD,Gas
+    112,    125,      0,       ,46 WILLOWDALE RD,Oil
+    112,    126,      0,       ,44 WILLOWDALE RD,Gas
+    112,    127,      0,       ,42 WILLOWDALE RD,Gas
+    112,    128,      0,       ,40 WILLOWDALE RD,Gas
+    112,    129,      0,       ,38 WILLOWDALE RD ,Gas
+    112,    130,      1,       ,36 WILLOWDALE RD,Gas
+    112,    133,      0,       ,24 HOLLIS ST,Oil
+    112,    134,      0,       ,20 HOLLIS ST ,Gas
+    112,    135,      0,       ,16 HOLLIS ST,Gas
+    112,    138,      0,       ,41 MAYFIELD DR,Gas
+    112,    139,      0,       ,49 MAYFIELD DR,Oil
+    112,    140,      0,       ,59 MAYFIELD DR,Gas
+    112,    142,      0,       ,60 MAYFIELD DR,Gas
+    112,    143,      0,       ,50 MAYFIELD DR,Oil
+    112,    144,      0,       ,40 MAYFIELD DR,Oil
+    112,    145,      0,       ,28 MAYFIELD DR,Gas
+    113,      2,      0,       ,176 MAIN ST,Oil
+    113,      3,      0,       ,172 MAIN ST,Oil
+    113,      4,      0,       ,164 MAIN ST,Gas
+    113,      5,      0,       ,154 MAIN ST,Oil
+    113,     11,      0,       ,11 LOWELL RD ,Electric
+    113,     13,      0,       ,71 MAIN ST,Gas
+    113,     14,      0,       ,79 MAIN ST,Oil
+    113,     15,      0,       ,85 MAIN ST,Oil
+    113,     16,      0,       ,95 MAIN ST,Gas
+    113,     20,      0,       ,113 MAIN ST,Oil
+    113,     21,      0,       ,13 BROADMEADOW RD,Gas
+    113,     22,      0,       ,17 BROADMEADOW RD,Oil
+    113,     24,      0,       ,127 BROADMEADOW RD,Gas
+    113,     25,      0,       ,107 BROADMEADOW RD,Gas
+    113,     26,      0,       ,117 BROADMEADOW RD,Gas
+    113,     27,      0,       ,137 BROADMEADOW RD ,Gas
+    113,     28,      0,       ,136 BROADMEADOW RD,Gas
+    113,     29,      0,       ,126 BROADMEADOW RD,Gas
+    113,     30,      0,       ,118 BROADMEADOW RD,Gas
+    113,     31,      0,       ,106 BROADMEADOW RD,Gas
+    113,     34,      0,       ,26 BROADMEADOW RD,Oil
+    113,     35,      0,       ,22-24 BROADMEADOW RD,Gas
+    113,     36,      0,       ,20 BROADMEADOW RD ,Gas
+    113,     37,      0,       ,18 BROADMEADOW RD,Oil
+    113,     38,      0,       ,16 BROADMEADOW RD,Gas
+    113,     40,      0,       ,117 MAIN ST ,Oil
+    113,     44,      0,       ,153 MAIN ST,Gas
+    113,     45,      0,       ,155-157 MAIN ST ,Oil
+    113,     49,      0,       ,11 STATION AVE,Oil
+    113,     50,      0,       ,17 STATION AVE,Gas
+    113,     57,      0,       ,28 STATION AVE ,Oil
+    113,     58,      0,       ,22 STATION AVE,Oil
+    113,     63,      0,       ,179 MAIN ST,Oil
+    113,     64,      0,       ,187 MAIN ST,Oil
+    113,     66,      0,       ,197 MAIN ST,Oil
+    113,     67,      0,       ,7 COURT ST,Oil
+    113,     68,      0,       ,11 COURT ST,Oil
+    113,     70,      0,       ,19 COURT ST,Gas
+    113,     71,      0,       ,21 COURT ST,Oil
+    113,     72,      0,       ,25 COURT ST,Oil
+    113,     73,      0,       ,31 COURT ST,Gas
+    113,     74,      0,       ,39 COURT ST ,Oil
+    113,     78,      0,       ,30 COURT ST,Gas
+    113,     79,      0,       ,26 COURT ST,Oil
+    113,     80,      0,       ,20 COURT ST,Oil
+    113,     81,      0,       ,16 COURT ST,Oil
+    113,     82,      0,       ,12 COURT ST ,Oil
+    113,     85,      0,       ,50 COURT ST,Oil
+    113,     89,      0,       ,22 ADAMS AVE,Oil
+    113,     90,      0,       ,23 WHISTLE POST LN,Oil
+    113,     91,      0,       ,21 WHISTLE POST LN,Oil
+    113,     93,      0,       ,18 WHISTLE POST LN,Oil
+    114,      1,      0,       ,23 OLD AYER RD ,Gas
+    114,      2,      0,       ,29 OLD AYER RD,Gas
+    114,      3,      0,       ,41 OLD AYER RD,Oil
+    114,      4,      0,       ,49 OLD AYER RD,Gas
+    114,      5,      0,       ,27 TEMPLE DR,Oil
+    114,      7,      0,       ,30 TEMPLE DR,Oil
+    114,      8,      0,       ,54 OLD AYER RD,Oil
+    114,      9,      0,       ,44 OLD AYER RD,Oil
+    114,     10,      0,       ,30 OLD AYER RD,Gas
+    114,     11,      0,       ,24 OLD AYER RD,Oil
+    114,     12,      0,       ,14 OLD AYER RD,Gas
+    114,     12,      0,       ,14 OLD AYER RD,Oil
+    114,     14,      0,       ,2 OLD AYER RD,Oil
+    114,     15,      0,       ,27 MAIN ST,Oil
+    114,     16,      0,       ,43 MAIN ST ,Oil
+    114,     17,      0,       ,53 MAIN ST,Oil
+    114,     17,      0,       ,53 MAIN ST,Oil
+    115,      1,      0,       ,36 MAIN ST,Oil
+    115,      2,      0,       ,14 MAIN ST,Oil
+    115,      2,      0,       ,14 MAIN ST,Oil
+    115,      3,      0,       ,21 BOSTON RD,Gas
+    115,      4,      0,       ,29 BOSTON RD,Oil
+    115,      5,      0,       ,35 BOSTON RD,Oil
+    115,      6,      0,       ,43 BOSTON RD,Oil
+    115,      7,      0,       ,49 BOSTON RD,Oil
+    115,      8,      0,       ,21 LOVERS LN,Oil
+    115,      9,      0,       ,17 LOVERS LN,Oil
+    115,     12,      0,       ,47 FAIRWAY DR,Oil
+    115,     13,      0,       ,59 FAIRWAY DR,Gas
+    115,     14,      0,       ,63 FAIRWAY DR,Gas
+    115,     15,      0,       ,69 FAIRWAY DR,Oil
+    115,     16,      0,       ,73 FAIRWAY DR,Gas
+    115,     17,      0,       ,75 FAIRWAY DR,Gas
+    115,     18,      0,       ,76 FAIRWAY DR ,Oil
+    115,     19,      0,       ,74 FAIRWAY DR ,Gas
+    115,     20,      0,       ,64 FAIRWAY DR,Oil
+    115,     21,      0,       ,62 FAIRWAY DR,Gas
+    115,     23,      0,       ,38 FAIRWAY DR,Oil
+    115,     24,      0,       ,24 FAIRWAY DR,Oil
+    115,     25,      0,       ,6 FAIRWAY DR ,Oil
+    115,     26,      0,       ,10 FAIRWAY DR,Oil
+    115,     27,      0,       ,35 LOVERS LN ,Oil
+    115,     28,      0,       ,39 LOVERS LN,Oil
+    115,     29,      0,       ,45 LOVERS LN,Oil
+    115,     30,      0,       ,65 LOVERS LN,Oil
+    115,     31,      0,       ,71 LOVERS LN,Oil
+    115,     35,      0,       ,52 LOVERS LN ,Oil
+    115,     38,      0,       ,28 BOSTON RD ,Gas
+    115,     39,      0,       ,26 BOSTON RD,Oil
+    116,      2,      0,       ,35 LOWELL RD,Oil
+    116,      3,      0,       ,55 LOWELL RD,Oil
+    116,      3,     12,       ,147 LOWELL RD ,Oil
+    116,      4,      0,       ,143 LOWELL RD,Oil
+    116,      5,      0,       ,145 LOWELL RD,Oil
+    116,      6,      0,       ,171 LOWELL RD,Oil
+    116,      7,      0,       ,172 LOWELL RD,Oil
+    116,      8,      0,       ,154 LOWELL RD,Oil
+    116,      9,      0,       ,92 LOWELL RD,Oil
+    116,     10,      0,       ,ACADEMY DR,Gas
+    116,     10,      0,       ,ACADEMY DR,Gas
+    116,     10,      0,       ,ACADEMY DR,Gas
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     11,   3172,       ,3 POWDERHOUSE RD,Oil
+    116,     12,      0,       ,86 MAIN ST,Oil
+    116,     12,      0,       ,86 MAIN ST,Oil
+    116,     12,      0,       ,86 MAIN ST,Oil
+    117,      1,      0,       ,16 OLD BOSTON RD,Gas
+    117,      2,      0,       ,1 OLD BOSTON RD,Solar Assisted
+    117,      3,      0,       ,15 OLD BOSTON RD,Oil
+    117,      6,      0,       ,41 GAY RD,Oil
+    117,      7,      0,       ,51 GAY RD ,Oil
+    117,      9,      0,       ,65 GAY RD ,Oil
+    117,     10,      0,       ,7 WHITAKER LN,Oil
+    117,     11,      0,       ,8 WHITAKER LN,Oil
+    117,     12,      0,       ,52 GAY RD,Oil
+    117,     15,      0,       ,1 PRESCOTT ST,Gas
+    117,     16,      0,       ,23 PRESCOTT ST,Oil
+    117,     17,      0,       ,33 PRESCOTT ST #A&B,Oil
+    117,     18,      0,       ,45 PRESCOTT ST,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Oil
+    117,     19,      0,       ,167 PRESCOTT ST ,Oil
+    117,     19,   3516,       ,PRESCOTT ST,Oil
+    117,     19,   3526,       ,8 PRESCOTT ST,Oil
+    117,     20,      0,       ,PRESCOTT ST,Gas
+    117,     20,      0,       ,PRESCOTT ST,Oil
+    117,     20,      0,       ,PRESCOTT ST,Oil
+    117,     22,      0,       ,52 PRESCOTT ST #A & B,Oil
+    117,     23,      0,       ,48 PRESCOTT ST,Gas
+    117,     25,      0,       ,399 BOSTON RD,Gas
+    117,     25,      1,       ,46 PRESCOTT ST,Gas
+    117,     27,      0,       ,385 BOSTON RD,Gas
+    117,     28,      0,       ,415 BOSTON RD,Oil
+    117,     29,      0,       ,419 BOSTON RD,Oil
+    117,     30,      0,       ,406 BOSTON RD,Gas
+    117,     31,      0,       ,392 BOSTON RD,Gas
+    118,      1,      0,       ,429 BOSTON RD,Oil
+    118,      2,      B,       ,451 BOSTON RD,Oil
+    118,      2,     1A,       ,441 BOSTON RD,Gas
+    118,      2,     2C,       ,461 BOSTON RD ,Gas
+    118,      3,      0,       ,469 BOSTON RD,Gas
+    118,      4,      0,       ,479 BOSTON RD ,Gas
+    118,      5,      0,       ,487 BOSTON RD,Gas
+    118,      6,      0,       ,499A-B BOSTON RD,Electric
+    118,     10,      0,       ,509A-B BOSTON RD,Electric
+    118,     12,      0,       ,5 LAKESIDE DR,Gas
+    118,     13,      0,       ,7 NATE NUTTING RD,Gas
+    118,     14,      0,       ,13 NATE NUTTING RD,Oil
+    118,     15,      0,       ,23 NATE NUTTING RD,Oil
+    118,     16,      0,       ,36 NATE NUTTING RD,Oil
+    118,     17,      0,       ,26 NATE NUTTING RD,Oil
+    118,     18,      0,       ,20 NATE NUTTING RD,Oil
+    118,     19,      0,       ,10 NATE NUTTING RD,Oil
+    118,     20,      0,       ,498 BOSTON RD,Oil
+    118,     22,      0,       ,496 BOSTON RD,Oil
+    118,     23,      0,       ,480 BOSTON RD,Oil
+    118,     24,      0,       ,474 BOSTON RD,Gas
+    118,     26,      0,       ,464 BOSTON RD,Gas
+    118,     27,      0,       ,446 BOSTON RD,Oil
+    119,      5,      0,       ,126 SANDY POND RD,Oil
+    119,      6,      0,       ,124 SANDY POND RD,Oil
+    119,      7,      0,       ,120 SANDY POND RD,Oil
+    119,      8,      0,       ,112 SANDY POND RD,Oil
+    120,      2,      3,       ,"34,36,38 SANDY POND RD #A,B,C",Gas
+    120,      2,      3,       ,"34,36,38 SANDY POND RD #A,B,C",Gas
+    120,      2,      3,       ,"34,36,38 SANDY POND RD #A,B,C",Gas
+    120,      2,      5,       ,144 ROBIN HILL RD,Oil
+    120,      2,      6,       ,140 ROBIN HILL RD ,Gas
+    120,      2,      7,       ,150 MOCKINGBIRD HILL RD ,Gas
+    120,      2,      8,       ,18 MOCKINGBIRD HILL RD,Gas
+    120,      2,      9,       ,16 MOCKINGBIRD HILL RD,Gas
+    120,      2,     10,       ,14 MOCKINGBIRD HILL RD,Gas
+    120,      2,     11,       ,12 MOCKINGBIRD HILL RD ,Gas
+    120,      2,     13,       ,8 MOCKINGBIRD HILL RD ,Gas
+    120,      2,     14,       ,6 MOCKINGBIRD HILL RD,Gas
+    120,      2,     15,       ,4 MOCKINGBIRD HILL RD,Gas
+    120,      2,     16,      2,2 ORIOLE DR ,Gas
+    120,      2,     16,     11,11 ORIOLE DR ,Gas
+    120,      2,     16,     12,12 ORIOLE DR ,Gas
+    120,      2,     16,     15,15 ORIOLE DR ,Gas
+    120,      2,     16,     19,19 ORIOLE DR ,Gas
+    120,      2,     16,     20,20 ORIOLE DR ,Gas
+    120,      2,     16,     31,31 ORIOLE DR ,Gas
+    120,      2,     16,     39,39 ORIOLE DR ,Gas
+    120,      2,     16,     3A,3A&B ORIOLE DR ,Gas
+    120,      2,     17,       ,3 MOCKINGBIRD HILL RD,Oil
+    120,      2,     18,       ,5 MOCKINGBIRD HILL RD,Gas
+    120,      2,     19,       ,7 MOCKINGBIRD HILL RD,Gas
+    120,      2,     20,       ,9 MOCKINGBIRD HILL RD,Gas
+    120,      2,     21,       ,108 ROBIN HILL RD,Gas
+    120,      2,     22,       ,1 MOCKINGBIRD HILL RD,Gas
+    120,      2,     23,       ,92 ROBIN HILL RD,Gas
+    120,      2,     24,       ,84 ROBIN HILL RD,Gas
+    120,      2,     25,       ,76 ROBIN HILL RD ,Gas
+    120,      2,     26,       ,2 MOCKINGBIRD HILL RD ,Gas
+    120,      2,     28,       ,9 CARDINAL LN,Gas
+    120,      2,     29,       ,17 CARDINAL LN,Gas
+    120,      2,     30,       ,22 CARDINAL LN,Gas
+    120,      2,     31,       ,12 CARDINAL LN,Gas
+    120,      2,     34,       ,17 QUAIL RIDGE RD,Gas
+    120,      2,     35,       ,25 QUAIL RIDGE RD,Gas
+    120,      2,     36,       ,22 QUAIL RIDGE RD,Gas
+    120,      2,     37,       ,20 QUAIL RIDGE RD ,Gas
+    120,      2,     38,       ,12 QUAIL RIDGE RD,Gas
+    120,      2,     39,       ,87 ROBIN HILL RD,Gas
+    120,      2,     40,      B,121 ROBIN HILL RD,Gas
+    120,      2,     41,       ,123 ROBIN HILL RD,Gas
+    120,      2,     42,       ,131 ROBIN HILL RD,Oil
+    120,      2,     44,       ,141 ROBIN HILL RD,Oil
+    121,      1,      0,       ,563 BOSTON RD,Oil
+    121,      2,      0,       ,573 BOSTON RD,Gas
+    121,      3,      0,       ,1 OLD LANTERN LN,Gas
+    121,      4,      0,       ,11 OLD LANTERN LN,Gas
+    121,      5,      0,       ,15 OLD LANTERN LN,Gas
+    121,      6,      0,       ,19 OLD LANTERN LN,Oil
+    121,      7,      0,       ,25 OLD LANTERN LN,Oil
+    121,      8,      0,       ,35 OLD LANTERN LN,Oil
+    121,     10,      2,       ,38 OLD LANTERN LN,Gas
+    121,     11,      0,       ,58 OLD LANTERN LN,Gas
+    121,     12,      0,       ,60 OLD LANTERN LN,Oil
+    121,     12,      0,       ,60 OLD LANTERN LN,Oil
+    121,     15,      0,       ,611 BOSTON RD,Gas
+    121,     18,      0,       ,5 OXBOW LN,Gas
+    121,     19,      0,       ,15 OXBOW LN,Oil
+    121,     20,      0,       ,27 OXBOW LN,Oil
+    121,     21,      0,       ,35 OXBOW LN,Oil
+    121,     23,      0,       ,43 OXBOW LN,Oil
+    121,     24,      0,       ,36 OXBOW LN,Oil
+    121,     25,      0,       ,28 OXBOW LN,Oil
+    121,     26,      0,       ,16 OXBOW LN ,Oil
+    121,     27,      0,       ,2 OXBOW LN,Oil
+    121,     29,      0,       ,17 LAUREL LN,Oil
+    121,     30,      0,       ,33 LAUREL LN,Oil
+    121,     31,      0,       ,39 LAUREL LN,Oil
+    121,     32,      0,       ,43 LAUREL LN,Oil
+    121,     33,      0,       ,46 LAUREL LN,Oil
+    121,     35,      0,       ,10 LAUREL LN,Oil
+    121,     36,      0,       ,4 LAUREL LN,Oil
+    121,     37,      0,       ,69 SHELTERS RD,Gas
+    121,     39,      0,       ,141 SHELTERS RD,Gas
+    121,     40,      0,       ,176 SHELTERS RD ,Gas
+    121,     41,      0,       ,174 SHELTERS RD,Oil
+    121,     42,      0,       ,172 SHELTERS RD,Oil
+    121,     43,      0,       ,168 SHELTERS RD,Gas
+    121,     44,      0,       ,162 SHELTERS RD,Oil
+    121,     45,      0,       ,156 SHELTERS RD,Oil
+    121,     46,      0,       ,144 SHELTERS RD,Gas
+    121,     47,      0,       ,134 SHELTERS RD,Oil
+    121,     48,      0,       ,670 BOSTON RD,Oil
+    121,     49,      0,       ,660 BOSTON RD,Electric
+    121,     50,      0,       ,658 BOSTON RD,Oil
+    121,     51,      0,       ,640 BOSTON RD,Oil
+    121,     54,      0,       ,628 BOSTON RD,Oil
+    121,     55,      0,       ,624 BOSTON RD,Oil
+    121,     56,      0,       ,620 BOSTON RD,Oil
+    121,     57,      0,       ,604 BOSTON RD,Oil
+    121,     58,      0,       ,602 BOSTON RD,Oil
+    121,     59,      0,       ,600 BOSTON RD,Oil
+    121,     61,      0,       ,580 BOSTON RD,Gas
+    121,     62,      0,       ,3 AUGUSTINE RD,Oil
+    121,     63,      0,       ,5 AUGUSTINE RD,Electric
+    121,     64,      0,       ,4 AUGUSTINE RD,Oil
+    121,     65,      0,       ,9 QUAIL RIDGE RD,Gas
+    121,     66,      0,       ,25 CARDINAL LN,Gas
+    121,     67,      0,       ,29 CARDINAL LN,Gas
+    121,     68,      0,       ,32 CARDINAL LN,Gas
+    121,     69,      0,       ,10 ROBIN HILL RD,Oil
+    122,      2,      0,       ,3 SUMMIT AVE ,Oil
+    122,      3,      0,       ,7 SUMMIT AVE,Oil
+    122,      5,      0,       ,85 BIRCHWOOD AVE,Oil
+    122,      7,      0,       ,93 BIRCHWOOD AVE,Gas
+    122,     10,      0,       ,95 BIRCHWOOD AVE ,Oil
+    122,     11,      0,       ,97 BIRCHWOOD AVE,Oil
+    122,     12,      0,       ,7 HAZELWOOD AVE,Oil
+    122,     13,      0,       ,8 HAZELWOOD AVE,Coal or Wood
+    122,     14,      0,       ,6 HAZELWOOD AVE,Electric
+    122,     15,      0,       ,31 MAPLEWOOD AVE,Oil
+    122,     19,      0,       ,MAPLEWOOD AVE,Gas
+    122,     21,      0,       ,72 MAPLEWOOD AVE,Gas
+    122,     22,      0,       ,78 MAPLEWOOD AVE,Gas
+    122,     23,      0,       ,84 MAPLEWOOD AVE ,Coal or Wood
+    122,     26,      0,       ,44 MAPLEWOOD AVE,Gas
+    122,     27,      0,       ,40 MAPLEWOOD AVE,Oil
+    122,     28,      0,       ,36 MAPLEWOOD AVE ,Oil
+    122,     29,      0,       ,10 ENGLEWOOD AVE,Oil
+    122,     31,      0,       ,112 BIRCHWOOD AVE,Oil
+    122,     32,      0,       ,4 ENGLEWOOD AVE,Oil
+    122,     33,      0,       ,6 ENGLEWOOD AVE,Oil
+    122,     36,      0,       ,22 BIRCHWOOD AVE ,Gas
+    122,     39,      0,       ,4 BIRCHWOOD AVE,Gas
+    122,     41,      0,       ,9-A-B BIRCHWOOD AVE,Oil
+    122,     44,      0,       ,33 BIRCHWOOD AVE,Oil
+    122,     45,      0,       ,37 BIRCHWOOD AVE,Oil
+    122,     48,      0,       ,9-11 LAKESIDE DR,Oil
+    122,     50,      0,       ,25 LAKESIDE DR,Oil
+    122,     52,      0,       ,31 LAKESIDE DR,Gas
+    122,     53,      0,       ,41 LAKESIDE DR,Gas
+    122,     54,      0,       ,49 LAKESIDE DR,Oil
+    122,     55,      0,       ,57 LAKESIDE DR,Oil
+    122,     57,      0,       ,25 RIDGEWOOD AVE ,Gas
+    122,     58,      0,       ,33 RIDGEWOOD AVE,Oil
+    122,     59,      0,       ,39 RIDGEWOOD AVE,Oil
+    122,     62,      0,       ,61 RIDGEWOOD AVE,Oil
+    122,     68,      0,       ,66 RIDGEWOOD AVE,Gas
+    122,     70,      0,       ,54 RIDGEWOOD AVE,Oil
+    122,     71,      0,       ,42 RIDGEWOOD AVE,Oil
+    122,     72,      0,       ,38 RIDGEWOOD AVE,Electric
+    122,     73,      0,       ,28 RIDGEWOOD AVE,Oil
+    122,     74,      0,       ,16 RIDGEWOOD AVE ,Gas
+    122,     75,      0,       ,14 RIDGEWOOD AVE,Gas
+    122,     76,      0,       ,69 LAKESIDE DR,Gas
+    122,     78,      0,       ,80 LAKESIDE DR,Oil
+    122,     79,      0,       ,70 LAKESIDE DR,Gas
+    122,     80,      0,       ,64 LAKESIDE DR,Gas
+    122,     81,      0,       ,44 LAKESIDE DR,Oil
+    122,     82,      0,       ,40 LAKESIDE DR,Gas
+    122,     83,      0,       ,32 LAKESIDE DR,Gas
+    122,     84,      0,       ,26 LAKESIDE DR,Oil
+    122,     85,      0,       ,14 LAKESIDE DR,Gas
+    122,     86,      0,       ,2 LAKESIDE DR,Oil
+    122,     87,      0,       ,555 BOSTON RD,Gas
+    122,     88,      0,       ,62 ISLAND RD,Gas
+    122,     89,      0,       ,60 ISLAND RD,Gas
+    122,     93,      0,       ,52 ISLAND RD,Gas
+    122,     94,      0,       ,50 ISLAND RD,Gas
+    122,     99,      0,       ,28 ISLAND RD,Oil
+    122,    105,      0,       ,102 WEYMISSET RD ,Gas
+    122,    107,      0,       ,26 RADIO RD,Oil
+    122,    110,      0,       ,OFF RIDGEWOOD AVE,Electric
+    123,      1,      0,       ,3 OFF PRESCOTT ST,Electric
+    123,      2,      0,       ,39 OFF PRESCOTT ST,Gas
+    123,      3,      0,       ,37 OFF PRESCOTT ST,Electric
+    123,      4,      0,       ,47 OFF PRESCOTT ST,Oil
+    123,      5,      0,       ,49 OFF PRESCOTT ST,Gas
+    123,      6,      0,       ,54 OFF PRESCOTT ST,Gas
+    123,      7,      0,       ,52 OFF PRESCOTT ST,Oil
+    123,      9,      0,       ,3 HIGHLAND RD,Oil
+    123,     10,      0,       ,11 HIGHLAND RD,Solar Assisted
+    123,     11,      0,       ,26 HIGHLAND RD,Oil
+    123,     12,      0,       ,20 HIGHLAND RD,Gas
+    123,     14,      0,       ,12 HIGHLAND RD,Gas
+    123,     17,      0,       ,10 RUSTIC TRL,Coal or Wood
+    123,     17,      0,       ,10 RUSTIC TRL,Oil
+    123,     18,      0,       ,14 RUSTIC TRL,Oil
+    123,     25,      0,       ,74 WEYMISSET RD,Oil
+    123,     30,      0,       ,100 BOATHOUSE RD,Coal or Wood
+    124,      2,      0,       ,34 LONGFELLOW RD,Oil
+    124,      3,      0,       ,30 LONGFELLOW RD,Oil
+    124,      6,      0,       ,21 CEDAR RD,Oil
+    124,      9,      0,       ,CEDAR RD,Oil
+    124,     10,      0,       ,16 CEDAR RD,Oil
+    124,     11,      0,       ,10 CEDAR RD,Oil
+    124,     12,      0,       ,210 LOST LAKE DR,Oil
+    124,     13,      0,       ,206 LOST LAKE DR,Oil
+    124,     15,      0,       ,9 TAVERN RD,Gas
+    124,     16,      0,       ,15 TAVERN RD,Gas
+    124,     17,      0,       ,25 TAVERN RD,Gas
+    124,     21,      4,       ,41 TAVERN RD,Gas
+    124,     21,      5,       ,43 TAVERN RD,Gas
+    124,     21,      6,       ,71 TAVERN RD,Gas
+    124,     24,      0,       ,119 TAVERN RD,Gas
+    124,     24,      1,       ,90 TAVERN RD ,Solar Assisted
+    124,     25,      1,       ,50 TAVERN RD,Gas
+    124,     25,      2,       ,72 TAVERN RD,Oil
+    124,     25,      3,       ,78 TAVERN RD,Gas
+    124,     26,      0,       ,42 TAVERN RD,Oil
+    124,     27,      0,       ,40 TAVERN RD,Oil
+    124,     28,      0,       ,38 TAVERN RD,Gas
+    124,     30,      0,       ,16A-16B TAVERN RD ,Oil
+    124,     32,      0,       ,8 TAVERN RD,Gas
+    124,     36,      0,       ,23 INDIAN RD,Oil
+    124,     37,      0,       ,25 INDIAN RD ,Gas
+    124,     38,      0,       ,33 INDIAN RD,Coal or Wood
+    124,     39,      0,       ,35 INDIAN RD,Electric
+    124,     40,      0,       ,41 INDIAN RD,Electric
+    124,     41,      0,       ,47 INDIAN RD,Oil
+    124,     42,      0,       ,55 INDIAN RD,Electric
+    124,     44,      0,       ,58 INDIAN RD,Gas
+    124,     46,      0,       ,48 INDIAN RD,Electric
+    124,     50,      0,       ,34 INDIAN RD,Oil
+    124,     52,      0,       ,32 INDIAN RD,Oil
+    124,     54,      0,       ,24 INDIAN RD,Gas
+    124,     56,      0,       ,15 WHITEWOOD RD,Gas
+    124,     57,      0,       ,23 WHITEWOOD RD,Coal or Wood
+    124,     57,      0,       ,23 WHITEWOOD RD,Coal or Wood
+    124,     61,      0,       ,29 WHITEWOOD RD,Oil
+    124,     76,      0,       ,28 WHITEWOOD RD,Gas
+    124,     77,      0,       ,22 WHITEWOOD RD,Oil
+    124,     78,      0,       ,23 CYPRESS RD,Oil
+    124,     79,      0,       ,27 CYPRESS RD,Oil
+    125,      1,      0,       ,29 LOST LAKE DR,Oil
+    125,      2,      0,       ,39 LOST LAKE DR,Oil
+    125,      3,      0,       ,65 LOST LAKE DR,Oil
+    125,      5,      0,       ,75 LOST LAKE DR,Oil
+    125,      6,      0,       ,LOWELL RD,Gas
+    125,      9,      0,       ,89 LOST LAKE DR,Oil
+    125,     12,      0,       ,95 BEECHER RD,Oil
+    125,     13,      0,       ,103 LOST LAKE DR,Gas
+    125,     15,      0,       ,105 LOST LAKE DR ,Electric
+    125,     17,      0,       ,15 CHESTNUT RD,Oil
+    125,     19,      0,       ,10 CHESTNUT RD,Oil
+    125,     20,      0,       ,4-6 CHESTNUT RD #A&B,Oil
+    125,     22,      0,       ,7 HAZEL RD,Oil
+    125,     23,      0,       ,9 HAZEL RD,Oil
+    125,     24,      0,       ,21 HAZEL RD,Oil
+    125,     25,      0,       ,22 HAZEL RD,Gas
+    125,     26,      0,       ,8 HAZEL RD,Oil
+    125,     27,      0,       ,2 HAZEL RD,Oil
+    125,     29,      0,       ,123 LOST LAKE DR,Oil
+    125,     30,      0,       ,127 LOST LAKE DR,Electric
+    125,     31,      0,       ,25 SKINNERS LN,Oil
+    125,     33,      0,       ,28 SKINNERS LN,Oil
+    125,     35,      0,       ,12 SKINNERS LN,Oil
+    125,     36,      0,       ,8 SKINNERS LN,Oil
+    125,     41,      0,       ,19 SPRUCE RD,Oil
+    125,     42,      0,       ,23 SPRUCE RD,Oil
+    125,     43,      0,       ,29 SPRUCE RD,Oil
+    125,     45,      0,       ,26 SPRUCE RD,Gas
+    125,     46,      0,       ,14 SPRUCE RD,Oil
+    125,     47,      0,       ,10 SPRUCE RD,Oil
+    125,     48,      0,       ,145 LOST LAKE DR,Oil
+    125,     49,      0,       ,7 HEMLOCK RD,Oil
+    125,     50,      0,       ,13 HEMLOCK RD ,Oil
+    125,     51,      0,       ,15 HEMLOCK RD,Oil
+    125,     53,      0,       ,25 HEMLOCK RD ,Oil
+    125,     57,      0,       ,30 HEMLOCK RD ,Electric
+    125,     58,      0,       ,24 HEMLOCK RD,Electric
+    125,     59,      0,       ,16 HEMLOCK RD,Oil
+    125,     60,      0,       ,14 HEMLOCK RD ,Oil
+    125,     61,      0,       ,12 HEMLOCK RD,Oil
+    125,     63,      0,       ,159 LOST LAKE DR,Oil
+    125,     64,      0,       ,7 FIR RD,Oil
+    125,     65,      0,       ,15 FIR RD,Oil
+    125,     69,      0,       ,25 FIR RD,Gas
+    125,     70,      0,       ,31 FIR RD,Oil
+    125,     71,      0,       ,28 FIR RD,Oil
+    125,     73,      0,       ,24 FIR RD,Oil
+    125,     76,      0,       ,14 FIR RD,Oil
+    125,     79,      0,       ,FIR RD,Coal or Wood
+    125,     81,      0,       ,4 FIR RD,Oil
+    125,     82,      0,       ,175 LOST LAKE DR,Oil
+    125,     85,      0,       ,194 LOST LAKE DR,Gas
+    125,     87,      0,       ,10 INDIAN RD,Oil
+    125,     88,      0,       ,186 LOST LAKE DR,Electric
+    125,     89,      0,       ,9 WHITEWOOD RD,Oil
+    125,     90,      0,       ,11 WHITEWOOD RD ,Oil
+    125,     91,      0,       ,14 WHITEWOOD RD,Oil
+    125,     93,      0,       ,176 LOST LAKE DR,Oil
+    125,     94,      0,       ,174 LOST LAKE DR,Oil
+    125,     95,      0,       ,5 CYPRESS RD,Oil
+    125,     97,      0,       ,9 CYPRESS RD,Gas
+    125,     98,      0,       ,11 CYPRESS RD,Oil
+    125,     99,      0,       ,19 CYPRESS RD,Oil
+    125,    100,      0,       ,20 CYPRESS RD,Oil
+    125,    102,      0,       ,14 CYPRESS RD,Gas
+    125,    103,      0,       ,12 CYPRESS RD,Oil
+    125,    104,      0,       ,10 CYPRESS RD,Gas
+    125,    107,      0,       ,158 LOST LAKE DR,Oil
+    125,    109,      0,       ,15 RHODENDA RD,Oil
+    125,    111,      0,       ,11 RHODENDA RD,Oil
+    125,    113,      0,       ,148 LOST LAKE DR,Oil
+    125,    114,      0,       ,144 LOST LAKE DR,Oil
+    125,    117,      0,       ,9 LOOMIS LN,Gas
+    125,    119,      0,       ,8 LOOMIS LN ,Oil
+    125,    120,      0,       ,136 LOST LAKE DR,Oil
+    125,    122,      0,       ,120 LOST LAKE DR,Gas
+    125,    123,      0,       ,124 LOST LAKE DR,Oil
+    125,    125,      0,       ,114 LOST LAKE DR,Oil
+    125,    126,      0,       ,9 CHESTNUT RD,Electric
+    125,    130,      0,       ,5 CHESTNUT RD,Oil
+    125,    131,      0,       ,104 LOST LAKE DR,Oil
+    125,    132,      0,       ,100 LOST LAKE DR,Oil
+    125,    133,      0,       ,9 BEECHER RD,Oil
+    125,    135,      0,       ,8 BEECHER RD ,Oil
+    125,    137,      0,       ,84 LOST LAKE DR,Oil
+    125,    138,      0,       ,64 LOST LAKE DR,Electric
+    125,    139,      0,       ,7 OTTER LN,Oil
+    125,    140,      0,       ,11 OTTER LN,Oil
+    125,    141,      0,       ,17 OTTER LN,Oil
+    125,    142,      0,       ,19 OTTER LN,Oil
+    125,    143,      0,       ,20 OTTER LN,Oil
+    125,    144,      0,       ,18 OTTER LN,Oil
+    125,    145,      0,       ,16 OTTER LN,Oil
+    125,    146,      0,       ,12 OTTER LN,Oil
+    125,    147,      0,       ,8 OTTER LN,Oil
+    125,    148,      0,       ,40 LOST LAKE DR,Oil
+    125,    149,      0,       ,30 LOST LAKE DR,Oil
+    126,      1,      0,       ,48 HEMLOCK PARK DR ,Oil
+    126,      2,      0,       ,503 LOWELL RD,Oil
+    126,      3,      0,       ,523 LOWELL RD,Oil
+    126,      4,      0,       ,533 LOWELL RD,Oil
+    126,      5,      0,       ,35 BADDACOOK POND RD,Oil
+    126,      9,      0,       ,32 BADDACOOK POND RD,Oil
+    126,     10,      0,       ,26 BADDACOOK POND RD ,Oil
+    126,     12,      0,       ,577 LOWELL RD,Oil
+    126,     14,      0,       ,583 LOWELL RD ,Oil
+    126,     15,      0,       ,601 LOWELL RD ,Oil
+    126,     17,      0,       ,15 ALLENS TRL,Oil
+    126,     18,      0,       ,19 ALLENS TRL ,Oil
+    126,     19,      0,       ,29 ALLENS TRL,Oil
+    126,     22,      0,       ,37 ALLENS TRL,Oil
+    126,     23,      0,       ,47 ALLENS TRL,Oil
+    126,     24,      0,       ,49 ALLENS TRL,Oil
+    126,     25,      0,       ,51 ALLENS TRL,Oil
+    126,     26,      0,       ,55 ALLENS TRL,Oil
+    126,     27,      0,       ,52 ALLENS TRL,Oil
+    126,     29,      0,       ,48 ALLENS TRL,Oil
+    126,     30,      0,       ,40 ALLENS TRL,Oil
+    126,     31,      0,       ,30 ALLENS TRL,Oil
+    126,     32,      0,       ,22 ALLENS TRL ,Gas
+    126,     35,      0,       ,594 LOWELL RD,Oil
+    126,     36,      0,       ,582 LOWELL RD,Oil
+    126,     37,      0,       ,578 LOWELL RD,Oil
+    126,     38,      0,       ,568 LOWELL RD,Gas
+    126,     39,      0,       ,556 LOWELL RD,Electric
+    126,     40,      0,       ,552 LOWELL RD ,Oil
+    126,     41,      0,       ,538 LOWELL RD,Oil
+    126,     42,      0,       ,530 LOWELL RD,Oil
+    126,     43,      0,       ,516 LOWELL RD,Oil
+    126,     44,      0,       ,508 LOWELL RD,Oil
+    127,      1,      0,       ,37 BURNTMEADOW RD,Gas
+    127,      2,      0,       ,56 BURNTMEADOW RD,Gas
+    127,      3,      0,       ,48 BURNTMEADOW RD,Oil
+    127,      4,      0,       ,36 BURNTMEADOW RD,Oil
+    127,      5,      0,       ,30 BURNTMEADOW RD,Oil
+    127,      6,      0,       ,22 BURNTMEADOW RD,Oil
+    127,      7,      0,       ,715 LOWELL RD,Oil
+    127,      8,      0,       ,717 LOWELL RD,Oil
+    127,      9,      0,       ,747 LOWELL RD ,Oil
+    127,      9,      0,       ,747 LOWELL RD ,Oil
+    127,     11,      0,       ,751 LOWELL RD,Oil
+    127,     13,      0,       ,3 FAWN TERRACE LN,Oil
+    127,     14,      0,       ,5 FAWN TERRACE LN ,Oil
+    127,     15,      0,       ,9 FAWN TERRACE LN,Oil
+    127,     16,      0,       ,17 FAWN TERRACE LN,Oil
+    127,     17,      0,       ,23 FAWN TERRACE LN,Oil
+    127,     18,      0,       ,31 FAWN TERRACE LN,Oil
+    127,     19,      0,       ,37 FAWN TERRACE LN,Oil
+    127,     20,      0,       ,43 FAWN TERRACE LN,Oil
+    127,     21,      0,       ,73 DEERFIELD DR,Oil
+    127,     22,      0,       ,77 DEERFIELD DR,Oil
+    127,     23,      0,       ,3 ALLISON PARK,Oil
+    127,     24,      0,       ,5 ALLISON PARK,Oil
+    127,     25,      0,       ,6 ALLISON PARK,Oil
+    127,     26,      0,       ,4 ALLISON PARK,Oil
+    127,     27,      0,       ,2 ALLISON PARK,Oil
+    127,     28,      0,       ,78 DEERFIELD DR ,Oil
+    127,     29,      0,       ,76 DEERFIELD DR,Oil
+    127,     30,      0,       ,72 DEERFIELD DR,Oil
+    127,     31,      0,       ,36 FAWN TERRACE LN,Oil
+    127,     32,      0,       ,18 FAWN TERRACE LN,Oil
+    127,     34,      0,       ,4 FAWN TERRACE LN,Oil
+    127,     35,      0,       ,39 DEERFIELD DR,Oil
+    127,     37,      0,       ,38 DEERFIELD DR,Oil
+    127,     38,      0,       ,28 DEERFIELD DR,Oil
+    127,     39,      0,       ,12 DEERFIELD DR,Oil
+    127,     42,      0,       ,798 LOWELL RD ,Oil
+    127,     43,      0,       ,794 LOWELL RD,Oil
+    127,     44,      0,       ,790 LOWELL RD,Electric
+    127,     45,      0,       ,736 LOWELL RD ,Oil
+    127,     46,      0,       ,738 LOWELL RD,Oil
+    127,     47,      0,       ,716 LOWELL RD,Oil
+    127,     48,      0,       ,666 LOWELL RD,Gas
+    128,      1,      0,       ,819 LOWELL RD,Oil
+    128,      2,      0,       ,841 LOWELL RD,Oil
+    128,      3,      0,       ,836 LOWELL RD,Oil
+    128,      5,      0,       ,808 LOWELL RD,Oil
+    128,      8,      0,       ,49 VALLEY RD,Electric
+    128,     10,      0,       ,60 VALLEY RD,Coal or Wood
+    128,     12,      0,       ,50 VALLEY RD,Gas
+    129,      2,      0,       ,241 LOST LAKE DR,Oil
+    129,      7,      0,       ,243 LOST LAKE DR,Oil
+    129,      7,      0,       ,243 LOST LAKE DR,Oil
+    129,      8,      0,       ,245 LOST LAKE DR,Oil
+    129,      9,      0,       ,265 LOST LAKE DR,Oil
+    129,     10,      0,       ,271 LOST LAKE DR,Oil
+    129,     14,      0,       ,277 LOST LAKE DR,Oil
+    129,     17,      0,       ,5 RIDGE RD,Oil
+    129,     26,      0,       ,53 VALLEY RD,Oil
+    129,     29,      0,       ,36 GEORGIA RD ,Oil
+    129,     32,      0,       ,9 VALLEY RD,Gas
+    129,     33,      0,       ,13 VALLEY RD,Oil
+    129,     34,      0,       ,21 VALLEY RD,Oil
+    129,     35,      0,       ,9 GEORGIA RD ,Coal or Wood
+    129,     38,      0,       ,14 VALLEY RD,Coal or Wood
+    129,     39,      0,       ,8 VALLEY RD,Oil
+    129,     40,      0,       ,4 VALLEY RD,Coal or Wood
+    129,     44,      0,       ,315 LOST LAKE DR,Gas
+    129,     50,      0,       ,17 WHITNEY POND RD,Oil
+    129,     53,      0,       ,23 WHITNEY POND RD,Gas
+    129,     54,      0,       ,25 WHITNEY POND RD,Gas
+    129,     56,      0,       ,27 WHITNEY POND RD,Gas
+    129,     58,      0,       ,35 WHITNEY POND RD,Electric
+    129,     61,      0,       ,22 WHITNEY POND RD,Coal or Wood
+    129,     64,      0,       ,14 WHITNEY POND RD,Coal or Wood
+    129,     68,      0,       ,20 WHITNEY POND RD,Gas
+    129,     70,      0,       ,19 LONE LN,Oil
+    129,     75,      0,       ,2 LONG COPE RD #A-B,Oil
+    129,     84,      0,       ,28 LONE LN #A-B,Oil
+    129,     90,      0,       ,8 LONE LN ,Oil
+    129,     92,      0,       ,4 LONE LN,Gas
+    129,     93,      0,       ,333 LOST LAKE DR,Oil
+    129,    109,      0,       ,365 LOST LAKE DR,Oil
+    129,    111,      0,       ,409 LOST LAKE DR,Oil
+    129,    112,      0,       ,11 PINE TRL,Oil
+    129,    116,      0,       ,374 LOST LAKE DR,Oil
+    129,    118,      0,       ,31 PINE TRL,Oil
+    129,    119,      0,       ,35 PINE TRL,Oil
+    129,    124,      0,       ,18 PINE TRL,Oil
+    129,    126,      0,       ,8 PINE TRL,Oil
+    129,    128,      0,       ,17 MOUNTAIN LAKES TRL ,Oil
+    129,    129,      0,       ,21 MOUNTAIN LAKES TRL ,Gas
+    129,    130,      0,       ,29 MOUNTAIN LAKES TRL ,Oil
+    129,    131,      0,       ,39 MOUNTAIN LAKES TRL ,Oil
+    129,    132,      0,       ,41 MOUNTAIN LAKES TRL ,Oil
+    129,    136,      0,       ,52 MOUNTAIN LAKES TRL ,Electric
+    129,    139,      0,       ,48 MOUNTAIN LAKES TRL ,Oil
+    129,    140,      0,       ,46 MOUNTAIN LAKES TRL ,Oil
+    129,    141,      0,       ,40 MOUNTAIN LAKES TRL ,Gas
+    129,    142,      0,       ,38 MOUNTAIN LAKES TRL ,Oil
+    129,    145,      0,       ,36 MOUNTAIN LAKES TRL ,Oil
+    129,    146,      0,       ,28 MOUNTAIN LAKES TRL ,Gas
+    129,    147,      0,       ,22 MOUNTAIN LAKES TRL ,Oil
+    129,    149,      0,       ,16 MOUNTAIN LAKES TRL ,Oil
+    129,    150,      0,       ,10 MOUNTAIN LAKES TRL ,Gas
+    129,    151,      0,       ,8 MOUNTAIN LAKES TRL ,Oil
+    129,    153,      0,       ,6 MOUNTAIN LAKES TRL ,Oil
+    129,    155,      0,       ,338 LOST LAKE DR,Oil
+    129,    156,      0,       ,330 LOST LAKE DR,Oil
+    129,    157,      0,       ,302 LOST LAKE DR,Oil
+    129,    158,      0,       ,5 BABY BEACH RD,Coal or Wood
+    129,    159,      0,       ,7 BABY BEACH RD,Gas
+    129,    163,      0,       ,19 BABY BEACH RD ,Gas
+    129,    166,      0,       ,29 BABY BEACH RD,Oil
+    129,    168,      0,       ,34 BABY BEACH RD ,Gas
+    129,    169,      0,       ,30 BABY BEACH RD,Electric
+    129,    179,      0,       ,25 ROSS RD,Oil
+    129,    183,      0,       ,1 BOATHOUSE RD,Gas
+    129,    184,      0,       ,7 BOATHOUSE RD,Gas
+    129,    185,      0,       ,11 BOATHOUSE RD,Gas
+    129,    190,      0,       ,29 BOATHOUSE RD,Oil
+    129,    191,      0,       ,37 BOATHOUSE RD ,Gas
+    129,    196,      0,       ,47 BOATHOUSE RD,Gas
+    129,    197,      0,       ,49 BOATHOUSE RD,Coal or Wood
+    129,    199,      0,       ,63 BOATHOUSE RD,Coal or Wood
+    129,    201,      0,       ,65 BOATHOUSE RD,Oil
+    129,    202,      0,       ,67 BOATHOUSE RD,Oil
+    129,    204,      0,       ,69 BOATHOUSE RD,Oil
+    129,    205,      0,       ,77 BOATHOUSE RD,Gas
+    129,    208,      0,       ,85 BOATHOUSE RD,Oil
+    129,    209,      0,       ,89 BOATHOUSE RD,Gas
+    129,    210,      0,       ,91 BOATHOUSE RD,Coal or Wood
+    129,    211,      0,       ,88 BOATHOUSE RD,Coal or Wood
+    129,    214,      0,       ,72 BOATHOUSE RD ,Coal or Wood
+    129,    225,      0,       ,28 BOATHOUSE RD,Gas
+    129,    227,      0,       ,14 BOATHOUSE RD,Oil
+    129,    229,      0,       ,6 BOATHOUSE RD,Oil
+    129,    230,      0,       ,288 LOST LAKE DR ,Oil
+    129,    232,      0,       ,5A BALSAM WALK ,Electric
+    129,    233,      0,       ,11 BALSAM WALK,Oil
+    129,    234,      0,       ,19 BALSAM WALK,Oil
+    129,    236,      0,       ,14 BALSAM WALK,Oil
+    129,    240,      0,       ,242 LOST LAKE DR,Oil
+    129,    241,      0,       ,7 ARROW TRL,Oil
+    129,    242,      0,       ,15 ARROW TRL,Oil
+    129,    243,      0,       ,27 ARROW TRL,Oil
+    129,    244,      0,       ,29 ARROW TRL ,Oil
+    129,    251,      0,       ,50 ARROW TRL,Gas
+    129,    252,      0,       ,46 ARROW TRL,Coal or Wood
+    129,    258,      0,       ,40 ARROW TRL,Gas
+    129,    260,      0,       ,34 ARROW TRL,Gas
+    129,    261,      0,       ,30 ARROW TRL,Gas
+    129,    264,      0,       ,22 ARROW TRL,Oil
+    129,    265,      0,       ,6 ARROW TRL,Gas
+    129,    267,      0,       ,230 LOST LAKE DR,Oil
+    129,    268,      0,       ,13 LONGFELLOW RD,Oil
+    129,    269,      0,       ,17 LONGFELLOW RD,Oil
+    129,    270,      0,       ,21 LONGFELLOW RD,Oil
+    129,    271,      0,       ,29 LONGFELLOW RD,Oil
+    129,    274,      0,       ,22 LONGFELLOW RD,Oil
+    129,    278,      0,       ,10 LONGFELLOW RD,Oil
+    129,    281,      0,       ,214 LOST LAKE DR,Gas
+    129,    282,      0,       ,11 CEDAR RD,Oil
+    130,      5,      0,       ,53 PINE TRL,Oil
+    130,      7,      0,       ,57 PINE TRL,Oil
+    130,     13,      0,       ,474 LOST LAKE DR,Oil
+    130,     19,      0,       ,470 LOST LAKE DR,Oil
+    130,     22,      0,       ,452 LOST LAKE DR,Oil
+    130,     26,      0,       ,400 LOST LAKE DR,Oil
+    130,     28,      0,       ,386 LOST LAKE DR,Oil
+    130,     31,      0,       ,423 LOST LAKE DR,Oil
+    130,     34,      0,       ,431 LOST LAKE DR,Oil
+    130,     36,      0,       ,437 LOST LAKE DR,Electric
+    130,     37,      0,       ,453 LOST LAKE DR,Oil
+    130,     39,      0,       ,475 LOST LAKE DR,Oil
+    130,     40,      0,       ,360 WHILEY RD,Electric
+    130,     41,      0,       ,358 WHILEY RD,Gas
+    130,     45,      0,       ,313 WHILEY RD,Electric
+    130,     47,      0,       ,331 WHILEY RD,Gas
+    130,     49,      0,       ,16 MOOSE TRL,Oil
+    130,     54,      0,       ,15 MOOSE TRL,Coal or Wood
+    130,     56,      0,       ,21 MOOSE TRL,Oil
+    130,     57,      0,       ,25 MOOSE TRL,Oil
+    130,     62,      0,       ,11 JUNIPER PT,Oil
+    130,     63,      0,       ,18 JUNIPER PT,Oil
+    130,     64,      0,       ,14 JUNIPER PT,Gas
+    130,     64,      0,       ,14 JUNIPER PT,Oil
+    130,     65,      0,       ,6 ALDER RD,Gas
+    130,     66,      0,       ,4 ALDER RD ,Oil
+    130,     67,      0,       ,2 ALDER RD,Oil
+    130,     69,      0,       ,55 WENUCHAS TRL,Gas
+    130,     71,      0,       ,65 RAWDING RD,Electric
+    130,     71,      0,       ,65 RAWDING RD,Oil
+    130,     71,      0,       ,65 RAWDING RD,Oil
+    130,     73,      0,       ,WENUCHAS TRL,Coal or Wood
+    130,     74,      0,       ,WENUCHAS TRL,Coal or Wood
+    130,     76,      0,       ,80 PINE TRL,Oil
+    130,     77,      0,       ,76 PINE TRL,Oil
+    130,     79,      0,       ,14 PAUL REVERE RD,Coal or Wood
+    130,     83,      0,       ,10 PAUL REVERE RD,Coal or Wood
+    130,     85,      0,       ,58 PINE TRL,Oil
+    130,     88,      0,       ,52 PINE TRL,Oil
+    130,     90,      0,       ,90 BOATHOUSE RD,Gas
+    130,     91,      0,       ,99 BOATHOUSE RD,Gas
+    130,     92,      0,       ,101 BOATHOUSE RD,Gas
+    130,     93,      0,       ,98 BOATHOUSE RD,Gas
+    131,      1,      0,       ,79 DUCK POND DR,Oil
+    131,      3,      0,       ,151 DUCK POND DR,Oil
+    131,      4,      0,       ,1 LITTLE HOLLOW LN,Oil
+    131,      5,      0,       ,3 LITTLE HOLLOW LN,Oil
+    131,      6,      0,       ,5 LITTLE HOLLOW LN,Oil
+    131,      6,      0,       ,5 LITTLE HOLLOW LN,Oil
+    131,      7,      0,       ,7 LITTLE HOLLOW LN,Oil
+    131,      8,      0,       ,6 LITTLE HOLLOW LN,Oil
+    131,      9,      0,       ,4 LITTLE HOLLOW LN,Oil
+    131,     10,      0,       ,2 LITTLE HOLLOW LN,Oil
+    131,     11,      0,       ,173 DUCK POND DR,Oil
+    131,     12,      0,       ,78 DUCK POND DR ,Oil
+    131,     15,      0,       ,207 WHILEY RD,Electric
+    131,     16,      0,       ,181 WHILEY RD,Coal or Wood
+    131,     17,      0,       ,183 WHILEY RD,Coal or Wood
+    131,     18,      0,       ,187 WHILEY RD,Oil
+    131,     19,      0,       ,205 WHILEY RD,Coal or Wood
+    131,     20,      0,       ,209 WHILEY RD,Gas
+    131,     21,      0,       ,211 WHILEY RD,Gas
+    131,     22,      0,       ,213 WHILEY RD,Oil
+    131,     23,      0,       ,215 WHILEY RD,Oil
+    131,     24,      0,       ,225 WHILEY RD,Oil
+    131,     26,      0,       ,247 WHILEY RD ,Gas
+    131,     27,      0,       ,263 WHILEY RD,Oil
+    131,     28,      0,       ,267 WHILEY RD ,Electric
+    131,     30,      0,       ,SHENANDOAH RD,Gas
+    131,     31,      0,       ,47 SHENANDOAH RD ,Gas
+    131,     32,      0,       ,7 SHENANDOAH RD,Oil
+    131,     33,      0,       ,71 SHENANDOAH RD ,Gas
+    131,     33,      0,       ,71 SHENANDOAH RD ,Oil
+    131,     33,      0,       ,71 SHENANDOAH RD ,Oil
+    131,     35,      0,       ,29 ISLAND RD,Gas
+    131,     36,      0,       ,39 ISLAND RD,Oil
+    131,     38,      0,       ,49 ISLAND RD,Oil
+    131,     39,      0,       ,53 ISLAND RD,Oil
+    131,     40,      0,       ,57 ISLAND RD,Oil
+    131,     45,      0,       ,14 ISLAND RD,Oil
+    131,     46,      0,       ,10 ISLAND RD,Electric
+    131,     47,      0,       ,6 ISLAND RD,Oil
+    131,     48,      0,       ,2 ISLAND RD,Gas
+    131,     51,      0,       ,6 WEYMISSET RD,Coal or Wood
+    131,     52,      0,       ,8 WEYMISSET RD,Oil
+    131,     53,      0,       ,1 RADIO RD,Coal or Wood
+    131,     56,      0,       ,23 RADIO RD ,Gas
+    131,     57,      0,       ,12 WEYMISSET RD ,Oil
+    131,     63,      0,       ,290 WHILEY RD,Gas
+    131,     66,      0,       ,284 WHILEY RD,Gas
+    131,     70,      0,       ,270 WHILEY RD,Oil
+    131,     71,      0,       ,260 WHILEY RD #A&B,Electric
+    131,     72,      0,       ,228 WHILEY RD,Oil
+    131,     73,      0,       ,218 WHILEY RD,Oil
+    131,     74,      0,       ,212 WHILEY RD,Oil
+    132,      1,      0,       ,116 SHELTERS RD ,Oil
+    132,      1,      0,       ,116 SHELTERS RD ,Oil
+    132,      3,      0,       ,94 SHELTERS RD,Oil
+    132,      4,      0,       ,88 SHELTERS RD,Coal or Wood
+    132,      5,      0,       ,55 HUBBARD LN,Coal or Wood
+    132,      6,      0,       ,85 HUBBARD LN,Gas
+    132,      8,      0,       ,28 HUBBARD LN,Oil
+    132,      9,      0,       ,18 HUBBARD LN,Oil
+    132,     10,      0,       ,74 SHELTERS RD,Oil
+    132,     12,      0,       ,35 WHILEY RD ,Oil
+    132,     15,      0,       ,63 WHILEY RD ,Oil
+    132,     16,      0,       ,125 WHILEY RD,Oil
+    132,     17,      0,       ,131 WHILEY RD,Oil
+    132,     18,      0,       ,137 WHILEY RD,Gas
+    132,     19,      0,       ,151 WHILEY RD #A & B,Oil
+    132,     22,      0,       ,176 WHILEY RD,Gas
+    132,     23,      0,       ,164 WHILEY RD,Oil
+    132,     24,      0,       ,152 WHILEY RD,Oil
+    132,     25,      0,       ,132 WHILEY RD ,Oil
+    132,     26,      0,       ,118 WHILEY RD,Oil
+    132,     27,      0,       ,1 SYLVAN LN,Oil
+    132,     28,      0,       ,9 SYLVAN LN,Oil
+    132,     29,      0,       ,19 SYLVAN LN,Oil
+    132,     30,      0,       ,26 SYLVAN LN,Oil
+    132,     31,      0,       ,20 SYLVAN LN,Oil
+    132,     32,      0,       ,4 SYLVAN LN,Oil
+    132,     33,      0,       ,51 DUCK POND DR,Oil
+    132,     34,      0,       ,53 DUCK POND DR,Oil
+    132,     35,      0,       ,57 DUCK POND DR,Oil
+    132,     36,      0,       ,65 DUCK POND DR,Oil
+    132,     38,      0,       ,62 DUCK POND DR,Oil
+    132,     39,      0,       ,50 DUCK POND DR,Oil
+    132,     40,      0,       ,42 DUCK POND DR,Oil
+    132,     41,      0,       ,34 DUCK POND DR,Oil
+    132,     43,      0,       ,82 WHILEY RD,Oil
+    132,     44,      0,       ,68 WHILEY RD,Oil
+    132,     45,      0,       ,3 HIDDEN VALLEY RD,Oil
+    132,     46,      0,       ,35 HIDDEN VALLEY RD,Oil
+    132,     47,      0,       ,41 HIDDEN VALLEY RD,Oil
+    132,     48,      0,       ,59 HIDDEN VALLEY RD,Oil
+    132,     49,      0,       ,77 HIDDEN VALLEY RD,Oil
+    132,     50,      0,       ,85 HIDDEN VALLEY RD ,Oil
+    132,     51,      0,       ,103 HIDDEN VALLEY RD,Oil
+    132,     52,      0,       ,113 HIDDEN VALLEY RD,Oil
+    132,     53,      0,       ,123 HIDDEN VALLEY RD,Oil
+    132,     54,      0,       ,131 HIDDEN VALLEY RD,Oil
+    132,     56,      0,       ,116 HIDDEN VALLEY RD,Oil
+    132,     57,      0,       ,106 HIDDEN VALLEY RD,Oil
+    132,     58,      0,       ,82 HIDDEN VALLEY RD,Oil
+    132,     62,      0,       ,74 HIDDEN VALLEY RD,Oil
+    132,     63,      0,       ,60 HIDDEN VALLEY RD ,Oil
+    132,     64,      0,       ,82 NEW POND RD,Oil
+    132,     65,      0,       ,74 NEW POND RD,Oil
+    132,     67,      0,       ,38 HIDDEN VALLEY RD,Oil
+    132,     68,      0,       ,36 HIDDEN VALLEY RD,Oil
+    132,     69,      0,       ,24 HIDDEN VALLEY RD,Gas
+    132,     71,      0,       ,4 HIDDEN VALLEY RD,Gas
+    133,      2,      0,       ,2 SHELTERS RD,Oil
+    133,      6,      0,       ,26 WHILEY RD,Oil
+    133,      7,      0,       ,20 WHILEY RD,Oil
+    133,      8,      0,       ,18 WHILEY RD,Oil
+    133,     10,      0,       ,777 BOSTON RD,Oil
+    133,     12,      0,       ,15 FORGE VILLAGE RD,Oil
+    133,     13,      0,       ,33 FORGE VILLAGE RD,Oil
+    133,     14,      0,       ,43 FORGE VILLAGE RD,Oil
+    133,     15,      0,       ,49 FORGE VILLAGE RD,Oil
+    133,     16,      0,       ,59 FORGE VILLAGE RD,Oil
+    133,     18,      0,       ,65 FORGE VILLAGE RD,Oil
+    133,     18,      1,       ,71 FORGE VILLAGE RD,Oil
+    133,     19,      0,       ,79 FORGE VILLAGE RD,Oil
+    133,     20,      0,       ,5 NEW POND RD,Oil
+    133,     21,      0,       ,21 NEW POND RD,Oil
+    133,     22,      0,       ,33 NEW POND RD,Oil
+    133,     24,      0,       ,62 NEW POND RD,Oil
+    133,     27,      0,       ,34 NEW POND RD,Oil
+    133,     28,      0,       ,26 NEW POND RD,Oil
+    133,     29,      0,       ,18 NEW POND RD,Oil
+    133,     30,      0,       ,6 NEW POND RD ,Oil
+    133,     31,      0,       ,112 FORGE VILLAGE RD,Oil
+    133,     32,      0,       ,15 FLETCHER HILL LN,Oil
+    133,     33,      0,       ,37 FLETCHER HILL LN ,Oil
+    133,     34,      0,       ,42 FLETCHER HILL LN,Oil
+    133,     35,      0,       ,22 FLETCHER HILL LN,Oil
+    133,     36,      0,       ,16 FLETCHER HILL LN,Oil
+    133,     37,      0,       ,12 FLETCHER HILL LN,Oil
+    133,     39,      0,       ,80 FORGE VILLAGE RD ,Gas
+    133,     40,      0,       ,68 FORGE VILLAGE RD,Oil
+    133,     41,      0,       ,58 FORGE VILLAGE RD,Oil
+    133,     42,      0,       ,54 FORGE VILLAGE RD ,Oil
+    133,     43,      0,       ,48 FORGE VILLAGE RD,Oil
+    133,     44,      0,       ,15 DOROTHY PL ,Electric
+    133,     45,      0,       ,26 DOROTHY PL ,Oil
+    133,     46,      0,       ,20 DOROTHY PL,Oil
+    133,     47,      0,       ,12 DOROTHY PL,Oil
+    133,     48,      0,       ,26 FORGE VILLAGE RD,Oil
+    133,     50,      0,       ,817 BOSTON RD,Oil
+    133,     51,      0,       ,823 BOSTON RD,Oil
+    133,     52,      0,       ,839 BOSTON RD,Oil
+    133,     53,      0,       ,843 BOSTON RD ,Oil
+    134,      1,      0,       ,45 FLETCHER HILL LN,Oil
+    134,      2,      0,       ,49 FLETCHER HILL LN,Oil
+    134,      3,      0,       ,50 FLETCHER HILL LN,Oil
+    134,      4,      0,       ,46 FLETCHER HILL LN,Oil
+    134,      5,      0,       ,855 BOSTON RD,Oil
+    134,      9,      0,       ,907 BOSTON RD ,Oil
+    134,     10,      0,       ,915-917 BOSTON RD,Oil
+    134,     11,      0,       ,15 SUNSET RD,Oil
+    134,     12,      0,       ,27 SUNSET RD,Oil
+    134,     13,      0,       ,3 BAYBERRY RD,Oil
+    134,     14,      0,       ,9 BAYBERRY RD ,Electric
+    134,     15,      0,       ,11 BAYBERRY RD,Oil
+    134,     16,      0,       ,19 BAYBERRY RD,Oil
+    134,     17,      0,       ,10 BAYBERRY RD,Electric
+    134,     18,      0,       ,33 SUNSET RD,Electric
+    134,     19,      0,       ,47 SUNSET RD,Oil
+    134,     20,      0,       ,56 SUNSET RD,Electric
+    134,     21,      0,       ,50 SUNSET RD,Oil
+    134,     22,      0,       ,34 SUNSET RD,Electric
+    134,     23,      0,       ,28 SUNSET RD,Oil
+    134,     24,      0,       ,18 SUNSET RD,Oil
+    134,     25,      0,       ,16 SUNSET RD,Electric
+    134,     26,      0,       ,961 BOSTON RD,Oil
+    134,     28,      0,       ,963 BOSTON RD,Oil
+    134,     29,      0,       ,965 BOSTON RD,Oil
+    135,      1,      0,       ,119 FORGE VILLAGE RD ,Gas
+    135,      1,      0,       ,119 FORGE VILLAGE RD ,Oil
+    135,      2,      0,       ,7 ORION WAY,Electric
+    135,      3,      1,       ,23 ORION WAY,Gas
+    135,      3,      2,       ,27 ORION WAY,Gas
+    135,      3,      3,       ,33 ORION WAY,Gas
+    135,      3,      4,       ,36 ORION WAY,Gas
+    135,      3,      5,       ,30 ORION WAY,Gas
+    135,      3,      6,       ,26 ORION WAY,Gas
+    135,      5,      0,       ,139 FORGE VILLAGE RD,Oil
+    135,      6,      0,       ,149 FORGE VILLAGE RD,Oil
+    135,      7,      0,       ,165 FORGE VILLAGE RD,Oil
+    135,      8,      0,       ,175 FORGE VILLAGE RD,Oil
+    135,      9,      0,       ,181 FORGE VILLAGE RD,Oil
+    135,     11,      0,       ,189 FORGE VILLAGE RD,Oil
+    135,     13,      0,       ,213 FORGE VILLAGE RD,Oil
+    135,     14,      0,       ,217 FORGE VILLAGE RD,Oil
+    135,     15,      0,       ,219 FORGE VILLAGE RD ,Oil
+    135,     16,      0,       ,221 FORGE VILLAGE RD ,Gas
+    135,     17,      0,       ,227 FORGE VILLAGE RD,Oil
+    135,     18,      0,       ,235 FORGE VILLAGE RD,Oil
+    135,     19,      0,       ,239 FORGE VILLAGE RD,Gas
+    135,     21,      0,       ,245 FORGE VILLAGE RD,Oil
+    135,     23,      0,       ,261 FORGE VILLAGE RD,Oil
+    135,     24,      0,       ,273 FORGE VILLAGE RD,Electric
+    135,     25,      0,       ,279 FORGE VILLAGE RD,Oil
+    135,     26,      0,       ,280 FORGE VILLAGE RD,Oil
+    135,     27,      0,       ,252 FORGE VILLAGE RD,Oil
+    135,     28,      0,       ,250 FORGE VILLAGE RD,Oil
+    135,     29,      0,       ,248 FORGE VILLAGE RD,Oil
+    135,     30,      0,       ,246 FORGE VILLAGE RD,Oil
+    135,     31,      0,       ,244 FORGE VILLAGE RD,Oil
+    135,     32,      0,       ,230 FORGE VILLAGE RD,Oil
+    135,     33,      0,       ,222 FORGE VILLAGE RD ,Oil
+    135,     35,      0,       ,15 GILSON RD,Oil
+    135,     36,      0,       ,27 GILSON RD,Oil
+    135,     37,      0,       ,37 GILSON RD,Oil
+    135,     39,      0,       ,206 FORGE VILLAGE RD,Oil
+    135,     40,      0,       ,7 OLD CARRIAGE PATH,Oil
+    135,     41,      0,       ,9 OLD CARRIAGE PATH,Oil
+    135,     42,      0,       ,15 OLD CARRIAGE PATH ,Oil
+    135,     43,      0,       ,17 OLD CARRIAGE PATH,Oil
+    135,     44,      0,       ,18 OLD CARRIAGE PATH,Oil
+    135,     45,      0,       ,14 OLD CARRIAGE PATH,Oil
+    135,     46,      0,       ,4 OLD CARRIAGE PATH,Oil
+    135,     47,      0,       ,166 FORGE VILLAGE RD,Oil
+    135,     48,      0,       ,15 STONEBRIDGE WAY,Oil
+    135,     49,      0,       ,9 STONEBRIDGE WAY,Oil
+    135,     50,      0,       ,25 STONEBRIDGE WAY ,Oil
+    135,     51,      0,       ,33 STONEBRIDGE WAY ,Oil
+    135,     52,      0,       ,37 STONEBRIDGE WAY,Oil
+    135,     53,      0,       ,26 STONEBRIDGE WAY,Oil
+    136,      1,      0,       ,128 HIDDEN VALLEY RD,Oil
+    136,      2,      0,       ,120 HIDDEN VALLEY RD,Oil
+    136,      3,      0,       ,118 HIDDEN VALLEY RD,Oil
+    136,      4,      0,       ,117 HAYDEN RD,Electric
+    136,      5,      0,       ,121-A-B HAYDEN RD,Oil
+    136,      6,      0,       ,125 HAYDEN RD,Oil
+    136,      7,      0,       ,131 HAYDEN RD,Oil
+    136,      8,      0,       ,133 HAYDEN RD,Oil
+    136,      9,      0,       ,145 HAYDEN RD,Oil
+    136,     10,      0,       ,149 HAYDEN RD,Oil
+    136,     11,      0,       ,9 CARMICHAEL WAY,Oil
+    136,     12,      0,       ,15 CARMICHAEL WAY,Oil
+    136,     13,      0,       ,27 CARMICHAEL WAY,Oil
+    136,     14,      0,       ,37 CARMICHAEL WAY,Oil
+    136,     15,      0,       ,49 CARMICHAEL WAY,Oil
+    136,     16,      0,       ,51 CARMICHAEL WAY,Oil
+    136,     17,      0,       ,53 CARMICHAEL WAY,Oil
+    136,     18,      0,       ,57 CARMICHAEL WAY,Oil
+    136,     19,      0,       ,48 CARMICHAEL WAY,Oil
+    136,     20,      0,       ,44 CARMICHAEL WAY,Oil
+    136,     21,      0,       ,34 CARMICHAEL WAY,Oil
+    136,     22,      0,       ,24 CARMICHAEL WAY,Oil
+    136,     23,      0,       ,20 CARMICHAEL WAY,Oil
+    136,     24,      0,       ,6 CARMICHAEL WAY,Oil
+    136,     25,      0,       ,201 HAYDEN RD,Oil
+    136,     26,      0,       ,211 HAYDEN RD,Oil
+    136,     27,      0,       ,219 HAYDEN RD,Oil
+    136,     28,      0,       ,17 MADELINE DR,Oil
+    136,     29,      0,       ,27 MADELINE DR,Oil
+    136,     31,      0,       ,37 MADELINE DR,Oil
+    136,     32,      0,       ,30 MADELINE DR,Oil
+    136,     33,      0,       ,24 MADELINE DR,Oil
+    136,     34,      0,       ,229 HAYDEN RD,Oil
+    136,     35,      0,       ,253 HAYDEN RD,Oil
+    136,     36,      0,       ,256 HAYDEN RD,Oil
+    136,     38,      0,       ,254 HAYDEN RD,Oil
+    136,     39,      0,       ,244 HAYDEN RD,Oil
+    136,     40,      0,       ,230 HAYDEN RD,Oil
+    136,     41,      0,       ,220 HAYDEN RD,Oil
+    136,     42,      0,       ,210 HAYDEN RD,Electric
+    136,     45,      0,       ,188 HAYDEN RD,Electric
+    136,     46,      0,       ,178 HAYDEN RD ,Electric
+    136,     47,      0,       ,162 HAYDEN RD,Oil
+    136,     48,      0,       ,150 HAYDEN RD,Oil
+    136,     50,      0,       ,138 HAYDEN RD,Oil
+    136,     51,      0,       ,124 HAYDEN RD,Oil
+    136,     52,      0,       ,122 HAYDEN RD,Gas
+    136,     53,      0,       ,112 HAYDEN RD,Oil
+    136,     54,      0,       ,106 HAYDEN RD,Gas
+    136,     55,      0,       ,90 HAYDEN RD,Oil
+    137,      2,      0,       ,11 AUTUMN LEAF DR,Oil
+    137,      3,      0,       ,27 AUTUMN LEAF DR ,Electric
+    137,      4,      0,       ,16 AUTUMN LEAF DR,Gas
+    137,      5,      0,       ,8 AUTUMN LEAF DR,Oil
+    137,      6,      0,       ,68 HAYDEN RD,Oil
+    137,      7,      0,       ,70 HAYDEN RD,Gas
+    137,     10,      0,       ,23 LABBE RD,Oil
+    137,     11,      0,       ,28 LABBE RD,Oil
+    137,     12,      0,       ,24 LABBE RD,Oil
+    137,     15,      0,       ,8 LABBE RD,Gas
+    137,     16,      0,       ,6 LABBE RD,Oil
+    137,     17,      0,       ,48 HAYDEN RD,Oil
+    138,      2,      0,       ,299 FORGE VILLAGE RD,Oil
+    138,      3,      0,       ,1 HAYDEN RD,Gas
+    138,      4,      0,       ,24 HAYDEN RD,Gas
+    138,      5,      0,       ,16 HAYDEN RD,Oil
+    138,      6,      0,       ,14 HAYDEN RD,Oil
+    138,      7,      0,       ,319 FORGE VILLAGE RD,Gas
+    138,      7,      0,       ,319 FORGE VILLAGE RD,Oil
+    138,      8,      0,       ,323 FORGE VILLAGE RD,Oil
+    138,     10,      0,       ,324 FORGE VILLAGE RD,Gas
+    138,     12,      0,       ,316 FORGE VILLAGE RD,Oil
+    138,     13,      0,       ,312 FORGE VILLAGE RD,Electric
+    138,     13,      0,       ,312 FORGE VILLAGE RD,Electric
+    138,     13,      0,       ,312 FORGE VILLAGE RD,Gas
+    138,     14,      0,       ,304 FORGE VILLAGE RD,Oil
+    138,     15,      0,       ,300 FORGE VILLAGE RD,Oil
+    138,     16,      0,       ,11 ORR RD,Oil
+    138,     17,      0,       ,38 ORR RD,Oil
+    138,     18,      0,       ,30 ORR RD,Gas
+    138,     19,      0,       ,20 ORR RD,Gas
+    138,     20,      0,       ,10 ORR RD,Oil
+    138,     21,      0,       ,290 FORGE VILLAGE RD,Gas
+    201,      1,      0,       ,601 TOWNSEND RD,Oil
+    202,      1,      0,       ,613 TOWNSEND RD,Oil
+    202,      2,      0,       ,623 TOWNSEND RD,Oil
+    202,      3,      0,       ,635 TOWNSEND RD,Oil
+    202,      4,      0,       ,643 TOWNSEND RD,Oil
+    202,      5,      0,       ,653 TOWNSEND RD,Electric
+    202,      6,      0,       ,663 TOWNSEND RD,Oil
+    202,      7,      0,       ,671 TOWNSEND RD,Oil
+    202,      8,      0,       ,679 TOWNSEND RD,Oil
+    202,      9,      0,       ,687 TOWNSEND RD,Oil
+    202,     10,      0,       ,697 TOWNSEND RD,Oil
+    202,     11,      0,       ,699 TOWNSEND RD,Oil
+    202,     15,      0,       ,733 TOWNSEND RD,Oil
+    202,     16,      0,       ,741 TOWNSEND RD,Oil
+    202,     17,      0,       ,757 TOWNSEND RD,Oil
+    202,     18,      0,       ,769 TOWNSEND RD,Oil
+    202,     19,      0,       ,19 CROSSWINDS DR,Oil
+    202,     21,      0,       ,29 CROSSWINDS DR,Oil
+    202,     22,      0,       ,35 CROSSWINDS DR,Oil
+    202,     23,      0,       ,41 CROSSWINDS DR,Oil
+    202,     24,      0,       ,47 CROSSWINDS DR,Oil
+    202,     25,      0,       ,5 SQUANNACOOK DR,Oil
+    202,     27,      0,       ,15 SQUANNACOOK DR,Oil
+    202,     28,      0,       ,29 SQUANNACOOK DR,Oil
+    202,     29,      0,       ,39 SQUANNACOOK DR,Oil
+    202,     30,      0,       ,43 SQUANNACOOK DR ,Oil
+    202,     31,      0,       ,45 SQUANNACOOK DR ,Gas
+    202,     32,      0,       ,40 SQUANNACOOK DR,Oil
+    202,     33,      0,       ,36 SQUANNACOOK DR,Oil
+    202,     34,      0,       ,32 SQUANNACOOK DR ,Oil
+    202,     35,      0,       ,26 SQUANNACOOK DR,Oil
+    202,     36,      0,       ,20 SQUANNACOOK DR,Oil
+    202,     38,      0,       ,15 SPAULDING LN,Oil
+    202,     39,      0,       ,21 SPAULDING LN ,Oil
+    202,     40,      0,       ,37 SPAULDING LN,Oil
+    202,     41,      0,       ,38 SPAULDING LN ,Oil
+    202,     42,      0,       ,34 SPAULDING LN,Oil
+    202,     43,      0,       ,26 SPAULDING LN ,Oil
+    202,     44,      0,       ,18 SPAULDING LN,Oil
+    202,     45,      0,       ,87 CROSSWINDS DR,Oil
+    202,     46,      0,       ,99 CROSSWINDS DR,Oil
+    202,     48,      0,       ,115 CROSSWINDS DR,Oil
+    202,     49,      0,       ,31 LAWRENCE DR,Oil
+    202,     50,      0,       ,26 LAWRENCE DR,Oil
+    202,     51,      0,       ,114 CROSSWINDS DR,Oil
+    202,     53,      0,       ,94 CROSSWINDS DR,Oil
+    202,     54,      0,       ,86 CROSSWINDS DR,Oil
+    202,     55,      0,       ,82 CROSSWINDS DR,Oil
+    202,     56,      0,       ,72 CROSSWINDS DR,Oil
+    202,     57,      0,       ,62 CROSSWINDS DR,Oil
+    202,     58,      0,       ,38 CROSSWINDS DR,Oil
+    202,     59,      0,       ,36 CROSSWINDS DR,Oil
+    202,     62,      0,       ,18 CROSSWINDS DR ,Oil
+    202,     63,      0,       ,781 TOWNSEND RD,Oil
+    202,     64,      0,       ,791 TOWNSEND RD,Oil
+    202,     65,      0,       ,803 TOWNSEND RD,Oil
+    202,     66,      0,       ,813 TOWNSEND RD,Oil
+    202,     67,      0,       ,825 TOWNSEND RD,Oil
+    202,     68,      0,       ,835 TOWNSEND RD,Oil
+    202,     69,      0,       ,830 TOWNSEND RD,Oil
+    202,     70,      0,       ,790 TOWNSEND RD,Oil
+    202,     71,      0,       ,780 TOWNSEND RD,Oil
+    202,     74,      0,       ,762 TOWNSEND RD,Oil
+    202,     74,      1,       ,750 TOWNSEND RD,Gas
+    202,     75,      0,       ,740 TOWNSEND RD,Oil
+    202,     78,      0,       ,704 TOWNSEND RD ,Oil
+    202,     79,      0,       ,702 TOWNSEND RD,Oil
+    202,     82,      0,       ,674 TOWNSEND RD,Oil
+    202,     84,      0,       ,668 TOWNSEND RD,Oil
+    202,     85,      0,       ,656 TOWNSEND RD ,Oil
+    202,     86,      0,       ,650 TOWNSEND RD,Oil
+    202,     87,      0,       ,640 TOWNSEND RD,Oil
+    202,     88,      0,       ,630 TOWNSEND RD,Oil
+    202,     89,      0,       ,622 TOWNSEND RD,Oil
+    202,     90,      0,       ,614 TOWNSEND RD,Electric
+    202,     92,      0,       ,296 CHERRY TREE LN,Gas
+    202,     93,      0,       ,276 CHERRY TREE LN,Gas
+    202,     94,      0,       ,255 CHERRY TREE LN ,Gas
+    202,     95,      0,       ,275 CHERRY TREE LN,Gas
+    202,     96,      0,       ,295 CHERRY TREE LN,Gas
+    202,     97,      0,       ,315 CHERRY TREE LN,Gas
+    203,      1,      0,       ,853 TOWNSEND RD,Oil
+    203,      2,      0,       ,861 TOWNSEND RD,Oil
+    203,      3,      0,       ,871 TOWNSEND RD,Oil
+    203,      4,      0,       ,881 TOWNSEND RD,Oil
+    203,      5,      0,       ,186 CROSSWINDS DR,Oil
+    203,      6,      0,       ,178 CROSSWINDS DR,Oil
+    203,      7,      0,       ,170 CROSSWINDS DR,Oil
+    203,      8,      0,       ,144 CROSSWINDS DR,Oil
+    203,      9,      0,       ,130 CROSSWINDS DR,Oil
+    203,     10,      0,       ,125 CROSSWINDS DR,Oil
+    203,     11,      0,       ,135 CROSSWINDS DR,Oil
+    203,     12,      0,       ,16 LAWRENCE DR,Oil
+    203,     13,      0,       ,12 LAWRENCE DR,Oil
+    203,     14,      0,       ,8 LAWRENCE DR,Oil
+    203,     15,      0,       ,143 CROSSWINDS DR,Oil
+    203,     16,      0,       ,151 CROSSWINDS DR,Oil
+    203,     17,      0,       ,155 CROSSWINDS DR,Oil
+    203,     20,      0,       ,169 CROSSWINDS DR,Oil
+    203,     21,      0,       ,173 CROSSWINDS DR,Oil
+    203,     22,      0,       ,177 CROSSWINDS DR,Oil
+    203,     23,      0,       ,885 TOWNSEND RD ,Oil
+    203,     24,      0,       ,901 TOWNSEND RD,Oil
+    203,     25,      0,       ,907 TOWNSEND RD,Oil
+    203,     26,      0,       ,931 TOWNSEND RD,Oil
+    203,     28,      0,       ,945 TOWNSEND RD,Oil
+    203,     29,      0,       ,951 TOWNSEND RD,Oil
+    203,     31,      0,       ,11 TOWN LINE RD,Oil
+    203,     31,      0,       ,11 TOWN LINE RD,Oil
+    203,     32,      0,       ,17 TOWN LINE RD,Gas
+    203,     49,      0,       ,904 TOWNSEND RD,Oil
+    203,     50,      0,       ,888 TOWNSEND RD,Oil
+    203,     51,      0,       ,878 TOWNSEND RD,Oil
+    203,     52,      0,       ,3 BRITT LN,Oil
+    203,     53,      0,       ,27 BRITT LN,Oil
+    203,     54,      0,       ,29 BRITT LN,Oil
+    203,     55,      0,       ,33 BRITT LN ,Oil
+    203,     56,      0,       ,39 BRITT LN,Oil
+    203,     57,      0,       ,45 BRITT LN,Oil
+    203,     58,      0,       ,40 BRITT LN,Oil
+    203,     59,      0,       ,38 BRITT LN ,Oil
+    203,     60,      0,       ,34 BRITT LN,Oil
+    203,     61,      0,       ,30 BRITT LN,Oil
+    203,     62,      0,       ,24 BRITT LN ,Gas
+    203,     63,      0,       ,2 BRITT LN,Oil
+    203,     64,      0,       ,856 TOWNSEND RD,Oil
+    203,     65,      0,       ,838 TOWNSEND RD,Oil
+    204,     10,      0,       ,238 CHERRY TREE LN ,Gas
+    204,     10,     01,       ,226 CHERRY TREE LN,Oil
+    204,     10,     02,       ,216 CHERRY TREE LN,Gas
+    204,     10,     03,       ,208 CHERRY TREE LN,Gas
+    204,     10,     04,       ,198 CHERRY TREE LN,Gas
+    204,     10,     05,       ,194 CHERRY TREE LN ,Gas
+    204,     10,     06,       ,192 CHERRY TREE LN,Gas
+    204,     10,     07,       ,182 CHERRY TREE LN,Oil
+    204,     10,     08,       ,176 CHERRY TREE LN,Gas
+    204,     10,     09,       ,170 CHERRY TREE LN,Gas
+    204,     10,     10,       ,9 ARBOR WAY,Gas
+    204,     10,     11,       ,25 ARBOR WAY,Oil
+    204,     10,     12,       ,33 ARBOR WAY,Oil
+    204,     10,     13,       ,39 ARBOR WAY,Gas
+    204,     10,     14,       ,43 ARBOR WAY ,Gas
+    204,     10,     15,       ,45 ARBOR WAY ,Gas
+    204,     10,     16,       ,48 ARBOR WAY,Gas
+    204,     10,     17,       ,42 ARBOR WAY,Gas
+    204,     10,     18,       ,38 ARBOR WAY,Gas
+    204,     10,     19,       ,30 ARBOR WAY,Gas
+    204,     10,     20,       ,24 ARBOR WAY,Gas
+    204,     10,     21,       ,18 ARBOR WAY,Gas
+    204,     10,     22,       ,12 ARBOR WAY,Oil
+    204,     10,     23,       ,8 ARBOR WAY,Oil
+    204,     10,     24,       ,66 CHERRY TREE LN,Gas
+    204,     10,     25,       ,60 CHERRY TREE LN,Gas
+    204,     10,     26,       ,52 CHERRY TREE LN,Oil
+    204,     10,     27,       ,42 CHERRY TREE LN,Oil
+    204,     10,     28,       ,36 CHERRY TREE LN,Gas
+    204,     10,     29,       ,22 CHERRY TREE LN,Oil
+    204,     10,     30,       ,14 CHERRY TREE LN,Oil
+    204,     10,     31,       ,235 FIELDSTONE DR,Gas
+    204,     10,     32,       ,221 FIELDSTONE DR,Oil
+    204,     10,     33,       ,230 FIELDSTONE DR,Oil
+    204,     10,     37,       ,19 CHERRY TREE LN,Gas
+    204,     10,     38,       ,21 CHERRY TREE LN,Gas
+    204,     10,     39,       ,49 CHERRY TREE LN,Oil
+    204,     10,     40,       ,57 CHERRY TREE LN,Oil
+    204,     10,     41,       ,61 CHERRY TREE LN,Oil
+    204,     10,     43,       ,91 CHERRY TREE LN,Gas
+    204,     10,     44,       ,95 CHERRY TREE LN,Oil
+    204,     10,     45,       ,101 CHERRY TREE LN,Oil
+    204,     10,     46,       ,113 CHERRY TREE LN,Oil
+    204,     10,     47,       ,125 CHERRY TREE LN,Oil
+    204,     10,     48,       ,191 CHERRY TREE LN,Oil
+    204,     10,     49,       ,197 CHERRY TREE LN,Gas
+    204,     10,     50,       ,199 CHERRY TREE LN,Oil
+    204,     10,     51,       ,209 CHERRY TREE LN,Gas
+    204,     10,     52,       ,215 CHERRY TREE LN,Gas
+    204,     10,     53,       ,225 CHERRY TREE LN,Gas
+    204,     10,     54,       ,245 CHERRY TREE LN,Gas
+    204,     13,      0,       ,52 FIELDSTONE DR,Oil
+    205,      7,      0,       ,491 TOWNSEND RD ,Gas
+    205,      9,      0,       ,594 TOWNSEND RD,Oil
+    205,     10,      0,       ,570 TOWNSEND RD,Oil
+    205,     11,      0,       ,7 ROCKWOOD LN,Oil
+    205,     12,      0,       ,15 ROCKWOOD LN,Oil
+    205,     13,      0,       ,21 ROCKWOOD LN,Oil
+    205,     14,      0,       ,27 ROCKWOOD LN,Oil
+    205,     15,      0,       ,37 ROCKWOOD LN,Oil
+    205,     16,      0,       ,41 ROCKWOOD LN,Oil
+    205,     17,      0,       ,44 ROCKWOOD LN,Oil
+    205,     18,      0,       ,40 ROCKWOOD LN,Oil
+    205,     19,      0,       ,36 ROCKWOOD LN,Oil
+    205,     20,      0,       ,26 ROCKWOOD LN,Oil
+    205,     21,      0,       ,20 ROCKWOOD LN,Oil
+    205,     22,      0,       ,10 ROCKWOOD LN,Oil
+    205,     24,      1,       ,50 AMELIA WAY,Oil
+    205,     24,      2,       ,60 AMELIA WAY,Gas
+    205,     24,      3,       ,66 AMELIA WAY ,Gas
+    205,     24,      4,       ,51 AMELIA WAY ,Gas
+    205,     24,      5,       ,45 AMELIA WAY,Gas
+    205,     24,      6,       ,21 AMELIA WAY,Gas
+    205,     24,      7,       ,11 AMELIA WAY,Gas
+    205,     24,      8,       ,3 AMELIA WAY,Gas
+    205,     25,      0,       ,504 TOWNSEND RD,Oil
+    205,     26,      0,       ,494 TOWNSEND RD,Oil
+    205,     27,      0,       ,486 TOWNSEND RD,Gas
+    205,     28,      0,       ,476 TOWNSEND RD,Gas
+    205,     29,      0,       ,468 TOWNSEND RD,Gas
+    205,     30,      0,       ,458 TOWNSEND RD,Gas
+    205,     31,      0,       ,450 TOWNSEND RD,Gas
+    205,     32,      0,       ,440 TOWNSEND RD,Oil
+    205,     33,      0,       ,432 TOWNSEND RD,Oil
+    205,     35,      0,       ,40 CANDICE LN,Oil
+    205,     37,      0,       ,426 TOWNSEND RD,Oil
+    205,     38,      0,       ,414 TOWNSEND RD,Oil
+    205,     39,      0,       ,406 TOWNSEND RD,Gas
+    206,      4,      0,       ,273 TOWNSEND RD,Oil
+    206,      5,      0,       ,283 TOWNSEND RD,Gas
+    206,      7,      0,       ,291 TOWNSEND RD,Oil
+    206,     11,      0,       ,313 TOWNSEND RD,Oil
+    206,     13,      0,       ,331 TOWNSEND RD,Oil
+    206,     14,      0,       ,337 TOWNSEND RD,Oil
+    206,     15,      0,       ,347 TOWNSEND RD ,Gas
+    206,     16,      0,       ,359 TOWNSEND RD,Electric
+    206,     19,      0,       ,396 TOWNSEND RD,Gas
+    206,     20,      0,       ,386 TOWNSEND RD,Oil
+    206,     21,      0,       ,380 TOWNSEND RD,Oil
+    206,     22,      1,       ,9 BLUEBIRD LANE ,Gas
+    206,     22,      2,       ,21 BLUEBIRD LANE ,Gas
+    206,     22,      3,       ,27 BLUEBIRD LANE ,Gas
+    206,     22,      4,       ,33 BLUEBIRD LANE ,Gas
+    206,     22,      5,       ,26 BLUEBIRD LANE ,Gas
+    206,     22,      6,       ,24 BLUEBIRD LANE ,Gas
+    206,     22,      7,       ,22 BLUEBIRD LANE ,Gas
+    206,     22,      8,       ,20 BLUEBIRD LANE ,Gas
+    206,     22,      9,       ,12 BLUEBIRD LANE ,Gas
+    206,     23,      0,       ,366 TOWNSEND RD,Oil
+    206,     25,      0,       ,358 TOWNSEND RD,Oil
+    206,     26,      0,       ,354 TOWNSEND RD,Oil
+    206,     27,      0,       ,346 TOWNSEND RD,Gas
+    206,     28,      0,       ,342 TOWNSEND RD,Oil
+    206,     29,      0,       ,340 TOWNSEND RD,Gas
+    206,     30,      0,       ,338 TOWNSEND RD,Oil
+    206,     31,      0,       ,328 TOWNSEND RD ,Oil
+    206,     33,      0,       ,308 TOWNSEND RD,Oil
+    206,     34,      0,       ,296 TOWNSEND RD,Oil
+    206,     36,      0,       ,46 PARK DR,Gas
+    206,     37,      0,       ,40 PARK DR,Oil
+    206,     38,      0,       ,34 PARK DR,Oil
+    206,     39,      0,       ,28 PARK DR,Oil
+    206,     40,      0,       ,20 PARK DR,Oil
+    206,     43,      0,       ,29 VOSE AVE,Gas
+    206,     48,      0,       ,28 VOSE AVE,Oil
+    206,     49,      0,       ,24 VOSE AVE,Oil
+    206,     50,      0,       ,22 VOSE AVE,Oil
+    206,     51,      0,       ,150 KEMP ST ,Oil
+    206,     51,      0,       ,150 KEMP ST ,Oil
+    206,     52,      0,       ,140 KEMP ST,Oil
+    206,     53,      0,       ,106 KEMP ST,Oil
+    210,      1,      0,       ,151 WHARTON ROW,Gas
+    210,      2,      0,       ,159 WHARTON ROW,Gas
+    210,      3,      0,       ,161 WHARTON ROW ,Gas
+    211,      1,      0,       ,382 WEST MAIN ST ,Gas
+    211,      2,      0,       ,366 WEST MAIN ST,Oil
+    211,      3,      0,       ,360 WEST MAIN ST,Oil
+    211,      4,      0,       ,356 WEST MAIN ST,Gas
+    211,      6,      0,       ,344 WEST MAIN ST,Gas
+    211,      8,      0,       ,334 WEST MAIN ST,Oil
+    211,      9,      0,       ,328 WEST MAIN ST ,Gas
+    211,     10,      0,       ,9 TOWN FOREST RD,Oil
+    211,     11,      0,       ,19 TOWN FOREST RD,Electric
+    211,     12,      0,       ,25 TOWN FOREST RD ,Gas
+    211,     13,      0,       ,35 TOWN FOREST RD,Gas
+    211,     14,      0,       ,47 TOWN FOREST RD,Oil
+    211,     15,      0,       ,36 TOWN FOREST RD,Oil
+    211,     16,      0,       ,28 TOWN FOREST RD,Oil
+    211,     16,      1,       ,21 WHARTON ROW,Gas
+    211,     16,      3,       ,39 WHARTON ROW,Gas
+    211,     17,      0,       ,22 TOWN FOREST RD,Gas
+    211,     18,      0,       ,312 WEST MAIN ST #A & B,Oil
+    211,     19,      0,       ,302 WEST MAIN ST,Oil
+    211,     21,      0,       ,65 WHARTON ROW,Gas
+    211,     22,      0,       ,79 WHARTON ROW,Gas
+    211,     23,      0,       ,85 WHARTON ROW,Gas
+    211,     24,      0,       ,91 WHARTON ROW,Gas
+    211,     25,      0,       ,99 WHARTON ROW ,Oil
+    211,     26,      0,       ,111 WHARTON ROW ,Gas
+    211,     27,      0,       ,115 WHARTON ROW,Gas
+    211,     28,      0,       ,121 WHARTON ROW,Gas
+    211,     29,      0,       ,129 WHARTON ROW,Gas
+    211,     30,      0,       ,139 WHARTON ROW,Gas
+    211,     31,      0,       ,141 WHARTON ROW,Gas
+    211,     32,      0,       ,145 WHARTON ROW,Gas
+    211,     33,      0,       ,150 WHARTON ROW,Gas
+    211,     34,      0,       ,138 WHARTON ROW ,Gas
+    211,     35,      0,       ,122 WHARTON ROW,Oil
+    211,     36,      0,       ,116 WHARTON ROW,Gas
+    211,     37,      0,       ,180 WHARTON ROW,Gas
+    211,     38,      0,       ,170 WHARTON ROW ,Gas
+    211,     39,      0,       ,168 WHARTON ROW,Gas
+    211,     40,      0,       ,93 TOWN FOREST RD,Oil
+    211,     41,      0,       ,160 WHARTON ROW,Oil
+    211,     42,      0,       ,165 WHARTON ROW,Gas
+    211,     43,      0,       ,167 WHARTON ROW,Gas
+    211,     44,      0,       ,171 WHARTON ROW,Gas
+    211,     45,      0,       ,86 WHARTON ROW,Gas
+    211,     46,      0,       ,78 WHARTON ROW,Gas
+    211,     47,      0,       ,68 WHARTON ROW,Gas
+    211,     48,      0,       ,62 WHARTON ROW,Gas
+    211,     49,      0,       ,276 WEST MAIN ST,Gas
+    211,     50,      0,       ,242 WEST MAIN ST,Oil
+    211,     50,      1,       ,52 WHARTON ROW,Gas
+    211,     50,      2,       ,42 WHARTON ROW,Oil
+    211,     51,      0,       ,228 WEST MAIN ST,Oil
+    211,     53,      0,       ,257 WEST MAIN ST,Gas
+    211,     55,      0,       ,347 WEST MAIN ST,Gas
+    211,     56,      0,       ,45 HILL RD,Oil
+    211,     57,      0,       ,69 HILL RD,Oil
+    211,     58,      0,       ,73 HILL RD,Oil
+    211,     59,      0,       ,79 HILL RD,Oil
+    211,     60,      0,       ,81 HILL RD,Gas
+    211,     61,      0,       ,95 HILL RD,Oil
+    211,     62,      0,       ,99 HILL RD,Oil
+    211,     63,      0,       ,103 HILL RD,Oil
+    211,     64,      0,       ,109 HILL RD,Oil
+    211,     65,      0,       ,117 HILL RD,Oil
+    211,     66,      0,       ,121 HILL RD,Oil
+    211,     67,      0,       ,127 HILL RD,Oil
+    211,     68,      0,       ,133 HILL RD,Oil
+    211,     69,      0,       ,137 HILL RD,Oil
+    211,     70,      0,       ,141 HILL RD,Oil
+    211,     71,      0,       ,147 HILL RD,Oil
+    211,     72,      0,       ,149 HILL RD,Gas
+    211,     73,      0,       ,151 HILL RD,Gas
+    211,     74,      0,       ,134 HILL RD,Oil
+    211,     75,      0,       ,128 HILL RD,Oil
+    211,     76,      0,       ,120 HILL RD,Oil
+    211,     77,      0,       ,110 HILL RD,Oil
+    211,     78,      0,       ,104 HILL RD,Oil
+    211,     79,      0,       ,98 HILL RD,Oil
+    211,     80,      0,       ,90 HILL RD,Oil
+    211,     81,      0,       ,80 HILL RD,Oil
+    211,     82,      0,       ,72 HILL RD ,Oil
+    211,     83,      0,       ,54 HILL RD ,Electric
+    212,      1,      0,       ,255 PEPPERELL RD,Gas
+    212,      2,      0,       ,261 PEPPERELL RD,Oil
+    212,      4,      0,       ,269 PEPPERELL RD,Oil
+    212,      5,      0,       ,271 PEPPERELL RD,Gas
+    212,      8,      0,       ,321 PEPPERELL RD,Oil
+    212,      9,      0,       ,331 PEPPERELL RD,Oil
+    212,     10,      0,       ,341 PEPPERELL RD,Electric
+    212,     11,      0,       ,351 PEPPERELL RD,Electric
+    212,     14,      0,       ,137 MAPLE AVE,Oil
+    212,     14,      1,       ,197 MAPLE AVE,Gas
+    212,     14,      2,       ,157 MAPLE AVE,Gas
+    212,     16,      0,       ,134 MAPLE AVE,Oil
+    212,     16,      0,       ,134 MAPLE AVE,Oil
+    212,     20,      0,       ,16 MAPLE AVE,Oil
+    212,     20,      1,       ,42 MAPLE AVE ,Gas
+    212,     21,      0,       ,170 HILL RD,Oil
+    212,     22,      0,       ,158 HILL RD ,Oil
+    212,     23,      0,       ,152 HILL RD,Oil
+    213,      2,      0,       ,409 PEPPERELL RD,Oil
+    213,      4,      0,       ,7 CASTLE DR,Oil
+    213,      5,      0,       ,15 CASTLE DR,Oil
+    213,      6,      0,       ,23 CASTLE DR,Oil
+    213,      7,      0,       ,35 CASTLE DR,Oil
+    213,      8,      0,       ,41 CASTLE DR,Oil
+    213,      9,      0,       ,53 CASTLE DR,Oil
+    213,     10,      0,       ,57 CASTLE DR,Oil
+    213,     11,      0,       ,69 CASTLE DR,Oil
+    213,     12,      0,       ,79 CASTLE DR,Oil
+    213,     13,      0,       ,83 CASTLE DR ,Oil
+    213,     14,      0,       ,93 CASTLE DR,Oil
+    213,     15,      0,       ,97 CASTLE DR,Oil
+    213,     16,      0,       ,99 CASTLE DR,Oil
+    213,     17,      0,       ,101 CASTLE DR,Oil
+    213,     18,      0,       ,11 ROOKS RUN,Oil
+    213,     19,      0,       ,2 ROOKS RUN,Oil
+    213,     20,      0,       ,62 CASTLE DR,Oil
+    213,     21,      0,       ,54 CASTLE DR,Oil
+    213,     22,      0,       ,42 CASTLE DR,Oil
+    213,     23,      0,       ,36 CASTLE DR,Oil
+    213,     24,      0,       ,32 CASTLE DR,Oil
+    213,     25,      0,       ,9 BISHOP WAY,Oil
+    213,     26,      0,       ,2 BISHOP WAY,Oil
+    213,     27,      0,       ,4 BISHOP WAY ,Oil
+    213,     28,      0,       ,6 BISHOP WAY,Oil
+    213,     29,      0,       ,8 BISHOP WAY,Oil
+    213,     30,      0,       ,10 BISHOP WAY ,Oil
+    213,     31,      0,       ,517 PEPPERELL RD,Oil
+    213,     32,      0,       ,7 THRONE HILL RD,Gas
+    213,     33,      0,       ,11 THRONE HILL RD,Gas
+    213,     34,      0,       ,15 THRONE HILL RD,Oil
+    213,     35,      0,       ,21 THRONE HILL RD,Oil
+    213,     36,      0,       ,25 THRONE HILL RD,Oil
+    213,     37,      0,       ,29 THRONE HILL RD,Oil
+    213,     38,      0,       ,33 THRONE HILL RD,Oil
+    213,     39,      0,       ,37 THRONE HILL RD,Oil
+    213,     40,      0,       ,12 ROOKS RUN,Gas
+    213,     41,      0,       ,104 CASTLE DR,Oil
+    213,     42,      0,       ,15 ROOKS RUN,Electric
+    213,     43,      0,       ,53 THRONE HILL RD,Oil
+    213,     44,      0,       ,55 THRONE HILL RD,Oil
+    213,     45,      0,       ,56 THRONE HILL RD,Oil
+    213,     46,      0,       ,54 THRONE HILL RD ,Oil
+    213,     47,      0,       ,50 THRONE HILL RD,Oil
+    213,     48,      0,       ,48 THRONE HILL RD,Oil
+    213,     49,      0,       ,44 THRONE HILL RD,Gas
+    213,     50,      0,       ,40 THRONE HILL RD,Oil
+    213,     51,      0,       ,36 THRONE HILL RD ,Oil
+    213,     52,      0,       ,32 THRONE HILL RD,Oil
+    213,     53,      0,       ,30 THRONE HILL RD,Oil
+    213,     54,      0,       ,24 THRONE HILL RD,Oil
+    213,     55,      0,       ,20 THRONE HILL RD,Oil
+    213,     56,      0,       ,16 THRONE HILL RD,Oil
+    213,     57,      0,       ,10 THRONE HILL RD,Oil
+    213,     58,      0,       ,6 THRONE HILL RD,Oil
+    213,     59,      0,       ,2 THRONE HILL RD,Oil
+    213,     62,      0,       ,532 PEPPERELL RD,Oil
+    213,     63,      0,       ,524 PEPPERELL RD,Oil
+    213,     64,      0,       ,510 PEPPERELL RD,Oil
+    213,     65,      0,       ,500 PEPPERELL RD,Oil
+    213,     68,      0,       ,480 PEPPERELL RD ,Oil
+    213,     68,      2,       ,25 WALLACE RD ,Gas
+    213,     69,      0,       ,55 WALLACE RD,Oil
+    213,     70,      0,       ,54 WALLACE RD,Oil
+    213,     71,      0,       ,50 WALLACE RD,Oil
+    213,     72,      0,       ,48 WALLACE RD,Oil
+    213,     73,      0,       ,40 WALLACE RD,Oil
+    213,     74,      0,       ,30 WALLACE RD,Oil
+    213,     75,      0,       ,22 WALLACE RD,Oil
+    213,     76,      0,       ,454 PEPPERELL RD,Oil
+    213,     77,      0,       ,440 PEPPERELL RD ,Oil
+    213,     78,      0,       ,420 PEPPERELL RD,Electric
+    213,     79,      0,       ,242 MAPLE AVE,Oil
+    213,     80,      0,       ,240 MAPLE AVE,Oil
+    213,     81,      0,       ,238 MAPLE AVE,Oil
+    213,     82,      0,       ,236 MAPLE AVE ,Gas
+    213,     84,      0,       ,207 GRATUITY RD ,Oil
+    216,      3,      0,       ,245 MILL ST ,Oil
+    216,      4,      0,       ,257 MILL ST,Oil
+    216,      5,      0,       ,13 ANTHONY DR,Coal or Wood
+    216,      6,      0,       ,17 ANTHONY DR,Gas
+    216,      7,      0,       ,39 ANTHONY DR,Gas
+    216,      8,      0,       ,40 ANTHONY DR,Oil
+    216,      9,      0,       ,36 ANTHONY DR,Oil
+    216,     10,      0,       ,26 ANTHONY DR,Gas
+    216,     13,      0,       ,10 ANTHONY DR,Gas
+    216,     17,      0,       ,20 ONEILL WAY,Oil
+    216,     18,      0,       ,18 ONEILL WAY,Oil
+    216,     19,      0,       ,10 ONEILL WAY ,Oil
+    216,     20,      0,       ,8 ONEILL WAY,Oil
+    216,     21,      0,       ,577 MAIN ST ,Oil
+    216,     22,      0,       ,583 MAIN ST,Oil
+    216,     23,      0,       ,591 MAIN ST,Gas
+    216,     24,      0,       ,11 FITCHS BRIDGE RD ,Oil
+    216,     25,      0,       ,15 FITCHS BRIDGE RD,Oil
+    216,     26,      0,       ,19 FITCHS BRIDGE RD ,Oil
+    216,     27,      0,       ,25 FITCHS BRIDGE RD,Oil
+    216,     28,      0,       ,31 FITCHS BRIDGE RD,Oil
+    216,     29,      0,       ,41 FITCHS BRIDGE RD,Oil
+    216,     30,      0,       ,59 FITCHS BRIDGE RD,Electric
+    216,     32,      0,       ,168 GRATUITY RD,Oil
+    216,     33,      0,       ,160 GRATUITY RD,Oil
+    216,     34,      0,       ,150 GRATUITY RD,Oil
+    216,     35,      0,       ,140 GRATUITY RD,Oil
+    216,     36,      0,       ,130 GRATUITY RD,Oil
+    216,     37,      0,       ,114 GRATUITY RD,Oil
+    216,     38,      0,       ,104 GRATUITY RD,Gas
+    216,     39,      0,       ,94 GRATUITY RD,Oil
+    216,     40,      0,       ,86 GRATUITY RD,Oil
+    216,     41,      0,       ,78 GRATUITY RD,Oil
+    216,     42,      0,       ,66 GRATUITY RD,Oil
+    216,     43,      0,       ,62 GRATUITY RD,Gas
+    216,     44,      0,       ,52 GRATUITY RD,Oil
+    216,     45,      0,       ,38 GRATUITY RD,Oil
+    216,     46,      0,       ,61 GRATUITY RD,Oil
+    216,     47,      0,       ,63 GRATUITY RD,Oil
+    216,     48,      0,       ,71 GRATUITY RD ,Oil
+    216,     50,      0,       ,111 GRATUITY RD,Gas
+    216,     51,      0,       ,119 GRATUITY RD,Oil
+    216,     52,      0,       ,133 GRATUITY RD,Oil
+    216,     56,      1,       ,191 GRATUITY RD,Oil
+    216,     56,      2,       ,193 GRATUITY RD,Oil
+    216,     56,      3,       ,175 GRATUITY RD,Oil
+    216,     56,      4,       ,151 GRATUITY RD,Oil
+    216,     56,      5,       ,177 GRATUITY RD,Gas
+    216,     56,      6,       ,179 GRATUITY RD,Coal or Wood
+    216,     56,      7,       ,155 GRATUITY RD,Oil
+    216,     56,      8,       ,141 GRATUITY RD,Oil
+    216,     56,      9,       ,173 GRATUITY RD ,Oil
+    216,     59,      0,       ,54 FITCHS BRIDGE RD,Oil
+    216,     60,      0,       ,38 FITCHS BRIDGE RD,Oil
+    216,     65,      0,       ,37 NOD RD,Gas
+    216,     66,      0,       ,51 NOD RD ,Electric
+    216,     67,      0,       ,63 NOD RD,Oil
+    216,     68,      0,       ,65 NOD RD,Oil
+    216,     69,      0,       ,67 NOD RD,Oil
+    216,     74,      0,       ,126 NOD RD,Oil
+    216,     75,      0,       ,124 NOD RD,Oil
+    216,     76,      0,       ,102 NOD RD,Oil
+    216,     77,      0,       ,96 NOD RD,Oil
+    216,     79,      0,       ,70 NOD RD,Oil
+    216,     80,      0,       ,54 NOD RD,Gas
+    216,     81,      0,       ,50 NOD RD,Gas
+    216,     83,      0,       ,18 NOD RD ,Oil
+    216,     84,      0,       ,8 NOD RD,Oil
+    216,     85,      0,       ,600 MAIN ST,Gas
+    216,     88,      0,       ,580 MAIN ST,Gas
+    216,     89,      0,       ,570 MAIN ST,Oil
+    216,     90,      0,       ,556 MAIN ST,Oil
+    216,     91,      0,       ,550 MAIN ST,Oil
+    216,     92,      0,       ,546 MAIN ST,Gas
+    216,     92,      0,       ,546 MAIN ST,Oil
+    216,     98,      0,       ,478 MAIN ST,Oil
+    216,    100,      0,       ,27 TAYLOR ST,Oil
+    216,    103,      0,       ,50 TAYLOR ST,Oil
+    216,    104,      0,       ,44 TAYLOR ST,Oil
+    216,    105,      0,       ,36 TAYLOR ST,Oil
+    216,    106,      0,       ,28 TAYLOR ST,Oil
+    217,      2,      0,       ,99 JENKINS RD,Oil
+    217,      3,      0,       ,117 JENKINS RD,Oil
+    217,      4,      0,       ,17 HICKORY LN,Gas
+    217,      5,      0,       ,242 RIVERBEND DR,Oil
+    217,      7,      0,       ,192 RIVERBEND DR,Gas
+    217,      8,      0,       ,186 RIVERBEND DR,Oil
+    217,      9,      0,       ,176 RIVERBEND DR,Oil
+    217,     10,      0,       ,170 RIVERBEND DR,Oil
+    217,     11,      0,       ,162 RIVERBEND DR,Gas
+    217,     12,      0,       ,156 RIVERBEND DR,Oil
+    217,     13,      0,       ,146 RIVERBEND DR,Gas
+    217,     14,      0,       ,136 RIVERBEND DR,Gas
+    217,     15,      0,       ,124 RIVERBEND DR ,Gas
+    217,     16,      0,       ,108 RIVERBEND DR,Gas
+    217,     17,      0,       ,105 RIVERBEND DR,Gas
+    217,     18,      0,       ,113 RIVERBEND DR,Oil
+    217,     20,      0,       ,7 WINTERGREEN LN ,Gas
+    217,     21,      0,       ,15 WINTERGREEN LN,Oil
+    217,     22,      0,       ,23 WINTERGREEN LN,Gas
+    217,     23,      0,       ,35 WINTERGREEN LN ,Gas
+    217,     24,      0,       ,45 WINTERGREEN LN,Gas
+    217,     26,      0,       ,53 WINTERGREEN LN ,Gas
+    217,     27,      0,       ,71 WINTERGREEN LN,Gas
+    217,     28,      0,       ,95 WINTERGREEN LN,Gas
+    217,     29,      0,       ,105 WINTERGREEN LN,Gas
+    217,     30,      0,       ,109 WINTERGREEN LN,Oil
+    217,     31,      0,       ,111 WINTERGREEN LN,Gas
+    217,     32,      0,       ,117 WINTERGREEN LN ,Gas
+    217,     33,      0,       ,100 WINTERGREEN LN,Gas
+    217,     35,      0,       ,364 RIVERBEND DR,Gas
+    217,     36,      0,       ,358 RIVERBEND DR,Gas
+    217,     37,      0,       ,344 RIVERBEND DR,Gas
+    217,     38,      0,       ,336 RIVERBEND DR,Gas
+    217,     39,      0,       ,314 RIVERBEND DR,Gas
+    217,     40,      0,       ,310 RIVERBEND DR,Gas
+    217,     41,      0,       ,304 RIVERBEND DR,Gas
+    217,     42,      0,       ,298 RIVERBEND DR,Gas
+    217,     43,      0,       ,284 RIVERBEND DR,Oil
+    217,     44,      0,       ,280 RIVERBEND DR,Oil
+    217,     45,      0,       ,270 RIVERBEND DR,Oil
+    217,     46,      0,       ,258 RIVERBEND DR,Oil
+    217,     47,      0,       ,263 RIVERBEND DR,Oil
+    217,     48,      0,       ,281 RIVERBEND DR,Oil
+    217,     49,      0,       ,307 RIVERBEND DR,Gas
+    217,     50,      0,       ,321 RIVERBEND DR,Gas
+    217,     51,      0,       ,331 RIVERBEND DR,Gas
+    217,     52,      0,       ,341 RIVERBEND DR,Gas
+    217,     53,      0,       ,357 RIVERBEND DR,Gas
+    217,     54,      0,       ,365 RIVERBEND DR,Gas
+    217,     56,      0,       ,68 WINTERGREEN LN,Gas
+    217,     57,      0,       ,64 WINTERGREEN LN,Gas
+    217,     58,      0,       ,56 WINTERGREEN LN,Gas
+    217,     59,      0,       ,50 WINTERGREEN LN,Gas
+    217,     60,      0,       ,44 WINTERGREEN LN,Gas
+    217,     61,      0,       ,36 WINTERGREEN LN,Gas
+    217,     62,      0,       ,26 WINTERGREEN LN,Gas
+    217,     63,      0,       ,20 WINTERGREEN LN,Gas
+    217,     64,      0,       ,2 WINTERGREEN LN ,Gas
+    217,     65,      0,       ,145 RIVERBEND DR,Oil
+    217,     66,      0,       ,197 RIVERBEND DR,Gas
+    217,     67,      0,       ,201 RIVERBEND DR,Gas
+    217,     68,      0,       ,209 RIVERBEND DR,Gas
+    217,     69,      0,       ,227 RIVERBEND DR,Oil
+    217,     70,      0,       ,235 RIVERBEND DR,Oil
+    217,     71,      0,       ,243 RIVERBEND DR,Oil
+    217,     72,      0,       ,253 RIVERBEND DR,Oil
+    217,     74,      0,       ,20 HICKORY LN,Oil
+    217,     75,      0,       ,8 HICKORY LN,Oil
+    217,     76,      0,       ,262 RIVERBEND DR,Oil
+    217,     77,      0,       ,266 RIVERBEND DR,Oil
+    217,     80,      0,       ,88 JENKINS RD ,Gas
+    217,     80,      2,       ,90 JENKINS RD ,Gas
+    217,     81,      0,       ,80 JENKINS RD,Oil
+    217,     82,      0,       ,74 JENKINS RD,Gas
+    217,     83,      0,       ,66 JENKINS RD,Oil
+    217,     85,      0,       ,32 JENKINS RD,Gas
+    217,     85,      2,       ,46 JENKINS RD,Gas
+    217,     85,      3,       ,58 JENKINS RD,Gas
+    217,     86,      0,       ,51 GRATUITY RD,Gas
+    217,     87,      0,       ,57 GRATUITY RD,Oil
+    217,     88,      0,       ,55 GRATUITY RD ,Oil
+    218,      4,      0,       ,151 LONG HILL RD,Gas
+    218,      8,      0,       ,51 RIVERBEND DR,Gas
+    218,      9,      0,       ,65 RIVERBEND DR,Gas
+    218,     10,      0,       ,79 RIVERBEND DR,Gas
+    218,     11,      0,       ,113 WINTERGREEN LN,Gas
+    218,     12,      0,       ,141 WINTERGREEN LN,Gas
+    218,     13,      0,       ,157 WINTERGREEN LN,Gas
+    218,     14,      0,       ,167 WINTERGREEN LN,Gas
+    218,     15,      0,       ,173 WINTERGREEN LN,Gas
+    218,     16,      0,       ,175 WINTERGREEN LN,Gas
+    218,     17,      0,       ,177 WINTERGREEN LN ,Gas
+    218,     18,      0,       ,178 WINTERGREEN LN,Gas
+    218,     19,      0,       ,172 WINTERGREEN LN,Gas
+    218,     20,      0,       ,164 WINTERGREEN LN,Gas
+    218,     21,      0,       ,158 WINTERGREEN LN,Gas
+    218,     22,      0,       ,150 WINTERGREEN LN,Gas
+    218,     23,      0,       ,68 RIVERBEND DR,Gas
+    218,     24,      0,       ,54 RIVERBEND DR,Oil
+    219,      1,      0,       ,47 PEABODY ST,Gas
+    219,      2,      0,       ,295 FARMERS ROW,Coal or Wood
+    219,      2,      0,       ,295 FARMERS ROW,Gas
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      3,      0,       ,410 FARMERS ROW,Oil
+    219,      3,      0,       ,410 FARMERS ROW,Oil
+    219,      3,      0,       ,410 FARMERS ROW,Oil
+    219,      3,      0,       ,410 FARMERS ROW,Oil
+    219,      4,      0,       ,35 SHIRLEY RD,Oil
+    219,      4,      0,       ,35 SHIRLEY RD,Oil
+    219,      4,      0,       ,35 SHIRLEY RD,Oil
+    219,      4,      0,       ,35 SHIRLEY RD,Oil
+    219,      4,      0,       ,35 SHIRLEY RD,Oil
+    219,      4,      0,       ,35 SHIRLEY RD,Oil
+    219,      5,      0,       ,63 JOY LN,Oil
+    219,      7,      0,       ,97 JOY LN,Oil
+    219,      7,      0,       ,97 JOY LN,Oil
+    219,      7,      0,       ,97 JOY LN,Oil
+    219,      7,      0,       ,97 JOY LN,Oil
+    219,      8,      2,       ,102 JOY LN ,Gas
+    219,      8,      4,       ,162 SHIRLEY RD,Gas
+    219,      8,      4,       ,162 SHIRLEY RD,Gas
+    219,      8,      5,       ,194  SHIRLEY RD,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    220,      1,      0,       ,5 CULVER RD,Oil
+    220,      2,      0,       ,35 CULVER RD,Oil
+    220,      3,      0,       ,19 SMITH ST,Gas
+    220,      4,      0,       ,35 SMITH ST,Oil
+    220,      5,      0,       ,43 SMITH ST,Oil
+    220,      6,      0,       ,36 SMITH ST,Gas
+    220,      7,      0,       ,24 SMITH ST ,Oil
+    220,      8,      0,       ,81 CULVER RD,Oil
+    220,      9,      0,       ,85 CULVER RD,Oil
+    220,     10,      1,       ,121 CULVER RD,Solar Assisted
+    220,     11,      0,       ,7 DOLAN DR,Oil
+    220,     12,      0,       ,15 DOLAN DR ,Oil
+    220,     13,      0,       ,19 DOLAN DR,Oil
+    220,     14,      0,       ,43 DOLAN DR,Oil
+    220,     15,      0,       ,55 DOLAN DR,Oil
+    220,     16,      0,       ,52 DOLAN DR ,Oil
+    220,     17,      0,       ,48 DOLAN DR,Oil
+    220,     18,      0,       ,38 DOLAN DR,Oil
+    220,     19,      0,       ,28 DOLAN DR,Oil
+    220,     20,      0,       ,80 CULVER RD,Oil
+    220,     21,      0,       ,58 CULVER RD,Oil
+    220,     22,      0,       ,28 MOORS RD,Gas
+    220,     23,      0,       ,16 MOORS RD,Gas
+    220,     24,      0,       ,491 FARMERS ROW,Oil
+    220,     25,      0,       ,501 FARMERS ROW,Oil
+    220,     26,      0,       ,521 FARMERS ROW ,Oil
+    220,     27,      0,       ,545 FARMERS ROW,Oil
+    220,     28,      0,       ,518 FARMERS ROW,Gas
+    220,     30,      0,       ,26 CULVER RD,Gas
+    220,     33,      0,       ,133  SHIRLEY RD,Oil
+    221,      1,      0,       ,291 OLD AYER RD,Gas
+    221,      3,      0,       ,383 OLD AYER RD,Gas
+    221,      4,      0,       ,33 WORTHEN DR,Gas
+    221,      4,      1,       ,29 WORTHEN DR,Electric
+    221,      4,      1,       ,29 WORTHEN DR,Oil
+    221,      4,     03,       ,45 WORTHEN DR,Gas
+    221,      5,      0,       ,59 WORTHEN DR ,Gas
+    221,      7,      0,       ,58 WORTHEN DR ,Oil
+    221,      8,      0,       ,42 WORTHEN DR,Gas
+    221,     10,      0,       ,20 WORTHEN DR,Oil
+    221,     12,      0,       ,67 DALE LN,Oil
+    221,     14,      1,       ,72 DALE LN,Oil
+    221,     16,      0,       ,401 OLD AYER RD,Oil
+    221,     17,      0,       ,409 OLD AYER RD,Oil
+    221,     18,      0,       ,417 OLD AYER RD,Oil
+    221,     19,      0,       ,419 OLD AYER RD,Oil
+    221,     20,      0,       ,423 OLD AYER RD,Gas
+    221,     30,      0,       ,441 OLD AYER RD,Gas
+    221,     33,      0,       ,80 PACER WAY,Gas
+    221,     34,      0,       ,74 PACER WAY,Gas
+    221,     35,      0,       ,68 PACER WAY,Gas
+    221,     36,      0,       ,60 PACER WAY,Gas
+    221,     37,      0,       ,52 PACER WAY,Gas
+    221,     38,      0,       ,44 PACER WAY,Gas
+    221,     39,      0,       ,36 PACER WAY,Gas
+    221,     40,      0,       ,28 PACER WAY,Gas
+    221,     41,      0,       ,24 PACER WAY,Gas
+    221,     42,      0,       ,20 PACER WAY,Gas
+    221,     43,      0,       ,2 PACER WAY,Gas
+    221,     44,      0,       ,430 OLD AYER RD,Gas
+    221,     45,      0,       ,424 OLD AYER RD,Gas
+    221,     46,      0,       ,416 OLD AYER RD,Gas
+    221,     47,      0,       ,30 PACER WAY,Gas
+    221,     48,      0,       ,110 SMITH ST,Gas
+    221,     49,      0,       ,102 SMITH ST,Gas
+    221,     50,      0,       ,92 SMITH ST,Gas
+    221,     51,      0,       ,82 SMITH ST,Gas
+    221,     52,      0,       ,74 SMITH ST,Gas
+    221,     54,      0,       ,44 SMITH ST ,Oil
+    221,     55,      0,       ,53 SMITH ST,Gas
+    221,     57,      0,       ,71 SMITH ST,Gas
+    221,     58,      0,       ,87 SMITH ST,Oil
+    221,     59,      0,       ,107 SMITH ST,Gas
+    221,     59,      1,       ,119 SMITH ST,Gas
+    221,     60,      0,       ,129 SMITH ST,Oil
+    221,     61,      0,       ,133 SMITH ST,Oil
+    221,     62,      0,       ,370 OLD AYER RD,Gas
+    221,     63,      0,       ,326 OLD AYER RD,Oil
+    221,     64,      0,       ,324 OLD AYER RD,Oil
+    221,     65,      0,       ,322 OLD AYER RD,Oil
+    221,     66,      0,       ,320 OLD AYER RD,Gas
+    221,     67,      0,       ,310 OLD AYER RD,Gas
+    221,     68,      0,       ,284 OLD AYER RD ,Gas
+    222,      1,      0,       ,55 BOSTON RD,Oil
+    222,      2,      0,       ,63 BOSTON RD,Gas
+    222,      3,      0,       ,81 BOSTON RD ,Gas
+    222,      5,      0,       ,152-158 BOSTON RD,Oil
+    222,      6,      0,       ,144-146 BOSTON RD #A AND B,Oil
+    222,      7,      0,       ,13 SKYFIELDS DR,Oil
+    222,      8,      0,       ,31 SKYFIELDS DR,Oil
+    222,     10,      0,       ,130 SKYFIELDS DR ,Gas
+    222,     11,      0,       ,116 SKYFIELDS DR,Gas
+    222,     12,      0,       ,36 SKYFIELDS DR,Oil
+    222,     22,      0,       ,60 BOSTON RD,Oil
+    222,     23,      0,       ,56 BOSTON RD,Gas
+    222,     24,      0,       ,57 OLD AYER RD,Oil
+    222,     26,      0,       ,133 OLD AYER RD ,Solar Assisted
+    222,     27,      0,       ,25 INDIAN HILL RD,Gas
+    222,     28,      0,       ,39 INDIAN HILL RD,Electric
+    222,     30,      0,       ,55 INDIAN HILL RD,Oil
+    222,     34,      0,       ,99 INDIAN HILL RD,Oil
+    222,     34,      1,       ,93 INDIAN HILL RD,Oil
+    222,     34,      2,       ,105 INDIAN HILL RD,Oil
+    222,     35,      0,       ,125 INDIAN HILL RD ,Oil
+    222,     37,      0,       ,155 INDIAN HILL RD,Oil
+    222,     38,      0,       ,163 INDIAN HILL RD,Oil
+    222,     39,      0,       ,179 INDIAN HILL RD,Solar Assisted
+    222,     41,      0,       ,126 INDIAN HILL RD,Oil
+    222,     42,      0,       ,98 INDIAN HILL RD,Oil
+    222,     44,      0,       ,26 INDIAN HILL RD,Oil
+    222,     45,      0,       ,18 INDIAN HILL RD,Oil
+    222,     46,      0,       ,255 OLD AYER RD,Oil
+    222,     49,      0,       ,264 OLD AYER RD,Gas
+    222,     50,      0,       ,256 OLD AYER RD ,Oil
+    222,     51,      0,       ,244 OLD AYER RD,Oil
+    222,     52,      1,       ,236 OLD AYER RD,Gas
+    222,     54,      0,       ,170 OLD AYER RD,Coal or Wood
+    222,     56,      0,       ,106 PEABODY ST,Oil
+    222,     58,      0,       ,62 PEABODY ST,Gas
+    222,     59,      0,       ,69 PEABODY ST,Oil
+    222,     60,      0,       ,90 HIGLEY ST,Oil
+    222,     63,      0,       ,125 PEABODY ST,Oil
+    222,     64,      0,       ,13 TEMPLE DR,Electric
+    222,     65,      0,       ,21 TEMPLE DR ,Oil
+    222,     66,      0,       ,14 TEMPLE DR,Oil
+    222,     67,      0,       ,135 PEABODY ST,Oil
+    222,     68,      0,       ,147 PEABODY ST,Oil
+    222,     70,      0,       ,78 OLD AYER RD,Oil
+    224,      1,      0,       ,65 MARTINS POND RD,Gas
+    224,      2,      0,       ,79 MARTINS POND RD,Oil
+    224,      3,      0,       ,91 MARTINS POND RD,Oil
+    224,      4,      0,       ,101 MARTINS POND RD,Gas
+    224,      5,      0,       ,104 BLOSSOM LN ,Gas
+    224,      6,      0,       ,88 BLOSSOM LN ,Oil
+    224,      7,      0,       ,42 BLOSSOM LN,Gas
+    224,      8,      0,       ,32 BLOSSOM LN,Gas
+    224,      9,      0,       ,87 BLOSSOM LN,Oil
+    224,     10,      0,       ,97 BLOSSOM LN,Oil
+    224,     11,      0,       ,103 BLOSSOM LN,Oil
+    224,     12,      0,       ,109 BLOSSOM LN,Oil
+    224,     13,      0,       ,115 BLOSSOM LN,Electric
+    224,     14,      0,       ,123 MARTINS POND RD,Oil
+    224,     15,      0,       ,125 MARTINS POND RD,Electric
+    224,     17,      0,       ,193 MARTINS POND RD,Oil
+    224,     21,      0,       ,284 MARTINS POND RD,Oil
+    224,     22,      0,       ,242 MARTINS POND RD,Oil
+    224,     23,      0,       ,240 MARTINS POND RD,Oil
+    224,     24,      0,       ,162 MARTINS POND RD ,Gas
+    224,     24,      2,       ,172 MARTINS POND RD,Gas
+    224,     24,      4,       ,148 MARTINS POND RD ,Gas
+    224,     24,      5,       ,128 MARTINS POND RD ,Gas
+    224,     25,      0,       ,94 MARTINS POND RD,Gas
+    224,     26,      0,       ,90 MARTINS POND RD ,Oil
+    224,     27,      0,       ,82 MARTINS POND RD,Oil
+    224,     28,      0,       ,9 CONNOLLY DR,Oil
+    224,     29,      0,       ,19 CONNOLLY DR,Oil
+    224,     30,      0,       ,26 CONNOLLY DR,Gas
+    224,     31,      0,       ,24 CONNOLLY DR,Oil
+    224,     32,      0,       ,22 CONNOLLY DR,Oil
+    224,     33,      0,       ,18 CONNOLLY DR,Oil
+    224,     34,      0,       ,72 MARTINS POND RD,Oil
+    225,      1,      0,       ,15 LONGLEY RD,Oil
+    225,      2,      0,       ,25 LONGLEY RD,Oil
+    225,      3,      0,       ,33 LONGLEY RD,Gas
+    225,      4,      0,       ,37 LONGLEY RD,Oil
+    225,      5,      0,       ,43 LONGLEY RD,Oil
+    225,      6,      0,       ,17 BREAKNECK RD,Oil
+    225,      8,      0,       ,128 COMMON ST,Oil
+    225,      9,      0,       ,106 COMMON ST ,Gas
+    225,      9,      2,       ,92 COMMON ST ,Electric
+    225,     10,      0,       ,80 COMMON ST,Gas
+    225,     12,      0,       ,67 COMMON ST,Oil
+    225,     13,      0,       ,109 COMMON ST,Oil
+    225,     14,      0,       ,125 COMMON ST ,Gas
+    225,     17,      0,       ,20 SAND HILL RD ,Gas
+    225,     17,      1,       ,32 SAND HILL RD,Gas
+    225,     18,      0,       ,260 COMMON ST ,Oil
+    225,     19,      0,       ,232 COMMON ST ,Oil
+    225,     20,      0,       ,222 COMMON ST,Oil
+    225,     22,      0,       ,162 COMMON ST,Oil
+    225,     22,      1,       ,186 COMMON ST,Oil
+    225,     23,      0,       ,28 BREAKNECK RD,Oil
+    225,     24,      0,       ,18 BREAKNECK RD ,Oil
+    225,     27,      0,       ,61 LONGLEY RD ,Oil
+    225,     28,      0,       ,101 LONGLEY RD,Oil
+    225,     29,      0,       ,"129 LONGLEY RD #A,B",Oil
+    225,     29,      0,       ,"129 LONGLEY RD #A,B",Oil
+    225,     30,      0,       ,145 LONGLEY RD,Oil
+    225,     33,      0,       ,128 LONGLEY RD,Oil
+    225,     36,      0,       ,104 LONGLEY RD,Oil
+    225,     38,      0,       ,70 LONGLEY RD,Oil
+    225,     39,      0,       ,56 LONGLEY RD,Oil
+    225,     41,      0,       ,1 CHICOPEE ROW,Oil
+    225,     41,      1,       ,16 LONGLEY RD,Gas
+    225,     41,      2,       ,27 CHICOPEE ROW,Oil
+    225,     43,      0,       ,39 CHICOPEE ROW,Oil
+    225,     44,      0,       ,51 CHICOPEE ROW,Gas
+    225,     47,      0,       ,71 CHICOPEE ROW,Electric
+    225,     48,      0,       ,85 CHICOPEE ROW,Oil
+    225,     50,      0,       ,97 CHICOPEE ROW ,Oil
+    225,     51,      0,       ,109 CHICOPEE ROW,Gas
+    225,     54,      0,       ,193 CHICOPEE ROW ,Oil
+    225,     56,      0,       ,222 CHICOPEE ROW,Oil
+    225,     57,      0,       ,210 CHICOPEE ROW,Oil
+    225,     58,      0,       ,196 CHICOPEE ROW,Oil
+    225,     59,      0,       ,180 CHICOPEE ROW,Oil
+    225,     60,      0,       ,166 CHICOPEE ROW,Oil
+    225,     64,      0,       ,31 BLOSSOM LN ,Oil
+    225,     65,      0,       ,45 BLOSSOM LN,Oil
+    225,     66,      0,       ,53 BLOSSOM LN,Oil
+    225,     67,      0,       ,59 BLOSSOM LN,Gas
+    225,     68,      0,       ,13 BRANCH LN,Oil
+    225,     70,      0,       ,21 BRANCH LN,Oil
+    225,     71,      0,       ,29 BRANCH LN,Oil
+    225,     73,      0,       ,76 BLOSSOM LN,Oil
+    225,     74,      0,       ,62 BLOSSOM LN,Gas
+    225,     75,      0,       ,50 BLOSSOM LN,Oil
+    225,     76,      0,       ,18 BLOSSOM LN,Gas
+    226,      1,      0,       ,233 LONGLEY RD,Oil
+    226,      2,      1,       ,194  SAND HILL RD,Oil
+    226,      2,      2,       ,204 SAND HILL RD,Gas
+    226,      3,      0,       ,138 SAND HILL RD ,Oil
+    226,      6,      0,       ,46 SAND HILL RD,Oil
+    226,      9,      0,       ,113 SAND HILL RD,Oil
+    226,     10,      0,       ,117 SAND HILL RD,Oil
+    226,     11,      0,       ,137 SAND HILL RD,Oil
+    226,     12,      0,       ,139 SAND HILL RD,Oil
+    226,     13,      0,       ,145 SAND HILL RD,Oil
+    226,     14,      0,       ,154 SAND HILL RD,Oil
+    226,     16,      0,       ,187 SAND HILL RD,Oil
+    226,     17,      0,       ,195 SAND HILL RD,Oil
+    226,     18,      0,       ,203 SAND HILL RD ,Oil
+    226,     19,      0,       ,313 LONGLEY RD,Oil
+    226,     20,      0,       ,325 LONGLEY RD,Oil
+    226,     21,      0,       ,331 LONGLEY RD,Oil
+    226,     22,      0,       ,345 LONGLEY RD,Oil
+    226,     23,      0,       ,351 LONGLEY RD ,Oil
+    226,     24,      0,       ,363 LONGLEY RD,Oil
+    226,     26,      0,       ,371 LONGLEY RD,Oil
+    226,     28,      0,       ,379 LONGLEY RD,Oil
+    226,     29,      0,       ,389 LONGLEY RD,Oil
+    226,     30,      0,       ,401 LONGLEY RD,Oil
+    226,     31,      0,       ,19 DRUMLIN HILL RD,Oil
+    226,     32,      0,       ,25 DRUMLIN HILL RD,Oil
+    226,     33,      0,       ,5 SADDLE LN,Oil
+    226,     34,      0,       ,11 SADDLE LN ,Oil
+    226,     35,      0,       ,21 SADDLE LN,Oil
+    226,     36,      0,       ,33 SADDLE LN ,Oil
+    226,     37,      0,       ,41 SADDLE LN,Oil
+    226,     38,      0,       ,47 SADDLE LN ,Oil
+    226,     39,      0,       ,54 SADDLE LN,Oil
+    226,     40,      0,       ,52 SADDLE LN,Oil
+    226,     41,      0,       ,48 SADDLE LN,Electric
+    226,     42,      0,       ,42 SADDLE LN,Gas
+    226,     43,      0,       ,34 SADDLE LN,Oil
+    226,     44,      0,       ,22 SADDLE LN,Electric
+    226,     45,      0,       ,12 SADDLE LN,Oil
+    226,     46,      0,       ,37 DRUMLIN HILL RD,Electric
+    226,     47,      0,       ,41 DRUMLIN HILL RD,Gas
+    226,     50,      0,       ,45 DRUMLIN HILL RD,Oil
+    226,     51,      0,       ,47 DRUMLIN HILL RD,Electric
+    226,     52,      0,       ,46 DRUMLIN HILL RD,Oil
+    226,     53,      0,       ,44 DRUMLIN HILL RD,Oil
+    226,     54,      0,       ,30 DRUMLIN HILL RD ,Electric
+    226,     55,      0,       ,408 LONGLEY RD,Oil
+    226,     56,      0,       ,400 LONGLEY RD,Gas
+    226,     57,      0,       ,378 LONGLEY RD,Gas
+    226,     58,      0,       ,366 LONGLEY RD,Oil
+    226,     59,      0,       ,350 LONGLEY RD,Oil
+    226,     60,      0,       ,340 LONGLEY RD,Gas
+    226,     60,      1,       ,332 LONGLEY RD ,Gas
+    226,     60,      2,       ,338 LONGLEY RD,Gas
+    226,     61,      0,       ,314 LONGLEY RD,Gas
+    226,     62,      0,       ,284 LONGLEY RD ,Oil
+    226,     64,      0,       ,21 NASHUA RD,Oil
+    226,     65,      0,       ,29 NASHUA RD,Electric
+    226,     66,      0,       ,37 NASHUA RD,Oil
+    226,     68,      0,       ,75 NASHUA RD,Oil
+    226,     69,      0,       ,77 NASHUA RD,Electric
+    226,     70,      0,       ,105 NASHUA RD,Electric
+    226,     71,      0,       ,103 NASHUA RD ,Oil
+    226,     72,      0,       ,109 NASHUA RD,Electric
+    226,     73,      0,       ,115 NASHUA RD,Electric
+    226,     74,      0,       ,119 NASHUA RD,Oil
+    226,     75,      0,       ,133 NASHUA RD,Oil
+    226,     76,      0,       ,142 NASHUA RD,Oil
+    226,     77,      0,       ,29 REEDY MEADOW RD,Oil
+    226,     79,      0,       ,21 REEDY MEADOW RD,Oil
+    226,     80,      0,       ,33 REEDY MEADOW RD,Oil
+    226,     81,      0,       ,53 REEDY MEADOW RD,Oil
+    226,     82,      0,       ,59 REEDY MEADOW RD,Oil
+    226,     83,      0,       ,67 REEDY MEADOW RD,Electric
+    226,     84,      0,       ,75 REEDY MEADOW RD,Oil
+    226,     85,      0,       ,85 REEDY MEADOW RD,Electric
+    226,     86,      0,       ,93 REEDY MEADOW RD,Oil
+    226,     87,      0,       ,92 REEDY MEADOW RD,Oil
+    226,     88,      0,       ,82 REEDY MEADOW RD,Oil
+    226,     89,      0,       ,7 MCLAINS WOODS RD ,Gas
+    226,     90,      0,       ,25 MCLAINS WOODS RD,Oil
+    226,     91,      0,       ,35 MCLAINS WOODS RD,Oil
+    226,     93,      0,       ,56 MCLAINS WOODS RD,Gas
+    226,     96,      0,       ,20 MCLAINS WOODS RD,Oil
+    226,     97,      0,       ,16 MCLAINS WOODS RD,Oil
+    226,     98,      0,       ,14 MCLAINS WOODS RD,Oil
+    226,     99,      0,       ,4 MCLAINS WOODS RD,Gas
+    226,    100,      0,       ,48 REEDY MEADOW RD,Electric
+    226,    101,      0,       ,5 HIGH OAKS PATH,Oil
+    226,    102,      0,       ,15 HIGH OAKS PATH,Oil
+    226,    103,      0,       ,17 HIGH OAKS PATH,Oil
+    226,    104,      0,       ,19 HIGH OAKS PATH ,Oil
+    226,    105,      0,       ,21 HIGH OAKS PATH,Oil
+    226,    106,      0,       ,18 HIGH OAKS PATH,Oil
+    226,    107,      0,       ,14 HIGH OAKS PATH,Oil
+    226,    109,      0,       ,34 NASHUA RD,Oil
+    226,    110,      0,       ,32 NASHUA RD,Oil
+    226,    111,      0,       ,22 NASHUA RD,Oil
+    226,    112,      0,       ,16 NASHUA RD,Oil
+    226,    113,      0,       ,18 NASHUA RD,Oil
+    226,    114,      0,       ,6 NASHUA RD,Electric
+    226,    115,      0,       ,250 LONGLEY RD,Oil
+    226,    116,      0,       ,238 LONGLEY RD,Oil
+    226,    117,      0,       ,236 LONGLEY RD,Oil
+    226,    118,      0,       ,220 LONGLEY RD,Oil
+    226,    119,      0,       ,218 LONGLEY RD,Gas
+    226,    120,      0,       ,216 LONGLEY RD,Oil
+    226,    121,      0,       ,212 LONGLEY RD,Oil
+    227,      1,      0,       ,16 DRUMLIN HILL RD,Oil
+    227,      2,      0,       ,409 LONGLEY RD,Oil
+    227,      4,      0,       ,421 LONGLEY RD,Oil
+    227,      6,      0,       ,447 LONGLEY RD,Oil
+    227,      7,      0,       ,455 LONGLEY RD,Oil
+    227,      8,      0,       ,461 LONGLEY RD,Oil
+    227,      9,      0,       ,463 LONGLEY RD,Oil
+    227,     10,      0,       ,471 LONGLEY RD,Oil
+    227,     11,      0,       ,479 LONGLEY RD,Oil
+    227,     12,      0,       ,481 LONGLEY RD,Oil
+    227,     13,      0,       ,499 LONGLEY RD ,Oil
+    227,     14,      0,       ,501 LONGLEY RD,Electric
+    227,     15,      0,       ,503 LONGLEY RD,Oil
+    227,     16,      0,       ,507 LONGLEY RD,Oil
+    227,     17,      0,       ,509 LONGLEY RD,Oil
+    227,     18,      0,       ,519 LONGLEY RD,Oil
+    227,     19,      0,       ,523 LONGLEY RD,Gas
+    227,     20,      0,       ,533 LONGLEY RD,Oil
+    227,     21,      0,       ,539 LONGLEY RD,Oil
+    227,     22,      0,       ,541 LONGLEY RD,Electric
+    227,     24,      0,       ,551 LONGLEY RD ,Oil
+    227,     25,      0,       ,555 LONGLEY RD,Oil
+    227,     26,      0,       ,565 LONGLEY RD,Oil
+    227,     28,      0,       ,573 LONGLEY RD ,Oil
+    227,     29,      0,       ,146 PAQUAWKET PATH,Oil
+    227,     30,      0,       ,140 PAQUAWKET PATH,Oil
+    227,     31,      0,       ,130 PAQUAWKET PATH ,Oil
+    227,     32,      0,       ,102 PAQUAWKET PATH,Oil
+    227,     33,      0,       ,116 PAQUAWKET PATH,Oil
+    227,     34,      0,       ,104 PAQUAWKET PATH,Electric
+    227,     35,      0,       ,100 PAQUAWKET PATH,Oil
+    227,     36,      0,       ,98 PAQUAWKET PATH,Oil
+    227,     38,      0,       ,92 PAQUAWKET PATH,Oil
+    227,     39,      0,       ,84 PAQUAWKET PATH,Electric
+    227,     40,      0,       ,76 PAQUAWKET PATH,Oil
+    227,     41,      0,       ,70 PAQUAWKET PATH,Oil
+    227,     42,      0,       ,62 PAQUAWKET PATH ,Oil
+    227,     43,      0,       ,52 PAQUAWKET PATH,Oil
+    227,     44,      0,       ,40 PAQUAWKET PATH,Electric
+    227,     45,      0,       ,43 PAQUAWKET PATH,Electric
+    227,     46,      0,       ,53 PAQUAWKET PATH,Electric
+    227,     47,      0,       ,61 PAQUAWKET PATH,Gas
+    227,     48,      0,       ,81 PAQUAWKET PATH,Electric
+    227,     49,      0,       ,103 PAQUAWKET PATH,Electric
+    227,     50,      0,       ,113 PAQUAWKET PATH,Oil
+    227,     51,      0,       ,127 PAQUAWKET PATH,Oil
+    227,     52,      0,       ,147 PAQUAWKET PATH,Electric
+    227,     53,      0,       ,30 PAQUAWKET PATH,Electric
+    227,     54,      0,       ,20 PAQUAWKET PATH,Oil
+    227,     57,      0,       ,574 LONGLEY RD,Oil
+    227,     58,      0,       ,572 LONGLEY RD,Oil
+    227,     59,      0,       ,564 LONGLEY RD,Oil
+    227,     60,      0,       ,562 LONGLEY RD,Oil
+    227,     61,      0,       ,560 LONGLEY RD,Oil
+    227,     62,      0,       ,558 LONGLEY RD,Oil
+    227,     63,      0,       ,556 LONGLEY RD,Oil
+    227,     64,      0,       ,536 LONGLEY RD,Oil
+    227,     65,      0,       ,534 LONGLEY RD,Oil
+    227,     66,      0,       ,532 LONGLEY RD,Oil
+    227,     67,      0,       ,530 LONGLEY RD,Oil
+    227,     68,      0,       ,520 LONGLEY RD,Oil
+    227,     70,      0,       ,7 NORTHWOODS RD,Oil
+    227,     71,      0,       ,9 NORTHWOODS RD,Oil
+    227,     72,    852,       ,15 NORTHWOODS RD,Gas
+    227,     73,      0,       ,29 NORTHWOODS RD,Oil
+    227,     74,      0,       ,35 NORTHWOODS RD,Oil
+    227,     75,      0,       ,53 NORTHWOODS RD,Oil
+    227,     76,      0,       ,67 NORTHWOODS RD,Oil
+    227,     77,      0,       ,79 NORTHWOODS RD,Oil
+    227,     78,      0,       ,87 NORTHWOODS RD,Oil
+    227,     79,      0,       ,97 NORTHWOODS RD,Oil
+    227,     81,      0,       ,58 NORTHWOODS RD,Oil
+    227,     82,      0,       ,54 NORTHWOODS RD,Oil
+    227,     83,      0,       ,48 NORTHWOODS RD,Oil
+    227,     84,      0,       ,42 NORTHWOODS RD,Gas
+    227,     85,      0,       ,474 LONGLEY RD,Electric
+    227,     86,      0,       ,466 LONGLEY RD ,Oil
+    227,     87,      0,       ,456 LONGLEY RD,Oil
+    227,     88,      0,       ,454 LONGLEY RD,Oil
+    227,     89,      0,       ,452 LONGLEY RD,Oil
+    227,     90,      0,       ,448-450 LONGLEY RD,Oil
+    227,     92,      0,       ,414 LONGLEY RD,Oil
+    227,     94,      0,       ,159 NASHUA RD,Oil
+    227,     95,      0,       ,15 CHARLES RD ,Oil
+    227,     96,      0,       ,29 CHARLES RD,Oil
+    227,     97,      0,       ,31 CHARLES RD,Oil
+    227,     98,      0,       ,30 CHARLES RD,Oil
+    227,    100,      0,       ,28 CHARLES RD,Oil
+    227,    101,      0,       ,169 NASHUA RD,Oil
+    227,    102,      0,       ,181 NASHUA RD,Electric
+    227,    103,      0,       ,199 NASHUA RD,Oil
+    227,    104,      0,       ,201 NASHUA RD ,Oil
+    227,    105,      0,       ,205 NASHUA RD,Electric
+    227,    106,      0,       ,219 NASHUA RD,Oil
+    227,    107,      0,       ,233 NASHUA RD,Oil
+    227,    108,      0,       ,245 NASHUA RD,Oil
+    227,    109,      0,       ,136 NORTHWOODS RD,Oil
+    227,    110,      2,       ,105 NORTHWOODS RD,Oil
+    227,    110,      3,       ,131 NORTHWOODS RD,Oil
+    227,    110,      4,       ,301 NASHUA RD,Oil
+    227,    110,      6,       ,137 NORTHWOODS RD,Oil
+    227,    111,      0,       ,343 NASHUA RD,Oil
+    227,    112,      0,       ,39 OVERLOOK DR,Oil
+    227,    113,      0,       ,45 OVERLOOK DR,Oil
+    227,    114,      0,       ,51 OVERLOOK DR ,Oil
+    227,    115,      0,       ,55 OVERLOOK DR,Oil
+    227,    116,      0,       ,50 OVERLOOK DR,Oil
+    227,    117,      2,       ,352 NASHUA RD ,Gas
+    227,    118,      0,       ,326 NASHUA RD,Oil
+    227,    119,      0,       ,322 NASHUA RD,Oil
+    227,    120,      0,       ,312 NASHUA RD,Oil
+    227,    121,      0,       ,296 NASHUA RD,Oil
+    227,    122,      0,       ,292 NASHUA RD,Oil
+    227,    123,      0,       ,278 NASHUA RD,Oil
+    227,    124,      0,       ,270 NASHUA RD,Oil
+    227,    125,      0,       ,266 NASHUA RD,Oil
+    227,    126,      0,       ,250 NASHUA RD,Oil
+    227,    127,      0,       ,244 NASHUA RD,Oil
+    227,    128,      0,       ,234 NASHUA RD,Oil
+    227,    129,      0,       ,230 NASHUA RD,Oil
+    227,    130,      0,       ,216 NASHUA RD,Oil
+    227,    131,      0,       ,212 NASHUA RD,Electric
+    227,    132,      0,       ,200 NASHUA RD,Oil
+    227,    134,      0,       ,176 NASHUA RD,Oil
+    227,    136,      0,       ,166 NASHUA RD,Oil
+    227,    137,      0,       ,164 NASHUA RD,Oil
+    227,    138,      0,       ,160 NASHUA RD,Oil
+    227,    139,      0,       ,148 NASHUA RD,Oil
+    228,      1,      0,       ,605 LONGLEY RD,Oil
+    228,      2,      0,       ,611 LONGLEY RD ,Electric
+    228,      3,      0,       ,617 LONGLEY RD,Gas
+    228,      4,      0,       ,633 LONGLEY RD,Oil
+    228,      5,      0,       ,635 LONGLEY RD,Oil
+    228,      6,      0,       ,643 LONGLEY RD,Oil
+    228,      7,      0,       ,651 LONGLEY RD,Oil
+    228,      8,      0,       ,655 LONGLEY RD,Oil
+    228,      9,      0,       ,657 LONGLEY RD ,Electric
+    228,     10,      0,       ,659 LONGLEY RD,Oil
+    228,     12,      0,       ,670 LONGLEY RD,Oil
+    228,     13,      0,       ,654 LONGLEY RD,Oil
+    228,     14,      0,       ,700 LONGLEY RD,Oil
+    228,     18,      0,       ,7 OVERLOOK DR,Oil
+    228,     19,      0,       ,15 OVERLOOK DR,Oil
+    228,     20,      0,       ,21 OVERLOOK DR,Oil
+    228,     21,      0,       ,33 OVERLOOK DR,Oil
+    228,     22,      0,       ,4 OVERLOOK DR,Oil
+    228,     24,      0,       ,80 OVERLOOK DR,Oil
+    228,     25,      0,       ,68 OVERLOOK DR,Oil
+    228,     26,      0,       ,60 OVERLOOK DR,Oil
+    228,     27,      0,       ,65 OVERLOOK DR,Oil
+    228,     28,      0,       ,67 OVERLOOK DR,Oil
+    228,     29,      0,       ,71 OVERLOOK DR,Oil
+    228,     30,      0,       ,79 OVERLOOK DR,Oil
+    228,     31,      0,       ,91 OVERLOOK DR ,Oil
+    228,     32,      0,       ,95 OVERLOOK DR,Oil
+    228,     33,      0,       ,99 OVERLOOK DR,Oil
+    228,     34,      0,       ,100 OVERLOOK DR,Oil
+    228,     35,      0,       ,96 OVERLOOK DR,Oil
+    228,     36,      0,       ,92 OVERLOOK DR ,Oil
+    228,     37,      0,       ,102 MEADOW VIEW RD,Oil
+    228,     39,      0,       ,74 MEADOW VIEW RD,Oil
+    228,     40,      0,       ,64 MEADOW VIEW RD,Oil
+    228,     41,      0,       ,56 MEADOW VIEW RD ,Oil
+    228,     42,      0,       ,11 KIRK FARM RD,Oil
+    228,     43,      0,       ,17 KIRK FARM RD,Oil
+    228,     44,      0,       ,21 KIRK FARM RD,Oil
+    228,     45,      0,       ,29 KIRK FARM RD,Oil
+    228,     46,      0,       ,30 KIRK FARM RD,Oil
+    228,     47,      0,       ,22 KIRK FARM RD,Oil
+    228,     48,      0,       ,18 KIRK FARM RD,Oil
+    228,     49,      0,       ,48 MEADOW VIEW RD,Oil
+    228,     50,      0,       ,401 NASHUA RD,Oil
+    228,     52,      0,       ,425 NASHUA RD,Oil
+    228,     53,      0,       ,435 NASHUA RD,Oil
+    228,     55,      0,       ,447 NASHUA RD,Oil
+    228,     56,      0,       ,465 NASHUA RD,Oil
+    228,     58,      0,       ,4 WYMAN RD,Oil
+    229,      1,      0,       ,473 NASHUA RD,Oil
+    229,      5,      0,       ,476 NASHUA RD,Oil
+    229,      6,      0,       ,464 NASHUA RD,Oil
+    229,      7,      0,       ,478 NASHUA RD,Gas
+    229,      8,      0,       ,444 NASHUA RD,Oil
+    229,     10,      0,       ,21 WYMAN RD,Oil
+    229,     10,      1,       ,53 WYMAN RD,Gas
+    229,     11,      0,       ,65 WYMAN RD,Oil
+    229,     12,      0,       ,79 WYMAN RD,Oil
+    229,     13,      0,       ,99 WYMAN RD,Oil
+    229,     14,      0,       ,179 WYMAN RD,Oil
+    229,     15,      0,       ,201 NORTH ST ,Gas
+    229,     15,      3,       ,129 WYMAN RD ,Gas
+    229,     18,      0,       ,2 YVONNE DR,Oil
+    229,     19,      0,       ,1 YVONNE DR,Oil
+    229,     23,      0,       ,208 NORTH ST,Oil
+    229,     24,      0,       ,196 NORTH ST,Oil
+    229,     25,      0,       ,182-184 NORTH ST,Gas
+    229,     25,      0,       ,182-184 NORTH ST,Oil
+    229,     26,      0,       ,174 NORTH ST,Gas
+    229,     27,      0,       ,166 NORTH ST,Gas
+    229,     28,      0,       ,164 NORTH ST,Gas
+    229,     29,      0,       ,158 NORTH ST,Oil
+    229,     30,      0,       ,128 NORTH ST,Oil
+    229,     31,      0,       ,104 NORTH ST,Oil
+    229,     32,      0,       ,90 NORTH ST,Gas
+    229,     34,      0,       ,66 NORTH ST,Oil
+    229,     39,      0,       ,55 NORTH ST,Gas
+    229,     40,      0,       ,63 NORTH ST,Gas
+    229,     42,      0,       ,180 WYMAN RD,Oil
+    229,     43,      0,       ,174 WYMAN RD,Oil
+    229,     44,      0,       ,172 WYMAN RD,Oil
+    229,     45,      0,       ,170 WYMAN RD,Oil
+    229,     46,      0,       ,164 WYMAN RD,Oil
+    229,     47,      0,       ,160 WYMAN RD,Oil
+    229,     48,      0,       ,152 WYMAN RD,Oil
+    229,     49,      0,       ,134 WYMAN RD,Oil
+    229,     50,      0,       ,126 WYMAN RD,Oil
+    229,     51,      0,       ,118 WYMAN RD,Oil
+    229,     52,      0,       ,104 WYMAN RD,Oil
+    229,     53,      0,       ,90 WYMAN RD,Oil
+    229,     54,      0,       ,64 WYMAN RD,Oil
+    229,     55,      0,       ,40 WYMAN RD,Oil
+    229,     57,      0,       ,28 WYMAN RD,Oil
+    230,      1,      0,       ,575 CHICOPEE ROW,Oil
+    230,      2,      0,       ,585 CHICOPEE ROW,Oil
+    230,      3,      0,       ,324 REEDY MEADOW RD,Oil
+    230,      4,      0,       ,314 REEDY MEADOW RD,Oil
+    230,      5,      0,       ,304 REEDY MEADOW RD,Oil
+    230,      6,      0,       ,290 REEDY MEADOW RD,Oil
+    230,      7,      0,       ,284 REEDY MEADOW RD,Oil
+    230,      8,      0,       ,272 REEDY MEADOW RD ,Electric
+    230,     12,      0,       ,222 REEDY MEADOW RD,Oil
+    230,     13,      0,       ,196 REEDY MEADOW RD,Oil
+    230,     14,      0,       ,178 REEDY MEADOW RD,Oil
+    230,     15,      0,       ,160 REEDY MEADOW RD,Electric
+    230,     16,      0,       ,146 REEDY MEADOW RD,Oil
+    230,     17,      0,       ,134 REEDY MEADOW RD,Oil
+    230,     19,      0,       ,125 REEDY MEADOW RD,Gas
+    230,     20,      0,       ,147 REEDY MEADOW RD,Oil
+    230,     21,      0,       ,149 REEDY MEADOW RD,Oil
+    230,     23,      0,       ,231 REEDY MEADOW RD ,Electric
+    230,     24,      0,       ,235 REEDY MEADOW RD,Electric
+    230,     25,      0,       ,219 REEDY MEADOW RD ,Electric
+    230,     26,      0,       ,239 REEDY MEADOW RD,Oil
+    230,     27,      0,       ,245 REEDY MEADOW RD ,Oil
+    230,     27,      0,       ,245 REEDY MEADOW RD ,Oil
+    230,     28,      0,       ,251 REEDY MEADOW RD,Coal or Wood
+    230,     30,      0,       ,285 REEDY MEADOW RD,Electric
+    230,     32,      0,       ,293 REEDY MEADOW RD,Electric
+    230,     33,      0,       ,295 REEDY MEADOW RD,Oil
+    230,     34,      0,       ,297 REEDY MEADOW RD,Oil
+    230,     35,      0,       ,299 REEDY MEADOW RD,Oil
+    230,     36,      0,       ,311 REEDY MEADOW RD,Oil
+    230,     37,      0,       ,315 REEDY MEADOW RD,Oil
+    230,     38,      0,       ,321 REEDY MEADOW RD,Oil
+    230,     39,      0,       ,327 REEDY MEADOW RD,Oil
+    230,     41,      0,       ,641 CHICOPEE ROW,Oil
+    230,     43,      0,       ,673 CHICOPEE ROW,Oil
+    230,     44,      0,       ,691 CHICOPEE ROW,Oil
+    230,     45,      0,       ,701 CHICOPEE ROW,Gas
+    230,     47,      0,       ,711 CHICOPEE ROW,Oil
+    230,     48,      0,       ,731 CHICOPEE ROW,Oil
+    230,     50,      0,       ,730 CHICOPEE ROW,Oil
+    230,     51,      0,       ,712 CHICOPEE ROW,Oil
+    230,     52,      0,       ,704 CHICOPEE ROW,Oil
+    230,     53,      0,       ,692 CHICOPEE ROW,Oil
+    230,     54,      0,       ,686 CHICOPEE ROW,Electric
+    230,     55,      0,       ,676 CHICOPEE ROW,Oil
+    230,     56,      0,       ,674 CHICOPEE ROW,Oil
+    230,     57,      0,       ,662 CHICOPEE ROW,Oil
+    230,     59,      0,       ,638 CHICOPEE ROW,Gas
+    230,     61,      0,       ,622 CHICOPEE ROW,Oil
+    230,     62,      0,       ,9 RADDIN RD,Oil
+    230,     63,      0,       ,13 RADDIN RD,Oil
+    230,     64,      0,       ,25 RADDIN RD,Oil
+    230,     65,      0,       ,47 RADDIN RD,Oil
+    230,     66,      0,       ,55 RADDIN RD,Oil
+    230,     67,      0,       ,59 RADDIN RD,Oil
+    230,     68,      0,       ,67 RADDIN RD,Gas
+    230,     69,      0,       ,69 RADDIN RD,Oil
+    230,     72,      0,       ,79 RADDIN RD,Oil
+    230,     73,      0,       ,62 RADDIN RD,Oil
+    230,     74,      0,       ,58 RADDIN RD ,Oil
+    230,     75,      0,       ,48 RADDIN RD,Oil
+    230,     76,      0,       ,34 RADDIN RD,Oil
+    230,     77,      0,       ,26 RADDIN RD,Oil
+    230,     78,      0,       ,20 RADDIN RD,Oil
+    230,     79,      0,       ,18 HAWTREE WAY,Oil
+    230,     81,      0,       ,4 RADDIN RD,Oil
+    231,      1,      0,       ,120 REEDY MEADOW RD,Gas
+    231,      1,      1,       ,116 REEDY MEADOW RD ,Gas
+    231,      2,      0,       ,112 REEDY MEADOW RD,Oil
+    231,      3,      0,       ,108 REEDY MEADOW RD,Oil
+    231,      5,      0,       ,53 MCLAINS WOODS RD,Oil
+    231,      6,      0,       ,63 MCLAINS WOODS RD,Oil
+    231,      7,      0,       ,87 MCLAINS WOODS RD,Oil
+    231,      8,      0,       ,89 MCLAINS WOODS RD,Oil
+    231,      9,      0,       ,79 MCLAINS WOODS RD,Oil
+    231,     10,      0,       ,71 MCLAINS WOODS RD,Oil
+    231,     12,      0,       ,323 CHICOPEE ROW,Oil
+    231,     13,      0,       ,325 CHICOPEE ROW,Oil
+    231,     14,      0,       ,327 CHICOPEE ROW,Oil
+    231,     15,      0,       ,343 CHICOPEE ROW,Oil
+    231,     16,      0,       ,365 CHICOPEE ROW,Oil
+    231,     17,      0,       ,3 FERTILEDALE DR,Oil
+    231,     18,      0,       ,15 FERTILEDALE DR,Oil
+    231,     19,      0,       ,25 FERTILEDALE DR,Oil
+    231,     20,      0,       ,29 FERTILEDALE DR,Oil
+    231,     21,      0,       ,397 CHICOPEE ROW,Oil
+    231,     23,      0,       ,53 WATSON WAY ,Oil
+    231,     24,      0,       ,25 BROWN LN,Oil
+    231,     27,      0,       ,34 BROWN LN,Oil
+    231,     28,      0,       ,30 BROWN LN ,Oil
+    231,     29,      0,       ,26 BROWN LN,Oil
+    231,     30,      0,       ,74 WATSON WAY,Oil
+    231,     31,      0,       ,68 WATSON WAY,Oil
+    231,     32,      0,       ,62 WATSON WAY,Oil
+    231,     33,      0,       ,60 WATSON WAY,Oil
+    231,     34,      0,       ,54 WATSON WAY,Oil
+    231,     35,      0,       ,48 WATSON WAY ,Oil
+    231,     36,      0,       ,40 WATSON WAY,Oil
+    231,     37,      0,       ,20 WATSON WAY,Oil
+    231,     38,      0,       ,435 CHICOPEE ROW ,Gas
+    231,     39,      0,       ,439 CHICOPEE ROW,Electric
+    231,     40,      0,       ,449 CHICOPEE ROW,Electric
+    231,     41,      0,       ,459 CHICOPEE ROW,Oil
+    231,     42,      0,       ,471 CHICOPEE ROW,Oil
+    231,     43,      0,       ,473 CHICOPEE ROW,Electric
+    231,     44,      0,       ,485 CHICOPEE ROW,Oil
+    231,     46,      0,       ,533 CHICOPEE ROW,Oil
+    231,     47,      0,       ,535 CHICOPEE ROW,Oil
+    231,     48,      0,       ,549 CHICOPEE ROW,Oil
+    231,     49,      0,       ,559 CHICOPEE ROW,Oil
+    231,     50,      0,       ,569 CHICOPEE ROW ,Oil
+    231,     51,      0,       ,85 RADDIN RD ,Oil
+    231,     52,      0,       ,95 RADDIN RD,Oil
+    231,     53,      0,       ,108 RADDIN RD ,Oil
+    231,     54,      0,       ,94 RADDIN RD,Oil
+    231,     55,      0,       ,88 RADDIN RD ,Oil
+    231,     57,      0,       ,17 HAWTREE WAY,Oil
+    231,     58,      0,       ,21 HAWTREE WAY,Oil
+    231,     59,      0,       ,29 HAWTREE WAY,Oil
+    231,     60,      0,       ,37 HAWTREE WAY,Oil
+    231,     61,      0,       ,49  HAWTREE WAY,Oil
+    231,     62,      0,       ,53 HAWTREE WAY,Oil
+    231,     64,      0,       ,57 HAWTREE WAY,Oil
+    231,     65,      0,       ,59 HAWTREE WAY,Oil
+    231,     66,      0,       ,52 HAWTREE WAY,Oil
+    231,     67,      0,       ,50 HAWTREE WAY,Oil
+    231,     68,      0,       ,46 HAWTREE WAY,Oil
+    231,     69,      0,       ,36 HAWTREE WAY,Oil
+    231,     70,      0,       ,30 HAWTREE WAY,Oil
+    231,     71,      0,       ,24 HAWTREE WAY,Oil
+    231,     72,      0,       ,526 CHICOPEE ROW,Oil
+    231,     73,      0,       ,532 CHICOPEE ROW,Oil
+    231,     74,      0,       ,520 CHICOPEE ROW,Oil
+    231,     75,      0,       ,508 CHICOPEE ROW,Oil
+    231,     76,      0,       ,486 CHICOPEE ROW,Oil
+    231,     77,      0,       ,484 CHICOPEE ROW,Oil
+    231,     78,      0,       ,478 CHICOPEE ROW ,Oil
+    231,     79,      0,       ,474 CHICOPEE ROW,Oil
+    231,     80,      0,       ,448 CHICOPEE ROW,Electric
+    231,     81,      0,       ,444 CHICOPEE ROW,Oil
+    231,     82,      0,       ,428 CHICOPEE ROW,Oil
+    231,     83,      0,       ,408 CHICOPEE ROW,Oil
+    231,     85,      0,       ,402 CHICOPEE ROW,Oil
+    231,     86,      0,       ,400 CHICOPEE ROW,Oil
+    231,     87,      0,       ,388 CHICOPEE ROW,Gas
+    231,     88,      0,       ,382 CHICOPEE ROW,Oil
+    231,     89,      0,       ,380 CHICOPEE ROW,Oil
+    231,     92,      0,       ,21 SAWTELL DR,Oil
+    232,      1,      0,       ,293 CHICOPEE ROW,Oil
+    232,      2,      0,       ,321 CHICOPEE ROW,Oil
+    232,      3,      0,       ,317 CHICOPEE ROW,Oil
+    232,      4,      0,       ,335 CHICOPEE ROW,Oil
+    232,      5,      0,       ,25 SAWTELL DR,Oil
+    232,      6,      0,       ,27 SAWTELL DR,Oil
+    232,      7,      0,       ,29 SAWTELL DR,Oil
+    232,      8,      0,       ,31 SAWTELL DR ,Oil
+    232,     11,      0,       ,32 SAWTELL DR,Oil
+    232,     12,      0,       ,28 SAWTELL DR,Oil
+    232,     13,      0,       ,22 SAWTELL DR,Oil
+    232,     15,      0,       ,8 SAWTELL DR,Oil
+    232,     16,      0,       ,346 CHICOPEE ROW,Oil
+    232,     17,      0,       ,348 CHICOPEE ROW,Oil
+    232,     18,      0,       ,332 CHICOPEE ROW,Oil
+    232,     19,      0,       ,318 CHICOPEE ROW,Oil
+    232,     20,      0,       ,316 CHICOPEE ROW ,Oil
+    232,     21,      0,       ,312 CHICOPEE ROW,Oil
+    232,     22,      0,       ,310 CHICOPEE ROW,Oil
+    232,     23,      0,       ,292 CHICOPEE ROW,Oil
+    232,     24,      0,       ,290 CHICOPEE ROW,Oil
+    232,     25,      0,       ,280 CHICOPEE ROW,Oil
+    232,     26,      0,       ,270 CHICOPEE ROW,Oil
+    232,     27,      0,       ,248 CHICOPEE ROW,Gas
+    232,     29,      0,       ,228 CHICOPEE ROW,Gas
+    232,     30,      0,       ,60 ORCHARD LN ,Gas
+    232,     32,      0,       ,19 KAILEYS WAY,Oil
+    232,     33,      0,       ,21 KAILEYS WAY,Oil
+    232,     34,      0,       ,25 KAILEYS WAY,Gas
+    232,     35,      0,       ,27 KAILEYS WAY,Oil
+    232,     36,      0,       ,29 KAILEYS WAY,Oil
+    232,     37,      0,       ,45 KAILEYS WAY,Gas
+    232,     39,      0,       ,51 KAILEYS WAY ,Gas
+    232,     39,      0,       ,51 KAILEYS WAY ,Gas
+    232,     40,      0,       ,54 KAILEYS WAY,Oil
+    232,     41,      0,       ,48 KAILEYS WAY,Gas
+    232,     42,      0,       ,44 KAILEYS WAY,Gas
+    232,     43,      0,       ,40 KAILEYS WAY,Oil
+    232,     44,      0,       ,36 KAILEYS WAY,Oil
+    232,     45,      0,       ,30 KAILEYS WAY,Gas
+    232,     46,      0,       ,24 KAILEYS WAY,Oil
+    232,     47,      0,       ,18 KAILEYS WAY,Oil
+    232,     48,      0,       ,12 KAILEYS WAY,Oil
+    232,     50,      0,       ,653 MARTINS POND RD,Oil
+    232,     50,      1,       ,647 MARTINS POND RD,Oil
+    232,     50,      2,       ,645 MARTINS POND RD,Oil
+    232,     50,      3,       ,643 MARTINS POND RD,Oil
+    232,     50,      4,       ,641 MARTINS POND RD,Oil
+    232,     52,      0,       ,75 FLOYD HILL RD,Oil
+    233,      2,      0,       ,305 MARTINS POND RD,Oil
+    233,      3,      0,       ,303 MARTINS POND RD,Oil
+    233,      4,      0,       ,29 CHESTNUT HILL RD,Oil
+    233,      5,      0,       ,45 CHESTNUT HILL RD,Oil
+    233,      6,      0,       ,53 CHESTNUT HILL RD,Oil
+    233,      7,      0,       ,57 CHESTNUT HILL RD,Oil
+    233,      9,      0,       ,63 CHESTNUT HILL RD,Electric
+    233,     10,      0,       ,52 CHESTNUT HILL RD ,Oil
+    233,     11,      0,       ,44 CHESTNUT HILL RD,Oil
+    233,     13,      0,       ,73 CHESTNUT HILL RD,Oil
+    233,     14,      0,       ,89 CHESTNUT HILL RD,Oil
+    233,     15,      0,       ,1 POND HILL LN,Oil
+    233,     17,      0,       ,28 CHESTNUT HILL RD,Gas
+    233,     18,      0,       ,309 MARTINS POND RD,Oil
+    233,     19,      0,       ,315 MARTINS POND RD,Oil
+    233,     20,      0,       ,323 MARTINS POND RD,Oil
+    233,     21,      0,       ,337 MARTINS POND RD,Oil
+    233,     22,      0,       ,341 MARTINS POND RD ,Oil
+    233,     23,      0,       ,345 MARTINS POND RD,Oil
+    233,     24,      0,       ,102 CHESTNUT HILL RD,Oil
+    233,     26,      0,       ,126 CHESTNUT HILL RD,Oil
+    233,     27,      0,       ,2 ORCHARD LN,Oil
+    233,     28,      0,       ,22 ORCHARD LN ,Oil
+    233,     29,      0,       ,19 ORCHARD LN,Oil
+    233,     30,      0,       ,129 CHESTNUT HILL RD,Oil
+    233,     31,      0,       ,137 CHESTNUT HILL RD,Oil
+    233,     33,      0,       ,409 MARTINS POND RD ,Oil
+    233,     34,      0,       ,419 MARTINS POND RD ,Oil
+    233,     35,      0,       ,431 MARTINS POND RD,Oil
+    233,     36,      0,       ,435 MARTINS POND RD,Oil
+    233,     37,      0,       ,469 MARTINS POND RD,Oil
+    233,     38,      0,       ,485 MARTINS POND RD,Oil
+    233,     39,      0,       ,495 MARTINS POND RD,Oil
+    233,     40,      0,       ,505 MARTINS POND RD,Oil
+    233,     41,      0,       ,511 MARTINS POND RD,Oil
+    233,     43,      0,       ,523 MARTINS POND RD ,Oil
+    233,     44,      0,       ,531 MARTINS POND RD,Oil
+    233,     45,      0,       ,541 MARTINS POND RD,Oil
+    233,     46,      0,       ,547 MARTINS POND RD,Oil
+    233,     47,      0,       ,5 LINDSAY DR,Oil
+    233,     48,      0,       ,18 LINDSAY DR,Oil
+    233,     49,      0,       ,550 MARTINS POND RD,Oil
+    233,     50,      0,       ,534 MARTINS POND RD,Oil
+    233,     51,      0,       ,522 MARTINS POND RD,Oil
+    233,     52,      0,       ,516 MARTINS POND RD,Oil
+    233,     53,      0,       ,512 MARTINS POND RD,Oil
+    233,     55,      0,       ,466 MARTINS POND RD,Oil
+    233,     56,      0,       ,456 MARTINS POND RD,Oil
+    233,     57,      0,       ,124 SCHOOLHOUSE RD,Oil
+    233,     58,      0,       ,116 SCHOOLHOUSE RD,Oil
+    233,     60,      0,       ,114 SCHOOLHOUSE RD,Electric
+    233,     62,      0,       ,112 SCHOOLHOUSE RD ,Oil
+    233,     63,      0,       ,110 SCHOOLHOUSE RD,Oil
+    233,     64,      0,       ,104 SCHOOLHOUSE RD,Gas
+    233,     65,      0,       ,96 SCHOOLHOUSE RD,Oil
+    233,     66,      0,       ,88 SCHOOLHOUSE RD,Oil
+    233,     67,      0,       ,80 SCHOOLHOUSE RD,Electric
+    233,     68,      0,       ,68 SCHOOLHOUSE RD,Oil
+    233,     69,      0,       ,58 SCHOOLHOUSE RD,Gas
+    233,     70,      0,       ,56 SCHOOLHOUSE RD,Oil
+    233,     71,      0,       ,52 SCHOOLHOUSE RD,Oil
+    233,     71,      0,       ,52 SCHOOLHOUSE RD,Oil
+    233,     73,      0,       ,48 SCHOOLHOUSE RD,Oil
+    233,     74,      0,       ,46 SCHOOLHOUSE RD ,Oil
+    233,     75,      0,       ,373 LOWELL RD,Oil
+    233,     75,      1,       ,17 CHAMBERLAINS MILL LN,Gas
+    233,     75,      3,       ,9 CHAMBERLAINS MILL LN,Gas
+    233,     75,      4,       ,8 CHAMBERLAINS MILL LN,Gas
+    233,     75,      5,       ,21 CHAMBERLAINS MILL LN,Gas
+    233,     75,      6,       ,27 CHAMBERLAINS MILL LN,Gas
+    233,     75,      7,       ,20 CHAMBERLAINS MILL LN,Gas
+    233,     75,      8,       ,22 CHAMBERLAINS MILL LN,Gas
+    233,     75,      9,       ,24 CHAMBERLAINS MILL LN ,Gas
+    233,     77,      0,       ,447 LOWELL RD,Oil
+    233,     79,      0,       ,459 LOWELL RD,Oil
+    233,     80,      0,       ,7 HEMLOCK PARK DR,Oil
+    233,     81,      0,       ,13 HEMLOCK PARK DR,Oil
+    233,     82,      0,       ,25 HEMLOCK PARK DR,Oil
+    233,     83,      0,       ,61 HEMLOCK PARK DR,Oil
+    233,     84,      0,       ,83 HEMLOCK PARK DR,Oil
+    233,     85,      0,       ,95 HEMLOCK PARK DR,Oil
+    233,     86,      0,       ,105 HEMLOCK PARK DR,Oil
+    233,     87,      0,       ,210 HEMLOCK PARK DR,Oil
+    233,     88,      0,       ,220 HEMLOCK PARK DR,Oil
+    233,     89,      0,       ,158 HEMLOCK PARK DR,Oil
+    233,     90,      0,       ,138 HEMLOCK PARK DR,Oil
+    233,     90,      0,       ,138 HEMLOCK PARK DR,Oil
+    233,     91,      0,       ,90 HEMLOCK PARK DR,Oil
+    233,     92,      0,       ,60 HEMLOCK PARK DR,Oil
+    233,     93,      0,       ,40 HEMLOCK PARK DR ,Oil
+    233,     94,      0,       ,12 HEMLOCK PARK DR,Oil
+    233,     95,      0,       ,6 HEMLOCK PARK DR,Oil
+    233,     96,      0,       ,462 LOWELL RD,Oil
+    233,     97,      0,       ,460 LOWELL RD,Oil
+    233,    101,      0,       ,69 SCHOOLHOUSE RD,Oil
+    233,    102,      0,       ,79 SCHOOLHOUSE RD,Oil
+    233,    103,      0,       ,119 SCHOOLHOUSE RD,Oil
+    233,    104,      0,       ,440 MARTINS POND RD,Oil
+    233,    105,      0,       ,432 MARTINS POND RD,Oil
+    233,    106,      0,       ,426 MARTINS POND RD,Oil
+    233,    107,      0,       ,416 MARTINS POND RD,Oil
+    233,    108,      0,       ,28 SHATTUCK ST,Oil
+    233,    109,      0,       ,16 SHATTUCK ST,Electric
+    233,    110,      0,       ,282 MARTINS POND RD,Oil
+    233,    141,      0,       ,34 SHATTUCK ST ,Oil
+    234,      1,      0,       ,245 LOWELL RD,Oil
+    234,      5,      0,       ,410 LOWELL RD,Gas
+    234,      6,      0,       ,402 LOWELL RD,Gas
+    234,      7,      0,       ,394 LOWELL RD,Oil
+    234,      7,      0,       ,394 LOWELL RD,Oil
+    234,      8,      0,       ,354 LOWELL RD,Oil
+    234,      9,      0,       ,356 LOWELL RD,Oil
+    234,     10,      0,       ,346 LOWELL RD,Gas
+    234,     13,      0,       ,248 GAY RD,Oil
+    234,     14,      0,       ,204 GAY RD,Oil
+    234,     15,      0,       ,210 GAY RD,Oil
+    234,     16,      0,       ,202 GAY RD,Oil
+    234,     17,      0,       ,180 GAY RD,Oil
+    234,     18,      0,       ,1 BROWN LOAF RD,Gas
+    234,     18,      2,       ,6 BROWN LOAF RD,Gas
+    234,     18,      3,       ,4 BROWN LOAF RD,Oil
+    234,     18,      4,       ,2 BROWN LOAF RD,Oil
+    234,     18,      5,       ,7 BROWN LOAF RD,Oil
+    234,     18,      6,       ,3 BROWN LOAF RD,Oil
+    234,     18,      7,       ,5 BROWN LOAF RD ,Gas
+    234,     19,      0,       ,152 GAY RD,Oil
+    234,     20,      0,       ,142 GAY RD,Oil
+    234,     21,      0,       ,132 GAY RD,Oil
+    234,     22,      0,       ,25 WHITAKER LN,Oil
+    234,     23,      0,       ,27 WHITAKER LN,Oil
+    234,     24,      0,       ,41 WHITAKER LN,Oil
+    234,     25,      0,       ,47 WHITAKER LN,Gas
+    234,     26,      0,       ,49 WHITAKER LN,Oil
+    234,     27,      0,       ,51 WHITAKER LN,Oil
+    234,     28,      0,       ,55 WHITAKER LN,Oil
+    234,     30,      0,       ,67 GAY RD ,Gas
+    234,     31,      0,       ,85 GAY RD,Oil
+    234,     32,      0,       ,91 GAY RD,Oil
+    234,     33,      0,       ,139 GAY RD,Gas
+    234,     33,      2,       ,111 GAY RD,Gas
+    234,     34,      0,       ,80 AMES RD,Oil
+    234,     35,      0,       ,75 AMES RD ,Oil
+    234,     36,      0,       ,95 AMES RD,Oil
+    234,     37,      0,       ,125 AMES RD,Oil
+    234,     39,      0,       ,147 GAY RD,Oil
+    234,     41,      0,       ,177 GAY RD ,Oil
+    234,     42,      0,       ,191 GAY RD ,Oil
+    234,     43,      0,       ,184 WHITMAN RD,Oil
+    234,     44,      0,       ,176 WHITMAN RD,Oil
+    234,     45,      0,       ,172 WHITMAN RD,Oil
+    234,     46,      0,       ,166 WHITMAN RD,Oil
+    234,     48,      0,       ,21 NICOLE LN,Oil
+    234,     49,      0,       ,23 NICOLE LN,Oil
+    234,     50,      0,       ,22 NICOLE LN,Oil
+    234,     51,      0,       ,20 NICOLE LN,Oil
+    234,     52,      0,       ,14 NICOLE LN,Oil
+    234,     53,      0,       ,8 NICOLE LN,Oil
+    234,     54,      0,       ,132 WHITMAN RD,Oil
+    234,     55,      1,       ,100 WHITMAN RD ,Oil
+    234,     57,      0,       ,127 WHITMAN RD,Oil
+    234,     58,      0,       ,137 WHITMAN RD,Oil
+    234,     59,      0,       ,149 WHITMAN RD,Oil
+    234,     60,      0,       ,157 WHITMAN RD,Oil
+    234,     61,      0,       ,163 WHITMAN RD,Oil
+    234,     62,      0,       ,81 MARA LN,Oil
+    234,     63,      0,       ,86 MARA LN,Oil
+    234,     64,      0,       ,80 MARA LN,Oil
+    234,     65,      0,       ,70 MARA LN,Oil
+    234,     66,      0,       ,56 MARA LN,Oil
+    234,     67,      0,       ,42 MARA LN,Oil
+    234,     68,      0,       ,32 MARA LN,Oil
+    234,     69,      0,       ,22 MARA LN,Oil
+    234,     70,      0,       ,175 WHITMAN RD,Gas
+    234,     71,      0,       ,205 GAY RD,Oil
+    234,     72,      0,       ,221 GAY RD,Gas
+    234,     73,      0,       ,231 GAY RD,Oil
+    234,     74,      0,       ,245 GAY RD,Oil
+    234,     75,      0,       ,272 LOWELL RD ,Oil
+    234,     75,      1,       ,268 LOWELL RD,Gas
+    234,     75,      2,       ,256 LOWELL RD,Gas
+    234,     75,      3,       ,246 LOWELL RD,Oil
+    234,     76,      0,       ,204 LOWELL RD,Oil
+    235,      1,      0,       ,227 BOSTON RD,Oil
+    235,      1,      1,       ,201 BOSTON RD ,Gas
+    235,      2,      0,       ,31 AMES RD,Oil
+    235,      3,      0,       ,39 AMES RD,Oil
+    235,      4,      0,       ,44 AMES RD,Oil
+    235,      5,      0,       ,74 AMES RD,Electric
+    235,      7,      0,       ,16 AMES RD,Oil
+    235,      8,      0,       ,6 AMES RD,Gas
+    235,     10,      0,       ,275 BOSTON RD,Gas
+    235,     11,      0,       ,309 BOSTON RD,Gas
+    235,     13,      0,       ,323 BOSTON RD,Gas
+    235,     14,      0,       ,331 BOSTON RD,Oil
+    235,     15,      0,       ,332 BOSTON RD,Electric
+    235,     17,      0,       ,306 BOSTON RD,Oil
+    235,     18,      0,       ,302 BOSTON RD,Oil
+    235,     19,      0,       ,296 BOSTON RD,Electric
+    235,     20,      0,       ,348 BOSTON RD,Gas
+    235,     21,      0,       ,346 BOSTON RD,Electric
+    235,     22,      0,       ,344 BOSTON RD,Oil
+    235,     23,      0,       ,294 BOSTON RD,Oil
+    235,     24,      0,       ,290 BOSTON RD,Solar Assisted
+    235,     25,      0,       ,274 BOSTON RD,Oil
+    235,     26,      0,       ,276 BOSTON RD,Oil
+    235,     27,      0,       ,240 BOSTON RD,Oil
+    235,     28,      0,       ,250 BOSTON RD,Oil
+    235,     29,      0,       ,270 BOSTON RD ,Gas
+    235,     30,      0,       ,228 BOSTON RD ,Oil
+    235,     32,      0,       ,61 SKYFIELDS DR,Gas
+    235,     33,      0,       ,65 SKYFIELDS DR,Oil
+    235,     34,      0,       ,63 SKYFIELDS DR ,Oil
+    235,     35,      0,       ,77 SKYFIELDS DR,Oil
+    235,     36,      0,       ,79 SKYFIELDS DR,Oil
+    235,     37,      0,       ,75 SKYFIELDS DR,Oil
+    235,     38,      0,       ,85 SKYFIELDS DR,Oil
+    235,     39,      0,       ,87 SKYFIELDS DR ,Gas
+    235,     40,      0,       ,89 SKYFIELDS DR,Oil
+    235,     42,      0,       ,103 SKYFIELDS DR,Electric
+    235,     43,      0,       ,113 SKYFIELDS DR,Gas
+    235,     44,      0,       ,129 SKYFIELDS DR,Oil
+    235,     46,      0,       ,135 SKYFIELDS DR,Gas
+    235,     46,      1,       ,131 SKYFIELDS DR,Gas
+    235,     47,      0,       ,98 SKYFIELDS DR ,Electric
+    235,     48,      0,       ,60 SKYFIELDS DR,Gas
+    235,     49,      0,       ,132 SKYFIELDS DR,Gas
+    236,      1,      0,       ,614 BOSTON RD ,Oil
+    236,      2,      0,       ,11 AUGUSTINE RD,Oil
+    236,      3,      0,       ,15 AUGUSTINE RD,Electric
+    236,      4,      0,       ,18 AUGUSTINE RD,Oil
+    236,      5,      0,       ,16 AUGUSTINE RD,Electric
+    236,      6,      0,       ,14 AUGUSTINE RD,Oil
+    236,      7,      0,       ,10 AUGUSTINE RD,Oil
+    236,      8,      0,       ,8 AUGUSTINE RD,Oil
+    236,      9,      0,       ,33 NATE NUTTING RD,Oil
+    236,     10,      0,       ,45 NATE NUTTING RD,Gas
+    236,     18,      0,       ,54 NATE NUTTING RD,Oil
+    236,     19,      0,       ,44 NATE NUTTING RD,Oil
+    236,     20,      0,       ,205 INDIAN HILL RD,Oil
+    236,     21,      0,       ,207 INDIAN HILL RD,Gas
+    236,     32,      0,       ,249 INDIAN HILL RD,Oil
+    236,     33,      0,       ,210 INDIAN HILL RD ,Gas
+    238,      2,      0,       ,980 BOSTON RD,Oil
+    238,      2,      0,       ,980 BOSTON RD,Oil
+    238,      3,      0,       ,972 BOSTON RD,Gas
+    242,      1,      0,       ,59 BADDACOOK POND RD,Oil
+    242,      1,      0,       ,59 BADDACOOK POND RD,Oil
+    242,      2,      1,       ,597 LOWELL RD ,Electric
+    242,      2,      1,       ,597 LOWELL RD ,Oil
+    242,      4,      0,       ,OFF BADDACOOK POND RD,Coal or Wood
+    242,      5,      0,       ,53 BURNTMEADOW RD,Oil
+    242,      7,      0,       ,65 BURNTMEADOW RD,Oil
+    242,      9,      0,       ,68 BURNTMEADOW RD,Gas
+    242,      9,      0,       ,68 BURNTMEADOW RD,Oil
+    243,      1,      0,       ,34 FLOYD HILL RD,Oil
+    243,      2,      0,       ,38 FLOYD HILL RD,Oil
+    243,      3,      0,       ,36 FLOYD HILL RD,Gas
+    243,      4,      0,       ,32 FLOYD HILL RD,Oil
+    243,      5,      0,       ,685 MARTINS POND RD,Oil
+    243,      6,      0,       ,699 MARTINS POND RD,Oil
+    243,      7,      0,       ,707 MARTINS POND RD,Oil
+    243,      8,      0,       ,711 MARTINS POND RD,Gas
+    243,      9,      0,       ,731 MARTINS POND RD ,Coal or Wood
+    243,      9,      0,       ,731 MARTINS POND RD ,Gas
+    243,      9,      0,       ,731 MARTINS POND RD ,Oil
+    243,     10,      0,       ,777 MARTINS POND RD ,Oil
+    243,     10,      1,       ,771 MARTINS POND RD,Gas
+    243,     11,      0,       ,795 MARTINS POND RD,Oil
+    243,     12,      0,       ,811 MARTINS POND RD,Oil
+    243,     13,      0,       ,15 STAR HOUSE LN,Oil
+    243,     14,      0,       ,23 STAR HOUSE LN ,Oil
+    243,     15,      0,       ,28 STAR HOUSE LN,Oil
+    243,     16,      0,       ,24 STAR HOUSE LN,Oil
+    243,     19,      0,       ,283 OLD DUNSTABLE RD,Oil
+    243,     20,      0,       ,287 OLD DUNSTABLE RD,Gas
+    243,     21,      0,       ,291 OLD DUNSTABLE RD,Oil
+    243,     22,      0,       ,293 OLD DUNSTABLE RD,Oil
+    243,     24,      0,       ,309 OLD DUNSTABLE RD,Oil
+    243,     27,      0,       ,230 BURNTMEADOW RD ,Oil
+    243,     28,      0,       ,284 OLD DUNSTABLE RD,Gas
+    243,     30,      0,       ,235 OLD DUNSTABLE RD ,Oil
+    243,     32,      0,       ,828 MARTINS POND RD,Oil
+    243,     33,      0,       ,716 MARTINS POND RD,Oil
+    243,     36,      0,       ,690 MARTINS POND RD,Oil
+    243,     37,      0,       ,200 BURNTMEADOW RD,Oil
+    244,      1,      0,       ,103 RADDIN RD,Oil
+    244,      2,      0,       ,113 RADDIN RD,Oil
+    244,      3,      0,       ,127 RADDIN RD,Oil
+    244,      4,      0,       ,135 RADDIN RD,Oil
+    244,      5,      0,       ,141 RADDIN RD,Oil
+    244,      6,      0,       ,145 RADDIN RD,Oil
+    244,      7,      0,       ,149 RADDIN RD,Oil
+    244,      8,      0,       ,157 RADDIN RD,Oil
+    244,     17,      0,       ,156 RADDIN RD ,Oil
+    244,     19,      0,       ,144 RADDIN RD,Oil
+    244,     22,      0,       ,134 RADDIN RD,Oil
+    244,     23,      0,       ,124 RADDIN RD,Oil
+    244,     24,      0,       ,114 RADDIN RD,Oil
+    245,      3,      0,       ,151 RADDIN RD,Oil
+    245,      4,      0,       ,153 RADDIN RD,Oil
+    245,      8,      0,       ,1 DAN PARKER RD ,Oil
+    246,      3,      0,       ,683 OLD DUNSTABLE RD,Oil
+    246,      4,      0,       ,1 STONECLEAVE LN,Oil
+    246,      5,      0,       ,17 STONECLEAVE LN,Oil
+    246,      6,      0,       ,23 STONECLEAVE LN ,Oil
+    246,      7,      0,       ,26 STONECLEAVE LN,Oil
+    246,      8,      0,       ,6 STONECLEAVE LN,Gas
+    246,      9,      0,       ,723 OLD DUNSTABLE RD,Oil
+    246,     10,      0,       ,743 OLD DUNSTABLE RD,Oil
+    246,     12,      0,       ,15 BRYANWOOD LN,Oil
+    246,     14,      0,       ,21 BRYANWOOD LN,Oil
+    246,     15,      0,       ,27 BRYANWOOD LN,Oil
+    246,     17,      0,       ,22 BRYANWOOD LN,Oil
+    246,     18,      0,       ,16 BRYANWOOD LN,Oil
+    246,     19,      0,       ,10 BRYANWOOD LN,Oil
+    246,     21,      0,       ,728 OLD DUNSTABLE RD,Oil
+    246,     22,      0,       ,718 OLD DUNSTABLE RD,Oil
+    246,     23,      0,       ,712 OLD DUNSTABLE RD ,Oil
+    246,     24,      0,       ,700 OLD DUNSTABLE RD,Electric
+    246,     25,      0,       ,686 OLD DUNSTABLE RD,Oil
+    246,     26,      0,       ,684 OLD DUNSTABLE RD,Gas
+    246,     27,      0,       ,678 OLD DUNSTABLE RD,Gas
+    246,     28,      0,       ,672 OLD DUNSTABLE RD,Electric
+    246,     29,      0,       ,660 OLD DUNSTABLE RD,Oil
+    246,     31,      0,       ,63 ISLAND POND RD ,Oil
+    246,     32,      0,       ,65 ISLAND POND RD ,Gas
+    246,     32,      0,       ,65 ISLAND POND RD ,Gas
+    247,      5,      0,       ,499 OLD DUNSTABLE RD,Oil
+    247,      7,      0,       ,505 OLD DUNSTABLE RD,Oil
+    247,      9,      0,       ,515 OLD DUNSTABLE RD ,Oil
+    247,     10,      0,       ,535 OLD DUNSTABLE RD,Oil
+    247,     10,      1,       ,543  OLD DUNSTABLE RD,Gas
+    247,     12,      0,       ,551 OLD DUNSTABLE RD,Oil
+    247,     13,      0,       ,561 OLD DUNSTABLE RD,Oil
+    247,     14,      0,       ,569 OLD DUNSTABLE RD,Gas
+    247,     14,      1,       ,571 OLD DUNSTABLE RD,Oil
+    247,     15,      0,       ,579 OLD DUNSTABLE RD,Oil
+    247,     16,      0,       ,597 OLD DUNSTABLE RD,Oil
+    247,     17,      0,       ,605 OLD DUNSTABLE RD,Oil
+    247,     18,      0,       ,625 OLD DUNSTABLE RD,Oil
+    247,     19,      0,       ,639 OLD DUNSTABLE RD,Oil
+    247,     20,      0,       ,651 OLD DUNSTABLE RD,Oil
+    247,     21,      0,       ,655 OLD DUNSTABLE RD,Oil
+    247,     23,      0,       ,62 WHISPERING BROOK RD,Oil
+    247,     24,      0,       ,58 WHISPERING BROOK RD,Oil
+    247,     25,      0,       ,54 WHISPERING BROOK RD,Oil
+    247,     26,      0,       ,46 WHISPERING BROOK RD,Oil
+    247,     27,      0,       ,652 OLD DUNSTABLE RD ,Gas
+    247,     28,      0,       ,7 ISLAND POND RD,Oil
+    247,     29,      0,       ,21 ISLAND POND RD,Oil
+    247,     29,      1,       ,23 ISLAND POND RD,Gas
+    247,     29,      2,       ,39 ISLAND POND RD,Gas
+    247,     29,      3,       ,43 ISLAND POND RD,Gas
+    247,     30,      0,       ,67 ISLAND POND RD,Gas
+    247,     32,      0,       ,104 ISLAND POND RD,Oil
+    247,     39,      0,       ,24 ISLAND POND RD,Oil
+    247,     40,      0,       ,16 ISLAND POND RD,Gas
+    247,     41,      0,       ,634 OLD DUNSTABLE RD,Gas
+    247,     43,      0,       ,616 OLD DUNSTABLE RD,Oil
+    247,     44,      0,       ,606 OLD DUNSTABLE RD,Oil
+    247,     45,      0,       ,598 OLD DUNSTABLE RD,Oil
+    247,     46,      0,       ,590 OLD DUNSTABLE RD,Oil
+    247,     47,      0,       ,580 OLD DUNSTABLE RD,Gas
+    247,     48,      0,       ,574 OLD DUNSTABLE RD,Electric
+    247,     49,      0,       ,568 OLD DUNSTABLE RD,Oil
+    247,     50,      1,       ,1 WILDFLOWER LN,Gas
+    247,     50,      2,       ,3 WILDFLOWER LN ,Gas
+    247,     50,      3,       ,5 WILDFLOWER LN,Oil
+    247,     50,      4,       ,7 WILDFLOWER LN,Oil
+    247,     50,      5,       ,10 WILDFLOWER LN,Oil
+    247,     50,      6,       ,8 WILDFLOWER LN ,Gas
+    247,     50,      7,       ,6 WILDFLOWER LN,Gas
+    247,     50,      8,       ,4 WILDFLOWER LN,Gas
+    247,     50,      9,       ,2 WILDFLOWER LN,Gas
+    247,     51,      0,       ,566 OLD DUNSTABLE RD,Oil
+    247,     52,      0,       ,508 OLD DUNSTABLE RD,Oil
+    247,     52,      1,       ,506 OLD DUNSTABLE RD,Oil
+    247,     53,      0,       ,530 OLD DUNSTABLE RD,Gas
+    247,     53,      1,       ,542 OLD DUNSTABLE RD,Oil
+    247,     53,      2,       ,536 OLD DUNSTABLE RD,Gas
+    247,     54,      0,       ,498 OLD DUNSTABLE RD,Oil
+    247,     56,      0,       ,490 OLD DUNSTABLE RD ,Oil
+    247,     57,      0,       ,486 OLD DUNSTABLE RD,Oil
+    247,     58,      0,       ,450 OLD DUNSTABLE RD,Oil
+    248,      1,      0,       ,331 OLD DUNSTABLE RD,Oil
+    248,      4,      0,       ,11 CRYSTAL SPRINGS LN,Gas
+    248,      4,      2,       ,19 CRYSTAL SPRINGS LN,Gas
+    248,      4,      3,       ,27 CRYSTAL SPRINGS LN,Oil
+    248,      4,      4,       ,29 CRYSTAL SPRINGS LN,Gas
+    248,      4,      5,       ,30 CRYSTAL SPRINGS LN,Oil
+    248,      4,      6,       ,28 CRYSTAL SPRINGS LN,Gas
+    248,      4,      7,       ,24 CRYSTAL SPRINGS LN,Oil
+    248,      4,      8,       ,18 CRYSTAL SPRINGS LN,Oil
+    248,      4,      9,       ,12 CRYSTAL SPRINGS LN,Oil
+    248,      6,      0,       ,330 OLD DUNSTABLE RD ,Oil
+    248,      6,      1,       ,316 OLD DUNSTABLE RD ,Gas
+    248,     14,      0,       ,50 BRIDGE ST,Oil
+    248,     15,      0,       ,36 BRIDGE ST,Oil
+    248,     16,      0,       ,32 BRIDGE ST,Oil
+    248,     17,      0,       ,8 BRIDGE ST,Oil
+    248,     18,      0,       ,15 HOYTS WHARF RD,Oil
+    248,     19,      0,       ,21 HOYTS WHARF RD,Oil
+    248,     20,      0,       ,25 HOYTS WHARF RD,Oil
+    248,     21,      0,       ,29 HOYTS WHARF RD,Oil
+    248,     22,      0,       ,35 HOYTS WHARF RD,Oil
+    248,     23,      0,       ,39 HOYTS WHARF RD,Oil
+    248,     24,      0,       ,43 HOYTS WHARF RD ,Oil
+    248,     25,      0,       ,47 HOYTS WHARF RD ,Oil
+    248,     26,      0,       ,53 HOYTS WHARF RD,Oil
+    248,     27,      0,       ,61 HOYTS WHARF RD,Oil
+    248,     28,      0,       ,90 HOYTS WHARF RD,Oil
+    248,     29,      0,       ,60 HOYTS WHARF RD ,Gas
+    248,     30,      0,       ,50 HOYTS WHARF RD,Gas
+    248,     31,      0,       ,30 HOYTS WHARF RD,Oil
+    248,     32,      0,       ,28 HOYTS WHARF RD,Oil
+    248,     33,      0,       ,260 BURNTMEADOW RD,Oil
+    248,     34,      0,       ,250 BURNTMEADOW RD,Oil
+    248,     35,      0,       ,244 BURNTMEADOW RD,Oil
+    248,     36,      0,       ,249 BURNTMEADOW RD,Oil
+    248,     37,      0,       ,24 HOYTS WHARF RD,Oil
+    248,     38,      0,       ,16 HOYTS WHARF RD,Oil
+    249,      1,      0,       ,21 HERITAGE LN,Oil
+    249,      2,      0,       ,27 HERITAGE LN,Oil
+    249,      3,      0,       ,20 HERITAGE LN,Oil
+    249,      4,      0,       ,37 OLD HOMESTEAD RD,Oil
+    249,      5,      0,       ,39 OLD HOMESTEAD RD,Oil
+    249,      6,      0,       ,38 OLD HOMESTEAD RD,Oil
+    249,      7,      0,       ,83 FLAVELL RD,Oil
+    249,      8,      0,       ,95 FLAVELL RD,Oil
+    249,      9,      0,       ,109 FLAVELL RD,Oil
+    249,     10,      0,       ,7 VALLIRIA DR,Oil
+    249,     11,      0,       ,11 VALLIRIA DR,Oil
+    249,     12,      0,       ,15 VALLIRIA DR,Oil
+    249,     13,      0,       ,21-23 VALLIRIA DR ,Oil
+    249,     14,      0,       ,29 VALLIRIA DR,Oil
+    249,     15,      0,       ,33 VALLIRIA DR,Oil
+    249,     16,      0,       ,37-39 VALLIRIA DR,Oil
+    249,     17,      0,       ,41-43 VALLIRIA DR,Oil
+    249,     18,      0,       ,38-40 VALLIRIA DR,Oil
+    249,     19,      0,       ,30 VALLIRIA DR,Oil
+    249,     20,      0,       ,26 VALLIRIA DR,Oil
+    249,     21,      0,       ,22-24 VALLIRIA DR,Oil
+    249,     22,      0,       ,16-18 VALLIRIA DR,Oil
+    249,     23,      0,       ,12-14 VALLIRIA DR ,Oil
+    249,     24,      0,       ,8-10 VALLIRIA DR,Oil
+    249,     25,      0,       ,111 FLAVELL RD,Oil
+    249,     26,      0,       ,125 FLAVELL RD,Oil
+    249,     27,      0,       ,131 FLAVELL RD,Oil
+    249,     28,      0,       ,145 FLAVELL RD,Oil
+    249,     29,      0,       ,62 VALLIRIA DR,Oil
+    249,     30,      0,       ,56-58 VALLIRIA DR,Oil
+    249,     31,      0,       ,50 VALLIRIA DR,Oil
+    249,     32,      0,       ,47-49 VALLIRIA DR,Oil
+    249,     33,      0,       ,3-5 ROXANNE RD ,Electric
+    249,     34,      0,       ,7 ROXANNE RD,Oil
+    249,     35,      0,       ,11 ROXANNE RD,Oil
+    249,     36,      0,       ,10 ROXANNE RD,Oil
+    249,     37,      0,       ,59 VALLIRIA DR,Oil
+    249,     38,      0,       ,63-65 VALLIRIA DR,Oil
+    249,     39,      0,       ,155 FLAVELL RD,Oil
+    249,     40,      0,       ,159 FLAVELL RD,Oil
+    249,     41,      0,       ,175 FLAVELL RD,Oil
+    249,     42,      0,       ,181 FLAVELL RD,Oil
+    249,     43,      0,       ,189 FLAVELL RD,Oil
+    249,     44,      0,       ,201 FLAVELL RD,Oil
+    249,     45,      0,       ,209 FLAVELL RD,Oil
+    249,     46,      0,       ,234 HOYTS WHARF RD,Electric
+    249,     50,      0,       ,96 HOYTS WHARF RD ,Oil
+    249,     52,      0,       ,239 HOYTS WHARF RD,Oil
+    249,     53,      0,       ,247 HOYTS WHARF RD,Oil
+    249,     54,      0,       ,257 HOYTS WHARF RD,Oil
+    249,     55,      0,       ,269 HOYTS WHARF RD,Oil
+    249,     56,      0,       ,271 HOYTS WHARF RD,Oil
+    249,     58,      0,       ,300 HOYTS WHARF RD,Oil
+    249,     59,      0,       ,319 HOYTS WHARF RD,Oil
+    249,     59,      2,       ,338 COW POND BROOK RD ,Gas
+    249,     59,      3,       ,326 COW POND BROOK RD,Gas
+    249,     59,      4,       ,314 COW POND BROOK RD,Gas
+    249,     59,      5,       ,302 COW POND BROOK RD,Gas
+    249,     60,      0,       ,325 HOYTS WHARF RD,Oil
+    249,     61,      0,       ,355 HOYTS WHARF RD,Oil
+    249,     66,      0,       ,360 HOYTS WHARF RD,Oil
+    249,     67,      0,       ,350 HOYTS WHARF RD,Oil
+    249,     68,      0,       ,342 HOYTS WHARF RD,Oil
+    249,     69,      0,       ,338 HOYTS WHARF RD,Oil
+    249,     70,      0,       ,280 HOYTS WHARF RD,Oil
+    249,     71,      0,       ,278 HOYTS WHARF RD,Oil
+    249,     72,      0,       ,270 HOYTS WHARF RD,Oil
+    249,     73,      0,       ,198 FLAVELL RD ,Oil
+    249,     74,      0,       ,184 FLAVELL RD,Oil
+    249,     75,      0,       ,180 FLAVELL RD,Oil
+    249,     76,      0,       ,162 FLAVELL RD,Oil
+    249,     77,      0,       ,160 FLAVELL RD,Oil
+    249,     77,      1,       ,145 COW POND BROOK RD ,Gas
+    249,     78,      0,       ,152 FLAVELL RD ,Oil
+    249,     79,      0,       ,150 FLAVELL RD,Oil
+    249,     80,      0,       ,140 FLAVELL RD,Oil
+    249,     81,      0,       ,132 FLAVELL RD,Oil
+    249,     82,      0,       ,124 FLAVELL RD,Oil
+    249,     83,      0,       ,122 FLAVELL RD,Oil
+    249,     84,      0,       ,108 FLAVELL RD,Oil
+    249,     85,      0,       ,96 FLAVELL RD,Oil
+    249,     86,      0,       ,82 FLAVELL RD,Oil
+    249,     87,      0,       ,72 FLAVELL RD,Oil
+    249,     88,      0,       ,42 COW POND BROOK RD,Oil
+    250,      1,      0,       ,847 LOWELL RD,Oil
+    250,      2,      0,       ,15 HERITAGE LN,Oil
+    250,      3,      0,       ,14 HERITAGE LN,Oil
+    250,      4,      0,       ,9 OLD HOMESTEAD RD,Oil
+    250,      5,      0,       ,19 OLD HOMESTEAD RD,Oil
+    250,      6,      0,       ,27 OLD HOMESTEAD RD,Oil
+    250,      7,      0,       ,26 OLD HOMESTEAD RD,Oil
+    250,      8,      0,       ,24 OLD HOMESTEAD RD,Oil
+    250,      9,      0,       ,22 OLD HOMESTEAD RD,Oil
+    250,     10,      0,       ,4 OLD HOMESTEAD RD,Oil
+    250,     11,      0,       ,2 OLD HOMESTEAD RD,Oil
+    250,     12,      0,       ,7 MCCARTHY DR,Oil
+    250,     13,      0,       ,15 MCCARTHY DR,Oil
+    250,     14,      0,       ,23 MCCARTHY DR,Oil
+    250,     15,      0,       ,29 MCCARTHY DR,Oil
+    250,     16,      0,       ,37 MCCARTHY DR,Oil
+    250,     17,      0,       ,42A-42B MCCARTHY DR,Gas
+    250,     18,      0,       ,32-34 MCCARTHY DR,Oil
+    250,     20,      0,       ,18-20 MCCARTHY DR,Oil
+    250,     21,      0,       ,10 MCCARTHY DR,Oil
+    250,     22,      0,       ,8 MCCARTHY DR,Oil
+    250,     24,      0,       ,963 LOWELL RD,Oil
+    250,     25,      0,       ,973 LOWELL RD,Oil
+    250,     26,      0,       ,979 LOWELL RD,Oil
+    250,     27,      0,       ,1 FLAVELL RD,Oil
+    250,     28,      0,       ,11 FLAVELL RD,Oil
+    250,     29,      0,       ,23 FLAVELL RD,Oil
+    250,     30,      0,       ,31 FLAVELL RD,Oil
+    250,     31,      0,       ,47 FLAVELL RD,Oil
+    250,     32,      0,       ,55 FLAVELL RD,Oil
+    250,     34,      0,       ,62 FLAVELL RD,Oil
+    250,     35,      0,       ,54 FLAVELL RD,Oil
+    250,     36,      0,       ,34 FLAVELL RD,Oil
+    250,     37,      0,       ,20 FLAVELL RD,Oil
+    250,     38,      0,       ,16 FLAVELL RD ,Gas
+    250,     39,      0,       ,8 FLAVELL RD,Gas
+    250,     40,      0,       ,2 FLAVELL RD,Gas
+    250,     41,      0,       ,1005 LOWELL RD,Oil
+    250,     42,      0,       ,1013 LOWELL RD,Oil
+    250,     43,      0,       ,1019 LOWELL RD,Oil
+    250,     44,      0,       ,1025 LOWELL RD,Electric
+    250,     45,      0,       ,1035 LOWELL RD,Oil
+    250,     47,      0,       ,1055 LOWELL RD,Oil
+    250,     48,      0,       ,37 COW POND BROOK RD ,Oil
+    250,     48,      1,       ,23 COW POND BROOK RD,Oil
+    250,     48,      2,       ,17 COW POND BROOK RD ,Oil
+    250,     48,      3,       ,11 COW POND BROOK RD,Oil
+    250,     48,      4,       ,7 COW POND BROOK RD,Oil
+    250,     49,      0,       ,40 COW POND BROOK RD,Oil
+    250,     49,      1,       ,36 COW POND BROOK RD,Oil
+    250,     49,      2,       ,26 COW POND BROOK RD,Oil
+    250,     49,      3,       ,22 COW POND BROOK RD,Oil
+    250,     49,      4,       ,18 COW POND BROOK RD,Oil
+    250,     50,      0,       ,1081 LOWELL RD,Electric
+    250,     52,      0,       ,5 GRANITEVILLE RD,Electric
+    250,     53,      0,       ,17 GRANITEVILLE RD,Oil
+    250,     54,      0,       ,29 GRANITEVILLE RD,Electric
+    250,     56,      0,       ,35 GRANITEVILLE RD,Electric
+    250,     62,      0,       ,28 GRANITEVILLE RD,Oil
+    250,     63,      0,       ,1066 LOWELL RD ,Oil
+    250,     64,      0,       ,1054 LOWELL RD,Oil
+    250,     65,      0,       ,1042 LOWELL RD,Oil
+    250,     66,      0,       ,1038 LOWELL RD,Oil
+    250,     67,      0,       ,1036 LOWELL RD,Oil
+    250,     68,      0,       ,11 PAINTED POST RD,Oil
+    250,     69,      0,       ,19 PAINTED POST RD,Oil
+    250,     70,      0,       ,29 PAINTED POST RD,Oil
+    250,     71,      0,       ,45 PAINTED POST RD,Gas
+    250,     73,      0,       ,71 PAINTED POST RD,Oil
+    250,     74,      0,       ,69 PAINTED POST RD,Oil
+    250,     75,      0,       ,67 PAINTED POST RD,Oil
+    250,     76,      0,       ,65 PAINTED POST RD ,Oil
+    250,     77,      0,       ,66 PAINTED POST RD,Oil
+    250,     78,      0,       ,64 PAINTED POST RD,Oil
+    250,     79,      0,       ,60 PAINTED POST RD ,Oil
+    250,     80,      0,       ,56 PAINTED POST RD,Oil
+    250,     81,      0,       ,52 PAINTED POST RD,Oil
+    250,     82,      0,       ,46 PAINTED POST RD,Oil
+    250,     83,      0,       ,42 PAINTED POST RD,Oil
+    250,     84,      0,       ,38 PAINTED POST RD,Oil
+    250,     85,      0,       ,34 PAINTED POST RD,Oil
+    250,     86,      0,       ,30 PAINTED POST RD,Oil
+    250,     87,      0,       ,20 PAINTED POST RD,Oil
+    250,     88,      0,       ,980 LOWELL RD,Oil
+    250,     89,      0,       ,966 LOWELL RD,Oil
+    250,     90,      0,       ,960 LOWELL RD,Oil
+    250,     90,      1,       ,2 AMANDAS WAY,Oil
+    250,     90,      2,       ,4 AMANDAS WAY,Oil
+    250,     90,      3,       ,6 AMANDAS WAY,Oil
+    250,     91,      0,       ,952 LOWELL RD,Oil
+    250,     92,      0,       ,948 LOWELL RD,Oil
+    250,     93,      0,       ,936 LOWELL RD,Oil
+    250,     94,      0,       ,924 LOWELL RD,Oil
+    250,     97,      0,       ,41 WHITNEY POND RD,Coal or Wood
+    250,    101,      0,       ,8 LONG COPE RD #A-B,Oil
+    251,      1,      0,       ,181 DUCK POND DR,Oil
+    251,      2,      0,       ,187 DUCK POND DR,Oil
+    251,      3,      0,       ,191 DUCK POND DR,Oil
+    251,      4,      0,       ,193 DUCK POND DR,Oil
+    251,      5,      0,       ,195 DUCK POND DR,Oil
+    251,      6,      0,       ,199 DUCK POND DR,Oil
+    251,      7,      0,       ,204 DUCK POND DR,Oil
+    251,      8,      0,       ,200 DUCK POND DR ,Oil
+    251,      9,      0,       ,198 DUCK POND DR,Oil
+    251,     10,      0,       ,194 DUCK POND DR,Oil
+    251,     11,      0,       ,192 DUCK POND DR,Oil
+    251,     12,      0,       ,196 DUCK POND DR,Oil
+    251,     13,      0,       ,190 DUCK POND DR,Oil
+    251,     14,      0,       ,184 DUCK POND DR,Oil
+    251,     15,      0,       ,182 DUCK POND DR,Oil
+    251,     16,      0,       ,26 FOREST DR,Gas
+    251,     17,      0,       ,42 FOREST DR,Oil
+    251,     18,      0,       ,27 FOREST DR,Gas
+    251,     19,      0,       ,174 DUCK POND DR,Oil
+    251,     20,      0,       ,162 DUCK POND DR,Oil
+    251,     21,      0,       ,150 DUCK POND DR,Oil
+    251,     23,      0,       ,5 FOREST DR,Oil
+    251,     24,      0,       ,9 FOREST DR,Oil
+    251,     25,      0,       ,15 FOREST DR,Oil
+    251,     26,      0,       ,17 FOREST DR,Oil
+    251,     27,      0,       ,5 WINDING WAY,Oil
+    251,     28,      0,       ,11 WINDING WAY,Gas
+    251,     30,      0,       ,33 WINDING WAY,Gas
+    251,     31,      0,       ,34 WINDING WAY,Gas
+    251,     32,      0,       ,28 WINDING WAY,Gas
+    251,     33,      0,       ,22 WINDING WAY,Gas
+    251,     34,      0,       ,16 WINDING WAY,Gas
+    251,     35,      0,       ,12 WINDING WAY,Oil
+    251,     36,      0,       ,6 WINDING WAY,Oil
+    251,     37,      0,       ,16 FOREST DR,Oil
+    251,     38,      0,       ,7 PAUGUS TRL,Oil
+    251,     39,      0,       ,27 PAUGUS TRL ,Gas
+    251,     40,      0,       ,33 PAUGUS TRL ,Gas
+    251,     41,      0,       ,37 PAUGUS TRL ,Gas
+    251,     42,      0,       ,42 PAUGUS TRL ,Gas
+    251,     43,      0,       ,36 PAUGUS TRL,Gas
+    251,     44,      0,       ,24 PAUGUS TRL,Oil
+    251,     45,      0,       ,30 PAUGUS TRL ,Gas
+    251,     46,      0,       ,10 FOREST DR,Gas
+    251,     47,      0,       ,4 PAUGUS TRL,Gas
+    251,     48,      0,       ,6 FOREST DR,Gas
+    251,     49,      0,       ,2 FOREST DR,Oil
+    251,     50,      0,       ,94 DUCK POND DR,Oil
+    251,     51,      0,       ,82 DUCK POND DR,Oil
+    251,     52,      0,       ,15 ACORN PATH,Oil
+    251,     53,      0,       ,17 ACORN PATH,Oil
+    251,     54,      0,       ,21 ACORN PATH,Oil
+    251,     55,      0,       ,31 ACORN PATH,Oil
+    251,     56,      0,       ,39 ACORN PATH,Gas
+    251,     58,      0,       ,43 ACORN PATH,Oil
+    251,     59,      0,       ,45 ACORN PATH,Oil
+    251,     60,      0,       ,46 ACORN PATH,Oil
+    251,     61,      0,       ,42 ACORN PATH,Gas
+    251,     62,      0,       ,36 ACORN PATH,Oil
+    251,     63,      0,       ,26 ACORN PATH,Oil
+    251,     64,      0,       ,18 ACORN PATH,Oil
+    251,     66,      0,       ,29 AUTUMN LEAF DR,Oil
+    251,     67,      0,       ,31 AUTUMN LEAF DR,Oil
+    251,     69,      0,       ,22 AUTUMN LEAF DR,Gas
+    251,     70,      0,       ,20 AUTUMN LEAF DR,Gas
+    253,      1,      0,       ,45 GILSON RD,Oil
+    253,      3,      0,       ,21 OLD CARRIAGE PATH,Oil
+    253,      4,      0,       ,27 OLD CARRIAGE PATH,Oil
+    253,      5,      0,       ,26 OLD CARRIAGE PATH,Oil
+    253,      7,      0,       ,49 STONEBRIDGE WAY ,Gas
+    253,      8,      0,       ,59 STONEBRIDGE WAY,Oil
+    253,      9,      0,       ,67 STONEBRIDGE WAY,Oil
+    253,     10,      0,       ,79 STONEBRIDGE WAY,Oil
+    253,     11,      0,       ,89 STONEBRIDGE WAY,Oil
+    253,     12,      0,       ,56 STONEBRIDGE WAY,Oil
+    253,     13,      0,       ,46 STONEBRIDGE WAY,Oil
+    253,     14,      0,       ,21 BAYBERRY RD,Electric
+    253,     15,      0,       ,25 BAYBERRY RD,Electric
+    253,     16,      0,       ,31 BAYBERRY RD,Oil
+    253,     17,      0,       ,32 A-B BAYBERRY RD,Oil
+    253,     18,      0,       ,26 BAYBERRY RD,Electric
+    253,     19,      0,       ,20 BAYBERRY RD,Oil
+    253,     20,      0,       ,14 BAYBERRY RD,Oil
+    253,     21,      0,       ,53 SUNSET RD,Oil
+    253,     22,      0,       ,55 SUNSET RD,Oil
+    253,     24,      0,       ,993 BOSTON RD,Oil
+    253,     27,      0,       ,84 MONARCH PATH ,Gas
+    253,     27,      0,       ,84 MONARCH PATH ,Gas
+    253,     29,      0,       ,35 NOBLE PATH,Gas
+    253,     34,      0,       ,54 MONARCH PATH,Gas
+

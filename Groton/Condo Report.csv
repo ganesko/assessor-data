@@ -1,0 +1,380 @@
+﻿Internal_ID,MBLU,Block,Lot,Unit,Location,Primary_Use,Bldg_,Stories,Heat_Type_Desc,Living_AreaGBA,Line_
+189,    125,     86,    001,       ,7A INDIAN RD #1,1020,1,2,Hot Water,1152,1
+190,    125,     86,    002,       ,7B INDIAN RD #2,1020,1,2,Forced Air-Duc,882,1
+499,    129,    134,      0,       ,47-1 MOUNTAIN LAKES TRL #1,1020,1,1,Hot Water,756,1
+508,    129,    123,      A,       ,24A PINE TRL #A,1020,1,1.75,Hot Water,1008,1
+509,    129,    123,      B,       ,24B PINE TRL #B,1020,1,1.75,Hot Water,936,1
+779,    228,     51,    002,       ,411R NASHUA RD #2,1020,1,2,Hot Water,1064,1
+946,    229,      9,    001,       ,434-1 NASHUA RD #1,1020,1,2,Hot Water,1056,1
+947,    229,      9,    002,       ,434-2 NASHUA RD #2,1020,1,2,Forced Air-Duc,1056,1
+1280,    247,      6,      1,       ,503A OLD DUNSTABLE RD #A,1020,1,2,Forced Air-Duc,2868,1
+1597,    103,     20,    001,       ,79A KEMP ST #1,1020,1,2,Hot Water,1100,1
+1598,    103,     20,    002,       ,79B KEMP ST #2,1020,1,2,Hot Water,1100,1
+1599,    103,     21,    001,       ,81A KEMP ST #1,1020,1,2.5,Forced Air-Duc,1482,1
+1600,    103,     21,    002,       ,81B KEMP ST #2,1020,1,2.5,Forced Air-Duc,1482,1
+1813,    111,     64,      1,       ,118A HOLLIS ST #A,1020,1,2,Forced Air-Duc,1630,1
+1890,    110,      3,    001,       ,391A MAIN ST #A,1020,1,2,Forced Air-Duc,1398,1
+1891,    110,      3,    002,       ,391B MAIN ST #B,1020,1,2,Forced Air-Duc,1494,1
+1940,    225,     11,    001,       ,68-1 COMMON ST #1,1020,1,1,Hot Water,1248,1
+1941,    225,     11,    002,       ,68-2 COMMON ST #2,1020,1,1,Hot Water,986,1
+1942,    225,     11,    003,       ,68-3 COMMON ST #3,1020,1,1,Hot Water,2625,1
+2013,    225,     25,    003,       ,41 SHEPLE LN #3,1020,1,2,Forced Air-Duc,1134,1
+2014,    225,     25,    004,       ,43 SHEPLE LN #4,1020,1,1.5,Forced Air-Duc,3053,1
+2015,    225,     25,    005,       ,47 SHEPLE LN #5,1020,1,2,Hot Water,3044,1
+2016,    225,     25,    006,       ,49 SHEPLE LN #6,1020,1,2,Hot Water,2798,1
+2017,    225,     25,    007,       ,44 SHEPLE LN #7,1020,1,2,Forced Air-Duc,2320,1
+2018,    225,     25,    008,       ,42 SHEPLE LN #8,1020,1,2,Forced Air-Duc,1872,1
+2019,    225,     25,    009,       ,40 SHEPLE LN #9,1020,1,2,Forced Air-Duc,3004,1
+2315,    127,     33,      1,       ,10A FAWN TERRACE LN #A,1020,1,2,Forced Air-Duc,1094,1
+2425,    101,     18,      0,       ,17 WEST MAIN ST ,1020,1,2,Forced Air-Duc,1560,1
+3035,    112,    136,      0,       ,8-10 HOLLIS ST ,3401,1,2,Forced Air-Duc,8581,1
+3035,    112,    136,      0,       ,8-10 HOLLIS ST ,3401,1,2,Forced Air-Duc,8581,1
+3035,    112,    136,      0,       ,8-10 HOLLIS ST ,3401,1,2,Hot Water,8581,1
+3134,    113,     19,    001,       ,103-1 MAIN ST #1,1020,1,2.5,Hot Water,2743,1
+3135,    113,     19,    002,       ,105-2 MAIN ST #2,1020,1,2.5,Hot Water,2743,1
+3333,    112,    114,      0,       ,52 HOLLIS ST ,1020,1,,Forced Air-Duc,1840,1
+3720,    250,     61,    001,       ,44A GRANITEVILLE RD,1020,1,2,Hot Water,1311,1
+3721,    250,     61,    002,       ,44B GRANITEVILLE RD,1020,1,2,Hot Water,1299,1
+3773,    250,     19,      1,       ,26A MCCARTHY DR #A,1020,1,1,Forced Air-Duc,768,1
+3979,    121,     60,      B,       ,584B BOSTON RD,1020,1,2,Hot Water,1366,1
+4005,    118,      7,    001,       ,501A BOSTON RD,1020,1,2,Electr Basebrd,1040,1
+4006,    118,      7,    002,       ,501B BOSTON RD,1020,1,2,Electr Basebrd,1144,1
+4007,    118,      8,    001,       ,503A BOSTON RD,1020,1,2,Electr Basebrd,1092,1
+4008,    118,      8,    002,       ,503B BOSTON RD ,1020,1,2,Electr Basebrd,1050,1
+4028,    121,     28,    001,       ,663A BOSTON RD,1020,1,2,Forced Air-Duc,1000,1
+4029,    121,     28,    002,       ,663B BOSTON RD,1020,1,2,Forced Air-Duc,1000,1
+4258,    136,     43,      1,       ,202-1 HAYDEN RD #1,1020,1,2,Hot Water,1266,1
+4390,    138,      1,    001,       ,289A FORGE VILLAGE RD #1,1020,1,2,Forced Air-Duc,1301,1
+4391,    138,      1,    002,       ,289B FORGE VILLAGE RD #2,1020,1,2,Forced Air-Duc,1050,1
+4412,    137,     13,    001,       ,12A BROOKFIELD DR #1,1020,1,2,Forced Air-Duc,1463,1
+4413,    137,     13,    002,       ,12B BROOKFIELD DR #2,1020,1,2,Forced Air-Duc,1425,1
+4414,    137,     13,    003,       ,12C BROOKFIELD DR #3,1020,1,2,Forced Air-Duc,1425,1
+4415,    137,     13,    004,       ,12D BROOKFIELD DR #4,1020,1,2,Forced Air-Duc,1463,1
+4416,    137,     13,    005,       ,12E BROOKFIELD DR #5,9702,1,2,Forced Air-Duc,1140,1
+4417,    137,     13,    006,       ,12F BROOKFIELD DR #6,1020,1,2,Forced Air-Duc,1425,1
+4418,    137,     13,    007,       ,15A BROOKFIELD DR #7,1020,1,2,Forced Air-Duc,1368,1
+4419,    137,     13,    008,       ,15B BROOKFIELD DR #8,1020,1,2,Forced Air-Duc,1102,1
+4420,    137,     13,    009,       ,15C BROOKFIELD DR #9,1020,1,2,Forced Air-Duc,1140,1
+4421,    137,     13,    010,       ,15D BROOKFIELD DR #10,1020,1,2,Forced Air-Duc,1539,1
+4422,    137,     13,    011,       ,15E BROOKFIELD DR #11,1020,1,2,Forced Air-Duc,1140,1
+4423,    137,     13,    012,       ,15F BROOKFIELD DR #12,1020,1,2,Forced Air-Duc,1539,1
+4424,    137,     13,    013,       ,16A BROOKFIELD DR #13,1020,1,2,Forced Air-Duc,1349,1
+4425,    137,     13,    014,       ,16B BROOKFIELD DR #14,1020,1,2,Forced Air-Duc,1463,1
+4426,    137,     13,    015,       ,16C BROOKFIELD DR #15,1020,1,2,Forced Air-Duc,1463,1
+4427,    137,     13,    016,       ,16D BROOKFIELD DR #16,1020,1,2,Forced Air-Duc,1596,1
+4428,    137,     13,    017,       ,16E BROOKFIELD DR #17,1020,1,2,Forced Air-Duc,1425,1
+4429,    137,     13,    018,       ,16F BROOKFIELD DR #18,1020,1,2,Forced Air-Duc,1463,1
+4430,    137,     13,    019,       ,27A BROOKFIELD DR #19,1020,1,2,Forced Air-Duc,1425,1
+4431,    137,     13,    020,       ,27B BROOKFIELD DR #20,1020,1,2,Forced Air-Duc,1102,1
+4432,    137,     13,    021,       ,27C BROOKFIELD DR #21,1020,1,2,Forced Air-Duc,1102,1
+4433,    137,     13,    022,       ,27D BROOKFIELD DR #22,1020,1,2,Forced Air-Duc,1425,1
+4434,    137,     13,    023,       ,27E BROOKFIELD DR #23,1020,1,2,Forced Air-Duc,1463,1
+4435,    137,     13,    024,       ,29A BROOKFIELD DR #24,1020,1,2,Forced Air-Duc,1406,1
+4436,    137,     13,    025,       ,29B BROOKFIELD DR #25,1020,1,2,Forced Air-Duc,1368,1
+4437,    137,     13,    026,       ,29C BROOKFIELD DR #26,1020,1,2,Forced Air-Duc,1653,1
+4438,    137,     13,    027,       ,29D BROOKFIELD DR #27,1020,1,2,Forced Air-Duc,1102,1
+4439,    137,     13,    028,       ,29E BROOKFIELD DR #28,1020,1,2,Forced Air-Duc,1387,1
+4440,    137,     13,    029,       ,33A BROOKFIELD DR #29,1020,1,2,Forced Air-Duc,1406,1
+4441,    137,     13,    030,       ,33B BROOKFIELD DR #30,1020,1,2,Forced Air-Duc,1102,1
+4442,    137,     13,    031,       ,33C BROOKFIELD DR #31,1020,1,2,Forced Air-Duc,1463,1
+4443,    137,     13,    032,       ,33D BROOKFIELD DR #32,9702,1,2,Forced Air-Duc,1140,1
+4444,    137,     13,    033,       ,33E BROOKFIELD DR #33,1020,1,2,Forced Air-Duc,1463,1
+4445,    137,     13,    034,       ,33F BROOKFIELD DR #34,1020,1,2,Forced Air-Duc,1425,1
+4446,    137,     13,    035,       ,5A BROOKFIELD DR #35,1020,1,2,Forced Air-Duc,1463,1
+4447,    137,     13,    036,       ,5B BROOKFIELD DR #36,1020,1,2,Forced Air-Duc,1444,1
+4581,    122,     66,      0,       ,90 RIDGEWOOD AVE ,1020,1,1,Forced Air-Duc,1232,1
+4643,    122,      4,    001,       ,15A SUMMIT AVE #1,1020,1,2,Hot Water,1026,1
+4644,    122,      4,    002,       ,15B SUMMIT AVE #2,1020,1,2,Hot Water,1348,1
+4653,    110,     22,    001,       ,195A MILL ST #1,1020,1,2,Forced Air-Duc,1542,1
+4732,    129,    133,      0,       ,45-1 MOUNTAIN LAKES TRL #1,1020,1,1,Hot Water,1020,1
+4740,    228,     51,    001,       ,411L NASHUA RD #1,1020,1,2,Hot Water,2024,1
+4744,    110,     22,    002,       ,195B MILL ST #2,1020,1,2,Forced Air-Duc,1590,1
+4892,    101,      2,    101,       ,58A WEST MAIN ST #101,1020,1,1,Forced Air-Duc,1150,1
+4893,    101,      2,    102,       ,58B WEST MAIN ST #102,1020,1,1,Forced Air-Duc,1150,1
+4894,    101,      2,    103,       ,58C WEST MAIN ST #103,1020,1,1,Forced Air-Duc,1150,1
+4895,    101,      2,    104,       ,58D WEST MAIN ST #104,1020,1,1,Forced Air-Duc,1175,1
+4896,    101,      2,    201,       ,58E WEST MAIN ST #201,1020,1,1,Forced Air-Duc,1104,1
+4897,    101,      2,    202,       ,58F WEST MAIN ST #202,1020,1,1,Forced Air-Duc,1104,1
+4898,    101,      2,    203,       ,58G WEST MAIN ST #203,1020,1,1,Forced Air-Duc,1150,1
+4899,    101,      2,    204,       ,58H WEST MAIN ST #204,1020,1,1,Forced Air-Duc,1150,1
+4900,    101,      2,    301,       ,56A WEST MAIN ST #301,1020,1,1.5,Forced Air-Duc,1958,1
+4901,    101,      2,    302,       ,56B WEST MAIN ST #302,1020,1,1.5,Forced Air-Duc,2108,1
+4991,    121,     60,      A,       ,584A BOSTON RD ,1020,1,2,Hot Air-no Duc,1242,1
+5022,    227,    110,     5A,       ,285A NASHUA RD #A,9702,1,1,Forced Air-Duc,1036,1
+5023,    227,    110,     5B,       ,285B NASHUA RD #B,1020,1,1,Forced Air-Duc,1512,1
+5024,    227,    110,     5C,       ,285C NASHUA RD #C,1020,1,1,Forced Air-Duc,1512,1
+5025,    227,    110,     5D,       ,285D NASHUA RD #D,1020,1,2,Forced Air-Duc,1914,1
+5026,    227,    110,     5E,       ,285E NASHUA RD #E,1020,1,1,Forced Air-Duc,2962,1
+5027,    227,    110,     5F,       ,285F NASHUA RD #F,1020,1,2,Forced Air-Duc,2088,1
+5028,    227,    110,     5G,       ,285G NASHUA RD #G,1020,1,2,Forced Air-Duc,2240,1
+5029,    227,    110,     5H,       ,285H NASHUA RD #H,1020,1,2,Forced Air-Duc,2088,1
+5030,    227,    110,     5I,       ,285I NASHUA RD #I,1020,1,2,Forced Air-Duc,2136,1
+5031,    227,    110,     5J,       ,285J NASHUA RD #J,1020,1,2,Forced Air-Duc,2448,1
+5039,    118,      9,      A,       ,505A BOSTON RD,1020,1,2,Electr Basebrd,1026,1
+5040,    118,      9,      B,       ,505B BOSTON RD,1020,1,2,Electr Basebrd,1032,1
+5041,    136,     44,      1,       ,196 HAYDEN RD,1020,1,2,Hot Water,1266,1
+5042,    136,     44,      2,       ,198 HAYDEN RD,1020,1,2,Hot Water,1266,1
+5053,    127,     33,      2,       ,10B FAWN TERRACE LN #B,1020,1,2,Forced Air-Duc,1092,1
+5054,    216,      1,     1A,       ,491-A MAIN ST #A,3401,1,1,Forced Air-Duc,998,1
+5055,    216,      1,     1B,       ,491-B MAIN ST #B,3401,1,1,Forced Air-Duc,1011,1
+5056,    216,      1,     1C,       ,491-C MAIN ST #C,3401,1,1,Forced Air-Duc,1517,1
+5057,    216,      1,     1D,       ,491-D MAIN ST #D,3401,1,1,Forced Air-Duc,1491,1
+5058,    216,      1,     1E,       ,491-E MAIN ST #E,3401,1,1,Forced Air-Duc,1278,1
+5059,    216,      1,     1F,       ,491-F MAIN ST #F,3401,1,1,Forced Air-Duc,1278,1
+5060,    216,      1,     1G,       ,491-G MAIN ST #G,3401,1,1,Forced Air-Duc,2232,1
+5063,    216,      1,     2C,       ,493-C MAIN ST #C,3401,1,1,Forced Air-Duc,5386,1
+5065,    216,      1,     2E,       ,493-E MAIN ST #E,3401,1,1,Forced Air-Duc,1021,1
+5067,    216,      1,     2F,       ,493-F MAIN ST #F,3401,1,1,Forced Air-Duc,1382,1
+5068,    216,      1,     2G,       ,493-G MAIN ST #G,3401,1,1,Forced Air-Duc,1837,1
+5069,    216,      1,     3A,       ,495-A MAIN ST #A,3401,1,1,Forced Air-Duc,3283,1
+5070,    216,      1,     3B,       ,495-B MAIN ST #B,3401,1,1,Forced Air-Duc,2349,1
+5071,    216,      1,     3D,       ,495-D MAIN ST #D,3401,1,1,Forced Air-Duc,1208,1
+5072,    216,      1,     3E,       ,495-E MAIN ST #E,3401,1,1,Forced Air-Duc,2027,1
+5075,    216,      1,     4A,       ,497-A MAIN ST #4A,3401,1,1,Forced Air-Duc,1603,1
+5076,    216,      1,     4B,       ,497-B MAIN ST #B,3401,1,1,Forced Air-Duc,1449,1
+5077,    216,      1,     4C,       ,497-C MAIN ST #C,3401,1,1,Forced Air-Duc,1449,1
+5078,    216,      1,     4D,       ,497-D MAIN ST #D,3401,1,1,Forced Air-Duc,1846,1
+5079,    216,      1,     4E,       ,497-E MAIN ST #E,3401,1,1,Forced Air-Duc,1620,1
+5080,    216,      1,     4F,       ,497-F MAIN ST #F,3401,1,1,Forced Air-Duc,1620,1
+5082,    216,      1,      5,       ,489 MAIN ST ,3401,1,1,Forced Air-Duc,9807,1
+5090,    216,      1,     3C,       ,495-C MAIN ST #C,3401,1,1,Forced Air-Duc,1028,1
+5096,    111,     64,      2,       ,118B HOLLIS ST #B,1020,1,2,Forced Air-Duc,1445,1
+5097,    111,     64,      3,       ,118C HOLLIS ST #C,1020,1,2,Forced Air-Duc,1400,1
+5100,    136,     43,      2,       ,204-2 HAYDEN RD #2,1020,1,2,Hot Water,1266,1
+100186,    216,     12,      0,    11D,503D MAIN ST #D,1020,1,1,Forced Air-Duc,1092,1
+100187,    216,     12,      0,    11C,503C MAIN ST #C,1020,1,1,Forced Air-Duc,1092,1
+100188,    216,     12,      0,    11B,503B MAIN ST #B,1020,1,1,Forced Air-Duc,1032,1
+100189,    216,     12,      0,    11A,503A MAIN ST #A,1020,1,1,Forced Air-Duc,1202,1
+100190,    216,     12,      0,    10D,505D MAIN ST #D,1020,1,1,Forced Air-Duc,1092,1
+100191,    216,     12,      0,    10C,505C MAIN ST #C,1020,1,1,Forced Air-Duc,1092,1
+100192,    216,     12,      0,    10B,505B MAIN ST #B,1020,1,1,Forced Air-Duc,1215,1
+100193,    216,     12,      0,    10A,505A MAIN ST #A,1020,1,1,Forced Air-Duc,1032,1
+100194,    216,     12,      0,     9D,507D MAIN ST #D,1020,1,1,Forced Air-Duc,1234,1
+100195,    216,     12,      0,     9C,507C MAIN ST #C,1020,1,1,Forced Air-Duc,1092,1
+100196,    216,     12,      0,     9B,507B MAIN ST #B,1020,1,1,Forced Air-Duc,1032,1
+100197,    216,     12,      0,     9A,507A MAIN ST #A,1020,1,1,Forced Air-Duc,1218,1
+100198,    216,     12,      0,     8D,509D MAIN ST #D,1020,1,1,Forced Air-Duc,1092,1
+100199,    216,     12,      0,     8C,509C MAIN ST #C,1020,1,1,Forced Air-Duc,1092,1
+100200,    216,     12,      0,     8B,509B MAIN ST #B,1020,1,1,Forced Air-Duc,1218,1
+100201,    216,     12,      0,     8A,509A MAIN ST #A,1020,1,1,Forced Air-Duc,1032,1
+100202,    216,     12,      0,     7D,515D MAIN ST #D,1020,1,1,Forced Air-Duc,1092,1
+100203,    216,     12,      0,     7C,515C MAIN ST #C,1020,1,1,Forced Air-Duc,1092,1
+100204,    216,     12,      0,     7B,515B MAIN ST #B,1020,1,1,Forced Air-Duc,1044,1
+100205,    216,     12,      0,     7A,515A MAIN ST #A,1020,1,1,Forced Air-Duc,1446,1
+100206,    216,     12,      0,     6D,517D MAIN ST #D,1020,1,1,Forced Air-Duc,1092,1
+100207,    216,     12,      0,     6C,517C MAIN ST #C,1020,1,1,Forced Air-Duc,1092,1
+100208,    216,     12,      0,     6B,517B MAIN ST #B,1020,1,1,Forced Air-Duc,1412,1
+100209,    216,     12,      0,     6A,517A MAIN ST #A,1020,1,1,Forced Air-Duc,1032,1
+100210,    216,     12,      0,     5D,519D MAIN ST #D,1020,1,1,Forced Air-Duc,1092,1
+100211,    216,     12,      0,     5C,519C MAIN ST #C,1020,1,1,Forced Air-Duc,1202,1
+100212,    216,     12,      0,     5B,519B MAIN ST #B,1020,1,1,Forced Air-Duc,1032,1
+100213,    216,     12,      0,     5A,519A MAIN ST #A,1020,1,1,Forced Air-Duc,1412,1
+100214,    216,     12,      0,     4D,521D MAIN ST #D,1020,1,1,Forced Air-Duc,1092,1
+100215,    216,     12,      0,     4C,521C MAIN ST #C,1020,1,1,Forced Air-Duc,1092,1
+100216,    216,     12,      0,     4B,521B MAIN ST #B,1020,1,1,Forced Air-Duc,1032,1
+100217,    216,     12,      0,     4A,521A MAIN ST #A,1020,1,1,Forced Air-Duc,1218,1
+100218,    216,     12,      0,     3D,523D MAIN ST #D,1020,1,1,Forced Air-Duc,1092,1
+100219,    216,     12,      0,     3C,523C MAIN ST #C,1020,1,1,Forced Air-Duc,1092,1
+100220,    216,     12,      0,     3B,523B MAIN ST #B,1020,1,1,Forced Air-Duc,1412,1
+100221,    216,     12,      0,     3A,523A MAIN ST #A,1020,1,1,Forced Air-Duc,1032,1
+100222,    216,     12,      0,     2D,513D MAIN ST #D,1020,1,1,Forced Air-Duc,1092,1
+100224,    216,     12,      0,     2C,513C MAIN ST #C,1020,1,1,Forced Air-Duc,1092,1
+100225,    216,     12,      0,     2B,513B MAIN ST #B,1020,1,1,Forced Air-Duc,1032,1
+100226,    216,     12,      0,     2A,513A MAIN ST #A,1020,1,1,Forced Air-Duc,1394,1
+100227,    216,     12,      0,     1D,511D MAIN ST #D,1020,1,1,Forced Air-Duc,1092,1
+100228,    216,     12,      0,     1C,511C MAIN ST #C,1020,1,1,Forced Air-Duc,1092,1
+100229,    216,     12,      0,     1B,511B MAIN ST #B,1020,1,1,Forced Air-Duc,1412,1
+100230,    216,     12,      0,     1A,511A MAIN ST #A,1020,1,1,Forced Air-Duc,1068,1
+100246,    220,     10,      A,       ,91A CULVER RD #A,1020,1,2,Forced Air-Duc,2438,1
+100247,    220,     10,      B,       ,91B CULVER RD #B,1020,1,2,Forced Air-Duc,2438,1
+100291,    247,      6,      2,       ,503B OLD DUNSTABLE RD #B,1020,1,2,Forced Air-Duc,2770,1
+100413,    126,     45,      1,       ,1A LOST LAKE DR #A,1020,1,2,Forced Air-Duc,2314,1
+100414,    126,     45,      2,       ,1B LOST LAKE DR #B,1020,1,2,Forced Air-Duc,2263,1
+100455,    127,     10,      1,      A,749A LOWELL RD #A,1020,1,1,Forced Air-Duc,1578,1
+100475,    127,     10,      2,      B,749B LOWELL RD #B,1020,1,1,Forced Air-Duc,1578,1
+100478,    204,     10,     42,      2,25 MAGNOLIA LN,1020,1,2,Forced Air-Duc,2412,1
+100479,    204,     10,     42,      1,21 MAGNOLIA LN,1020,1,2,Forced Air-Duc,2993,1
+100524,    204,     10,     42,      3,29 MAGNOLIA LN,1020,1,2,Forced Air-Duc,1716,1
+100525,    204,     10,     42,      4,33 MAGNOLIA LN,1020,1,2,Forced Air-Duc,2418,1
+100527,    204,     10,     42,      5,35 MAGNOLIA LN,1020,1,1.75,Forced Air-Duc,2363,1
+100528,    204,     10,     42,      6,37 MAGNOLIA LN,1020,1,2,Forced Air-Duc,2214,1
+100529,    204,     10,     42,      7,39 MAGNOLIA LN ,1020,1,2,Forced Air-Duc,1716,1
+100530,    204,     10,     42,      8,41 MAGNOLIA LN,1020,1,2,Forced Air-Duc,2708,1
+100531,    204,     10,     42,      9,45 MAGNOLIA LN,1020,1,2,Forced Air-Duc,2325,1
+100532,    204,     10,     42,     10,49 MAGNOLIA LN,1020,1,2,Forced Air-Duc,2214,1
+100533,    204,     10,     42,     11,55 MAGNOLIA LN,1020,1,2,Forced Air-Duc,2305,1
+100534,    204,     10,     42,     12,57 MAGNOLIA LN ,1020,1,2,Forced Air-Duc,2418,1
+100535,    204,     10,     42,     13,67 MAGNOLIA LN,1020,1,2,Forced Air-Duc,2418,1
+100557,    216,     78,      1,       ,78  NOD RD  #A,1020,1,2,Hot Air-no Duc,2122,1
+100558,    216,     78,      2,       ,78  NOD RD  #B,1020,1,2,Hot Air-no Duc,2122,1
+100658,    129,    279,      1,       ,6A LONGFELLOW RD #A,1020,1,1,Forced Air-Duc,1360,1
+100659,    129,    279,      2,       ,6B LONGFELLOW RD #B,1020,1,1,Forced Air-Duc,680,1
+100660,    129,    279,      3,       ,6C LONGFELLOW RD #C,1020,1,1,Forced Air-Duc,680,1
+100738,    250,     19,      2,       ,28B MCCARTHY DR #B,1020,1,1,Forced Air-Duc,768,1
+100739,    113,      7,      1,       ,142A MAIN ST #A,3401,1,2.5,Hot Water,3507,1
+100801,    204,     10,     34,      1,2A ROSE CREST WAY ,1020,1,1.75,Forced Air-Duc,1515,1
+100802,    204,     10,     34,      2,2B ROSE CREST WAY,1020,1,1.75,Forced Air-Duc,1178,1
+100803,    204,     10,     34,      3,8 ROSE CREST WAY,1020,1,2,Forced Air-Duc,2516,1
+100805,    204,     10,     34,      5,12A ROSE CREST WAY,1020,1,1.75,Hot Air-no Duc,1515,1
+100806,    204,     10,     34,      6,12B ROSE CREST WAY,1020,1,1.75,Hot Air-no Duc,1178,1
+100819,    204,     10,     36,     17,6B LILAC CIR,1020,1,1.75,Forced Air-Duc,1328,1
+100820,    204,     10,     36,     16,6A LILAC CIR,1020,1,1.75,Forced Air-Duc,2307,1
+100821,    204,     10,     36,     15,8B LILAC CIR,1020,1,1.75,Forced Air-Duc,2307,1
+100822,    204,     10,     36,     14,8A LILAC CIR ,1020,1,1.75,Forced Air-Duc,1328,1
+100823,    204,     10,     36,     13,10B LILAC CIR,1020,1,2,Forced Air-Duc,2102,1
+100824,    204,     10,     36,     12,10A LILAC CIR,1020,1,2,Forced Air-Duc,2102,1
+100825,    204,     10,     36,     11,15C LILAC CIR,1020,1,2,Forced Air-Duc,1598,1
+100826,    204,     10,     36,     10,15B LILAC CIR,1020,1,2,Forced Air-Duc,1271,1
+100827,    204,     10,     36,      9,15A LILAC CIR,1020,1,1.75,Hot Air-no Duc,1585,1
+100828,    204,     10,     36,      8,12 LILAC CIR ,1020,1,2,Forced Air-Duc,2516,1
+100829,    204,     10,     36,      7,13 LILAC CIR,1020,1,2,Forced Air-Duc,2516,1
+100830,    204,     10,     36,      6,11B LILAC CIR,1020,1,1.75,Forced Air-Duc,2102,1
+100831,    204,     10,     36,      5,11A LILAC CIR,1020,1,1.75,Forced Air-Duc,2166,1
+100832,    204,     10,     36,      4,9B LILAC CIR,1020,1,2,Forced Air-Duc,2307,1
+100833,    204,     10,     36,      3,9A LILAC CIR,1020,1,1.75,Forced Air-Duc,1328,1
+100834,    204,     10,     36,      2,7B LILAC CIR,1020,1,2,Forced Air-Duc,2307,1
+100835,    204,     10,     36,      1,7A LILAC CIR,1020,1,1.75,Forced Air-Duc,1328,1
+100836,    103,     35,     18,       ,26D BRADLEY DR #D,1020,1,2.5,Forced Air-Duc,1872,1
+100837,    103,     35,     17,       ,26C BRADLEY DR #C,1020,1,2.5,Forced Air-Duc,1404,1
+100838,    103,     35,     16,       ,26B BRADLEY DR #B,1020,1,2,Forced Air-Duc,1080,1
+100839,    103,     35,     15,       ,26A BRADLEY DR #A,1020,1,2.5,Forced Air-Duc,1872,1
+100840,    103,     35,     14,       ,22D BRADLEY DR #D,1020,1,2.5,Forced Air-Duc,1872,1
+100841,    103,     35,     13,       ,22C BRADLEY DR #C,1020,1,2.5,Hot Air-no Duc,1404,1
+100842,    103,     35,     12,       ,22B BRADLEY DR #B,1020,1,2,Hot Air-no Duc,1260,1
+100843,    103,     35,     11,       ,22A BRADLEY DR #A,1020,1,2.5,Forced Air-Duc,1872,1
+100844,    103,     35,     10,       ,18E BRADLEY DR #E,1020,1,2.5,Forced Air-Duc,1404,1
+100845,    103,     35,      9,       ,18D BRADLEY DR #D,1020,1,2,Forced Air-Duc,1296,1
+100846,    103,     35,      8,       ,18C BRADLEY DR #C,1020,1,2.5,Forced Air-Duc,1404,1
+100847,    103,     35,      7,       ,18B BRADLEY DR #B,1020,1,2,Forced Air-Duc,1296,1
+100848,    103,     35,      6,       ,18A BRADLEY DR #A,1020,1,2,Forced Air-Duc,1296,1
+100849,    103,     35,      5,       ,8E BRADLEY DR #E,1020,1,2,Forced Air-Duc,1404,1
+100850,    103,     35,      4,       ,8D BRADLEY DR #D,1020,1,2,Forced Air-Duc,1296,1
+100851,    103,     35,      3,       ,8C BRADLEY DR #C,1020,1,2,Forced Air-Duc,1296,1
+100852,    103,     35,      2,       ,8B BRADLEY DR #B,1020,1,2,Forced Air-Duc,1296,1
+100853,    103,     35,      1,       ,8A BRADLEY DR #A,1020,1,2,Forced Air-Duc,1404,1
+101115,    202,     80,      1,       ,698A TOWNSEND RD #A,1020,1,1,Forced Air-Duc,851,1
+101116,    202,     80,      4,       ,680D TOWNSEND RD #D,1020,1,1,Forced Air-Duc,2560,1
+101117,    202,     80,      3,       ,690C TOWNSEND RD #C,1020,1,2,Forced Air-Duc,2280,1
+101118,    202,     80,      2,       ,698B TOWNSEND RD #B,1020,1,1,Forced Air-Duc,864,1
+101195,    135,     20,      1,       ,243A FORGE VILLAGE RD #A,1020,1,2,Forced Air-Duc,1265,1
+101196,    135,     20,      2,       ,243B FORGE VILLAGE RD #B,1020,1,2,Forced Air-Duc,1265,1
+101285,    115,     41,      1,       ,1A MAIN ST #A,1020,1,2,Forced Air-Duc,3272,1
+101286,    115,     41,      2,       ,1B MAIN ST #B,1020,1,2,Forced Air-Duc,2006,1
+101325,    113,      9,      1,      1,134-1A MAIN ST #1A,3401,1,1,Forced Air-Duc,925,1
+101345,    113,      9,      1,      2,134-1B MAIN ST #1B,3401,1,1,Forced Air-Duc,892,1
+101346,    113,      9,      1,      3,134-1C MAIN ST #1C,3401,1,1,Forced Air-Duc,1084,1
+101347,    113,      9,      2,      1,134-2A MAIN ST #2A,1020,1,1,Forced Air-Duc,1362,1
+101348,    113,      9,      2,      2,134-2B MAIN ST #2B,1020,1,1,Forced Air-Duc,797,1
+101349,    113,      9,      2,      3,134-2C MAIN ST #2C,1020,1,1,Forced Air-Duc,1202,1
+101350,    113,      9,      1,      0,134LL MAIN ST #LL,3401,1,1,Forced Air-Duc,3285,1
+101380,    113,      9,     25,      3,25C BLACKSMITH ROW #C,1020,1,2,Forced Air-Duc,2650,1
+101381,    113,      9,     25,      2,25B BLACKSMITH ROW #B,1020,1,2,Forced Air-Duc,1738,1
+101382,    113,      9,     25,      1,25A BLACKSMITH ROW #A,1020,1,2,Forced Air-Duc,2191,1
+101383,    113,      9,     27,      1,27A BLACKSMITH ROW #A,1020,1,2,Forced Air-Duc,3590,1
+101384,    113,      9,     24,      1,24A BLACKSMITH ROW #A,1020,1,2,Forced Air-Duc,3140,1
+101385,    113,      9,     22,      1,22A BLACKSMITH ROW #A,1020,1,2,Forced Air-Duc,2772,1
+101386,    113,      9,     22,      3,22C BLACKSMITH ROW #C,1020,1,2,Forced Air-Duc,2689,1
+101387,    113,      9,     22,      2,22B BLACKSMITH ROW #B,1020,1,2,Forced Air-Duc,2092,1
+101388,    113,      9,     21,      2,21A BLACKSMITH ROW #A,1020,1,1.5,Forced Air-Duc,1982,1
+101389,    113,      9,     21,      3,21B BLACKSMITH ROW #B,1020,1,1.75,Forced Air-Duc,2801,1
+101390,    113,      9,     18,      3,18C BLACKSMITH ROW #C,1020,1,1.75,Forced Air-Duc,1790,1
+101391,    113,      9,     18,      1,18A BLACKSMITH ROW #A,1020,1,1.75,Forced Air-Duc,2009,1
+101392,    113,      9,     18,      2,18B BLACKSMITH ROW #B,1020,1,1.75,Forced Air-Duc,1362,1
+101393,    113,      9,     19,      2,19B BLACKSMITH ROW #B,1020,1,1.75,Forced Air-Duc,2041,1
+101394,    113,      9,     19,      1,19A BLACKSMITH ROW #A,1020,1,1.75,Forced Air-Duc,3096,1
+101666,    111,     23,      1,       ,71 CHAMPNEY ST #A,1020,1,3,Forced Air-Duc,1616,1
+101667,    111,     23,      2,       ,71 CHAMPNEY ST #B,1020,1,1,Forced Air-Duc,1173,1
+101668,    111,     23,      3,       ,71 CHAMPNEY ST #C,1020,1,2,Forced Air-Duc,1183,1
+101669,    111,     23,      4,       ,71 CHAMPNEY ST #D,1020,1,2,Forced Air-Duc,1710,1
+101785,    204,     10,     34,      4,6 ROSE CREST WAY,1020,1,2,Forced Air-Duc,2516,1
+101805,    204,     10,     34,      7,10 ROSE CREST WAY,1020,1,2,Forced Air-Duc,2516,1
+101885,    228,     60,      1,      J,1 OLIVIA WAY #J,1020,1,2,Forced Air-Duc,1960,1
+101886,    228,     60,      2,     AA,2 OLIVIA WAY #AA,1020,1,2,Forced Air-Duc,1264,1
+101887,    228,     60,      6,      B,6 OLIVIA WAY #B,1020,1,2,Forced Air-Duc,1976,1
+101888,    228,     60,     10,      C,10 OLIVIA WAY #C,1020,1,2,Forced Air-Duc,1264,1
+101889,    228,     60,     14,      D,14 OLIVIA WAY #D,1020,1,2,Forced Air-Duc,2832,1
+101890,    228,     60,     13,      E,13 OLIVIA WAY #E,1020,1,2,Forced Air-Duc,2132,1
+101891,    228,     60,      9,      F,9 OLIVIA WAY #F,1020,1,2,Forced Air-Duc,1960,1
+101892,    228,     60,      7,      G,7 OLIVIA WAY #G,1020,1,2,Forced Air-Duc,1960,1
+101893,    228,     60,      5,      H,5 OLIVIA WAY #H,1020,1,2,Forced Air-Duc,2132,1
+101894,    228,     60,      3,      I,3 OLIVIA WAY #I,1020,1,2,Forced Air-Duc,1960,1
+101907,    120,      2,     40,      1,58 HUMMINGBIRD LN #1,1020,1,2,Forced Air-Duc,2822,1
+101908,    120,      2,     40,     2A,46A HUMMINGBIRD LN #2A,1020,1,2,Forced Air-Duc,2800,1
+101909,    120,      2,     40,     3B,46B HUMMINGBIRD LN #3B,1020,1,2,Forced Air-Duc,2800,1
+101925,    120,      2,     40,     17,35 HUMMINGBIRD LN #17,1020,1,2,Forced Air-Duc,2653,1
+101926,    120,      2,     40,    19A,63A HUMMINGBIRD LN #19A,1020,1,2,Forced Air-Duc,2800,1
+101927,    120,      2,     40,    18B,63B HUMMINGBIRD LN #18B,1020,1,2,Forced Air-Duc,2800,1
+101928,    120,      2,     40,     20,45 HUMMINGBIRD LN #18,1020,1,2,Forced Air-Duc,2822,1
+101929,    120,      2,     40,     21,75 HUMMINGBIRD LN #21,1020,1,2,Forced Air-Duc,2822,1
+101930,    120,      2,     40,     4A,72A HUMMINGBIRD LN ,1020,1,2,Forced Air-Duc,2822,1
+101945,    120,      2,     40,     5B,72B HUMMINGBIRD LN #5B,1020,1,2,Forced Air-Duc,2822,1
+101946,    120,      2,     40,     6C,72C HUMMINGBIRD LN #6C,1020,1,2,Forced Air-Duc,2800,1
+101947,    120,      2,     40,     7D,72D HUMMINGBIRD LN #7D,1020,1,2,Forced Air-Duc,2800,1
+101948,    120,      2,     40,     16,120 HUMMINGBIRD LN #16,1020,1,2,Forced Air-Duc,2822,1
+101949,    120,      2,     40,    14A,100E HUMMINGBIRD LN ,1020,1,2,Forced Air-Duc,2833,1
+101950,    120,      2,     40,      8,84 HUMMINGBIRD LN #8,1020,1,2,Forced Air-Duc,2822,1
+101951,    120,      2,     40,      9,88 HUMMINGBIRD LN #9,1020,1,2,Forced Air-Duc,2822,1
+101952,    120,      2,     40,     22,95 HUMMINGBIRD LN #22,1020,1,2,Forced Air-Duc,2822,1
+101953,    120,      2,     40,    23B,115B HUMMINGBIRD LN #23B,1020,1,2,Forced Air-Duc,2319,1
+101954,    120,      2,     40,    24A,115A HUMMINGBIRD LN #24A,1020,1,2,Forced Air-Duc,2800,1
+101955,    120,      2,     40,    10A,100A HUMMINGBIRD LN #10A,1020,1,2,Forced Air-Duc,2319,1
+101956,    120,      2,     40,    11B,100B HUMMINGBIRD LN #11B,1020,1,2,Forced Air-Duc,2319,1
+101957,    120,      2,     40,    12C,100C HUMMINGBIRD LN #12C,1020,1,2,Forced Air-Duc,2319,1
+101958,    120,      2,     40,    13D,100D HUMMINGBIRD LN #13D,1020,1,2,Forced Air-Duc,2319,1
+101959,    120,      2,     40,    15B,108 HUMMINGBIRD LN ,1020,1,2,Forced Air-Duc,2822,1
+102007,    102,     44,      1,      A,73A PEPPERELL RD #A,1020,1,2,Forced Air-Duc,1564,1
+102008,    102,     44,      1,      B,73B PEPPERELL RD #B,1020,1,2,Forced Air-Duc,3128,1
+102009,    102,     44,      1,      C,73C PEPPERELL RD #C,1020,1,2,Forced Air-Duc,3128,1
+102028,    225,     25,    002,       ,39 SHEPLE LN #2,1020,1,2,Forced Air-Duc,2441,1
+102051,    133,      9,      2,      A,14A WHILEY RD,1020,1,2,Forced Air-Duc,2800,1
+102052,    133,      9,      2,      B,14B WHILEY RD,1020,1,2,Forced Air-Duc,2450,1
+102066,    224,     24,     1B,       ,180B MARTINS POND RD,1020,1,2,Forced Air-Duc,2380,1
+102067,    224,     24,     1A,       ,180A MARTINS POND RD,1020,1,2,Forced Air-Duc,2904,1
+102087,    135,     34,     1A,       ,218 FORGE VILLAGE RD #A,1020,1,2,Forced Air-Duc,2200,1
+102088,    135,     34,     2B,       ,218 FORGE VILLAGE RD #B,1020,1,2,Forced Air-Duc,2200,1
+102245,    225,     25,    001,       ,37 SHEPLE LN ,1020,1,2,Forced Air-Duc,2569,1
+102310,    112,    114,      1,       ,50 HOLLIS ST ,1020,1,,Forced Air-Duc,936,1
+102313,    101,     18,      1,       ,19 WEST MAIN ST ,1020,1,2,Forced Air-Duc,1998,1
+102329,    129,     74,      1,,6A LONG COPE RD ,1020,1,,Forced Air-Duc,1240,1
+102330,    129,     74,      2,,6B LONG COPE RD ,1020,1,,Forced Air-Duc,1240,1
+102332,    124,     19,      1,       ,37A TAVERN RD ,1020,1,2,Forced Air-Duc,2146,1
+102333,    124,     19,      2,       ,37B TAVERN RD ,1020,1,2,Forced Air-Duc,2008,1
+102343,    216,     31,      1,      A,176A GRATUITY RD ,1020,1,2,Forced Air-Duc,2206,1
+102344,    216,     31,      2,      B,176B GRATUITY RD ,1020,1,2,Forced Air-Duc,2206,1
+102354,    226,      2,      1,      A,23A MCGOVERN WAY ,1020,1,2,Forced Air-Duc,2245,1
+102355,    226,      2,      1,      B,23B MCGOVERN WAY ,1020,1,1,Forced Air-Duc,2008,1
+102356,    226,      2,      2,      A,57A LEGACY LN ,1020,1,2,Forced Air-Duc,2637,1
+102357,    226,      2,      2,      B,57B LEGACY LN ,1010,1,1,Forced Air-Duc,2174,1
+102358,    226,      2,      3,      A,67A LEGACY LN ,1020,1,1,Forced Air-Duc,2008,1
+102359,    226,      2,      3,      B,67B LEGACY LN ,1020,1,2,Forced Air-Duc,2604,1
+102360,    226,      2,      4,      A,86A LEGACY LN ,1020,1,2,Forced Air-Duc,2764,1
+102361,    226,      2,      4,      B,86B LEGACY LN ,1020,1,1,Forced Air-Duc,2008,1
+102362,    226,      2,      5,      A,70A LEGACY LN ,1020,1,1,Forced Air-Duc,2198,1
+102363,    226,      2,      5,      B,70B LEGACY LN ,1020,1,2,Forced Air-Duc,2746,1
+102364,    226,      2,      6,      A,58A LEGACY LN ,1020,1,2,Forced Air-Duc,2637,1
+102365,    226,      2,      6,      B,58B LEGACY LN ,1020,1,1,Forced Air-Duc,2680,1
+102366,    226,      2,      7,      A,46A LEGACY LN ,1020,1,1,Forced Air-Duc,2174,1
+102367,    226,      2,      7,      B,46B LEGACY LN ,1020,1,2,Forced Air-Duc,2746,1
+102368,    226,      2,      8,      A,38A LEGACY LN ,1020,1,2,Forced Air-Duc,2629,1
+102369,    226,      2,      8,      B,38B LEGACY LN ,1020,1,2,Forced Air-Duc,2629,1
+102370,    226,      2,      9,      A,24A LEGACY LN ,1020,1,1,Forced Air-Duc,2174,1
+102371,    226,      2,      9,      B,24B LEGACY LN ,1020,1,2,Forced Air-Duc,3061,1
+102374,    226,      2,     11,      A,29A LEGACY LN ,1020,1,2,Forced Air-Duc,2629,1
+102375,    226,      2,     11,      B,29B LEGACY LN ,1020,1,1,Forced Air-Duc,2174,1
+102376,    226,      2,     12,      A,45A LEGACY LN ,1020,1,2,Forced Air-Duc,2629,1
+102377,    226,      2,     12,      B,45B LEGACY LN ,1020,1,2,Forced Air-Duc,2629,1
+102378,    226,      2,     13,      A,26A MCGOVERN WAY ,1020,1,2,Forced Air-Duc,2664,1
+102379,    226,      2,     13,      B,26B MCGOVERN WAY ,1020,1,1,Forced Air-Duc,2008,1
+102383,    124,     35,      0,      A,19A INDIAN RD ,1020,1,2,Forced Air-Duc,1878,1
+102384,    124,     35,      0,      B,19B INDIAN RD ,1020,1,2,Forced Air-Duc,1878,1
+102395,    216,     99,      1,      A,458A MAIN ST #A,1020,1,2,Forced Air-Duc,2283,1
+102396,    216,     99,      1,      B,458B MAIN ST #B,1020,1,2,Forced Air-Duc,2283,1
+102397,    122,     67,      1,       ,82 RIDGEWOOD AVE ,1020,1,1,Forced Air-Duc,780,1
+102398,    122,     67,      2,       ,86 RIDGEWOOD AVE ,1020,1,1,Forced Air-Duc,2077,1
+102399,    113,     69,      0,      A,15A COURT ST ,1020,1,1,Hot Water,1188,1
+102400,    113,     69,      0,      B,15B COURT ST ,1020,1,1,Hot Water,1332,1
+102410,    229,      2,      0,      1,2A RED PEPPER LN ,1020,1,2,Forced Air-Duc,1912,1
+102411,    229,      2,      0,      2,2B RED PEPPER LN ,1020,1,2,Forced Air-Duc,1912,1
+102413,    129,    248,      1,       ,61 ARROW TRL ,1020,1,2,Forced Air-Duc,1685,1
+102414,    129,    248,      2,       ,69 ARROW TRL ,1020,1,2,Forced Air-Duc,1976,1
+

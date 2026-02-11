@@ -1,0 +1,208 @@
+﻿Internal_ID,MBLU,Block,Lot,Unit,Location,Primary_Use,Bldg_,Stories,Living_AreaGBA,Usrfld_208_Desc,Line_
+605,    203,     33,      0,       ,24 TOWN LINE RD,3250,1,1,960,Electr Basebrd,1
+606,    203,     34,      0,       ,14 TOWN LINE RD,3250,1,1,1961,Forced Air-Duc,1
+1109,    230,     46,      0,       ,703 CHICOPEE ROW,9341,1,2.5,161690,Forced Air-Duc,1
+1148,    231,     45,      0,       ,495 CHICOPEE ROW,0316,1,1,1920,Hot Air-no Duc,1
+1260,    229,     34,      0,       ,66 NORTH ST,0130,2,1,576,Hot Water,1
+1341,    246,     36,      0,       ,ISLAND POND RD,9541,1,1,361,None,1
+1343,    246,     35,      0,       ,ISLAND POND RD,9541,1,1,4170,Forced Air-Duc,1
+1578,    206,      8,      0,       ,305 TOWNSEND RD,9391,1,1.5,912,Hot Water,1
+1586,    206,     10,      0,       ,TOWNSEND RD,9391,1,1,726,Forced Air-Duc,1
+1677,    110,     29,      0,       ,445 MAIN ST,0310,1,1,4320,None,1
+1747,    216,     86,      0,       ,592 MAIN ST,9512,1,1.75,3624,Forced Air-Duc,1
+1763,    216,     93,      0,       ,536 MAIN ST,3760,1,1,4838,Forced Air-Duc,1
+1773,    216,     99,      0,       ,468 MAIN ST ,3260,1,1,2873,None,1
+1782,    112,     73,      0,       ,300 MAIN ST,3420,1,1.75,4793,Forced Air-Duc,1
+1783,    112,     74,      0,       ,292 MAIN ST ,3420,1,1,2322,Forced Air-Duc,1
+1784,    112,     71,      0,       ,308 MAIN ST,3410,1,1.75,3603,Forced Air-Duc,1
+1785,    112,     72,      0,       ,306 MAIN ST,3400,1,1,2602,Forced Air-Duc,1
+1800,    111,      4,      0,       ,80 CHAMPNEY ST ,9541,1,2.5,4650,Steam,1
+1881,    110,     37,      0,       ,412 MAIN ST,4000,1,1,25895,Forced Air-Duc,1
+1881,    110,     37,      0,       ,412 MAIN ST,4000,2,1,34132,Forced Air-Duc,1
+1889,    110,      2,      0,       ,371-375 MAIN ST ,1120,1,2,7544,Hot Water,1
+1889,    110,      2,      0,       ,371-375 MAIN ST ,1120,2,2,6940,Hot Water,1
+1892,    110,     40,      0,       ,368 MAIN ST,0130,2,2,2400,Hot Water,1
+1899,    110,     43,      0,       ,346 MAIN ST,9341,1,2,63655,Forced Air-Duc,1
+1899,    110,     43,      0,       ,346 MAIN ST,9341,2,1,11880,Forced Air-Duc,1
+1900,    110,      1,      0,       ,365 MAIN ST ,9602,1,1,14645,Steam,1
+1902,    110,     42,      0,       ,342 MAIN ST ,9341,1,1,111583,Forced Air-Duc,1
+1902,    110,     42,      0,       ,342 MAIN ST ,9341,2,1,99823,Forced Air-Duc,1
+1927,    111,     27,      0,       ,139 HOLLIS ST,0130,2,1,361,Electr Basebrd,1
+2008,    112,     70,      0,       ,318 MAIN ST,3250,1,1,2990,Forced Air-Duc,1
+2027,    231,     91,      0,       ,CHICOPEE ROW ,9341,1,1,824,Hot Water,1
+2030,    231,     90,      0,       ,370 CHICOPEE ROW,4000,1,1,10192,Forced Air-Duc,1
+2231,    126,      8,      0,       ,541 LOWELL RD,9391,1,1,2127,Steam,1
+2403,    103,      2,      0,       ,219 TOWNSEND RD,0400,1,1,10944,Steam,1
+2403,    103,      2,      0,       ,219 TOWNSEND RD,0400,2,1,97271,Steam,1
+2403,    103,      2,      0,       ,219 TOWNSEND RD,0400,3,2,29046,Steam,1
+2403,    103,      2,      0,       ,219 TOWNSEND RD,0400,4,1,18701,Steam,1
+2403,    103,      2,      0,       ,219 TOWNSEND RD,0400,5,2,14332,Steam,1
+2419,    106,     38,      0,       ,163 WEST MAIN ST,9311,1,1,10795,Forced Air-Duc,1
+2421,    106,     33,      0,       ,159 WEST MAIN ST ,9512,1,1,1466,Hot Air-no Duc,1
+2423,    101,     16,      0,       ,1 PEPPERELL RD,3500,1,1,660,Forced Air-Duc,1
+2431,    101,     23,      0,       ,37 WEST MAIN ST,9602,1,1,5210,Hot Water,1
+2463,    106,     45,      0,       ,217 WEST MAIN ST,9311,1,1,4800,Hot Air-no Duc,1
+2464,    101,     10,      0,       ,6 WEST MAIN ST,3400,1,2,2520,Steam,1
+2465,    101,      9,      0,       ,8 WEST MAIN ST,1250,1,2,79181,Hot Water,1
+2476,    101,      5,      0,       ,44 WEST MAIN ST,9351,1,1,3643,Hot Water,1
+2483,    106,     15,      0,       ,94 WEST MAIN ST,0310,1,2,8496,Hot Air-no Duc,1
+2524,    102,      1,      0,       ,CANNERY ROW,0410,1,1,2755,Hot Air-no Duc,1
+2524,    102,      1,      0,       ,CANNERY ROW,0410,2,1,16407,Steam,1
+2563,    102,     10,      0,       ,29 ST JAMES AVE,9602,1,1,4109,Forced Air-Duc,1
+2572,    101,     12,      0,       ,3 WEST MAIN ST ,3160,1,1,720,None,1
+2588,    101,     15,      0,       ,9 WEST MAIN ST,3250,1,1.5,2716,Hot Water,1
+2878,    218,      6,      0,       ,398 WEST MAIN ST,3250,1,1,1812,Floor Furnace,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,2,2,109175,Forced Air-Duc,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,3,3,91702,Hot Water,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,4,1,33408,Forced Air-Duc,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,5,1,68570,Forced Air-Duc,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,6,1,31080,Forced Air-Duc,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,7,1,9745,Forced Air-Duc,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,8,1,21372,Forced Air-Duc,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,9,1,5060,Forced Air-Duc,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,10,1,6928,Forced Air-Duc,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,11,2,6032,Forced Air-Duc,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,12,3,15965,Steam,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,14,1,4008,None,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,15,1,13596,Forced Air-Duc,1
+2914,    219,      9,      0,       ,282 FARMERS ROW,9410,20,1,3550,Forced Air-Duc,1
+2946,    113,     83,      0,       ,21 ADAMS AVE ,1120,1,2,7526,Hot Water,1
+2948,    113,     84,      0,       ,31 ADAMS AVE,3400,1,1,3420,Forced Air-Duc,1
+2953,    113,     76,      0,       ,36 COURT ST ,3400,1,1,1107,Forced Air-Duc,1
+2963,    112,      2,      0,       ,205-207 MAIN ST ,0130,2,2,2836,Hot Water,1
+2964,    112,      1,      0,       ,201 MAIN ST,3400,1,2,6643,Forced Air-Duc,1
+2976,    113,     65,      0,       ,195 MAIN ST,3250,1,1.75,2580,Forced Air-Duc,1
+2983,    113,     59,      0,       ,20 STATION AVE ,3250,1,2,6765,Radiant,1
+2985,    113,     61,      0,       ,173 MAIN ST,9311,1,2,11516,Hot Water,1
+2989,    113,     51,      0,       ,STATION AVE,9711,1,2,7051,Forced Air-Duc,1
+2993,    113,     48,      0,       ,167 MAIN ST ,3410,1,2,2343,Forced Air-Duc,1
+2994,    113,     47,      0,       ,163 MAIN ST,3410,1,2,2640,Forced Air-Duc,1
+2996,    113,     46,      0,       ,159-161 MAIN ST,3250,1,2,4252,Hot Water,1
+2997,    113,     45,      0,       ,155-157 MAIN ST ,0311,2,2,1830,Forced Air-Duc,1
+2999,    113,     43,      0,       ,145 MAIN ST,9341,1,2,16410,Steam,1
+3000,    113,     42,      0,       ,143 MAIN ST,3210,1,1,7580,Forced Air-Duc,1
+3003,    113,     41,      0,       ,127 MAIN ST,3250,1,1,7276,Hot Water,1
+3016,    112,     94,      0,       ,218 MAIN ST ,9602,1,1,10452,Steam,1
+3019,    112,     97,      0,       ,17 HOLLIS ST,4300,1,1.5,3510,Forced Air-Duc,1
+3022,    112,    132,      0,       ,30 HOLLIS ST,3250,1,1,2800,Hot Water,1
+3023,    112,    131,      0,       ,28 WILLOWDALE RD ,3310,1,1.5,4677,Hot Air-no Duc,1
+3043,    113,      1,      0,       ,186 MAIN ST,3400,1,2,7527,Forced Air-Duc,1
+3043,    113,      1,      0,       ,186 MAIN ST,3400,2,2,3200,Forced Air-Duc,1
+3058,    113,      6,      0,       ,148-150 MAIN ST,0310,1,2,4932,Hot Water,1
+3060,    113,      8,      0,       ,140 MAIN ST,3400,1,2,3694,Forced Air-Duc,1
+3062,    113,     10,      0,       ,128 MAIN ST,3000,1,2.75,37111,Hot Air-no Duc,1
+3062,    113,     10,      0,       ,128 MAIN ST,3000,2,1,5180,Forced Air-Duc,1
+3064,    116,      1,      0,       ,19 LOWELL RD,9701,1,2,12017,Forced Air-Duc,1
+3064,    116,      1,      0,       ,19 LOWELL RD,9701,2,1.75,6120,Forced Air-Duc,1
+3065,    116,      3,      0,       ,55 LOWELL RD,0311,2,2,6276,Forced Air-Duc,1
+3065,    116,      3,      0,       ,55 LOWELL RD,0311,3,2,7991,Forced Air-Duc,1
+3068,    109,     52,   3068,       ,46 WEST ST,9512,1,1,5008,Forced Air-Duc,1
+3071,    109,     52,   3071,       ,22 HILLSIDE AVE,9512,1,2,49791,Steam,1
+3087,    116,      6,      0,       ,171 LOWELL RD,0130,2,1,924,Forced Air-Duc,1
+3136,    113,     18,      0,       ,99 MAIN ST,9311,1,2,12822,Forced Air-Duc,1
+3169,    116,     11,   3169,       ,1 POWDERHOUSE RD,9602,1,2,13138,Steam,1
+3174,    116,     12,      0,       ,86 MAIN ST,9411,1,2,4906,Hot Water,1
+3174,    116,     12,      0,       ,86 MAIN ST,9411,2,3,5472,Hot Water,1
+3174,    116,     12,      0,       ,86 MAIN ST,9411,6,2,27027,Hot Water,1
+3174,    116,     12,      0,       ,86 MAIN ST,9411,7,1,3540,Hot Air-no Duc,1
+3186,    116,     10,      0,       ,ACADEMY DR,9410,6,1,17317,Forced Air-Duc,1
+3186,    116,     10,      0,       ,ACADEMY DR,9410,7,2,13200,Hot Water,1
+3186,    116,     10,      0,       ,ACADEMY DR,9410,8,2,10488,Hot Water,1
+3186,    116,     10,      0,       ,ACADEMY DR,9410,10,2,7016,Forced Air-Duc,1
+3186,    116,     10,      0,       ,ACADEMY DR,9410,11,1.75,4200,Hot Water,1
+3186,    116,     10,      0,       ,ACADEMY DR,9410,12,1,27000,Forced Air-Duc,1
+3186,    116,     10,      0,       ,ACADEMY DR,9410,13,1.5,41172,Forced Air-Duc,1
+3186,    116,     10,      0,       ,ACADEMY DR,9410,14,1,11626,Hot Water,1
+3187,    115,      2,      0,       ,14 MAIN ST,9601,3,2,10244,Hot Water,1
+3187,    115,      2,      0,       ,14 MAIN ST,9601,4,1,17120,Hot Water,1
+3187,    115,      2,      0,       ,14 MAIN ST,9601,5,1,2480,Hot Water,1
+3224,    115,     33,      0,       ,LOVERS LN,9311,1,1,8120,Forced Air-Duc,1
+3224,    115,     33,      0,       ,LOVERS LN,9311,2,1,1696,Forced Air-Duc,1
+3224,    115,     33,      0,       ,LOVERS LN,9311,3,1,616,Forced Air-Duc,1
+3233,    222,     55,      0,       ,122 OLD AYER RD ,9431,1,,72141,Forced Air-Duc,1
+3237,    115,     37,      0,       ,40 BOSTON RD,3400,1,1,728,Hot Water,1
+3238,    115,     40,      0,       ,6 BOSTON RD,3250,1,1,1500,Hot Air-no Duc,1
+3248,    115,     36,      0,       ,48 BOSTON RD ,3400,1,1.75,1176,Forced Air-Duc,1
+3250,    222,     21,      0,       ,66-68 BOSTON RD ,3400,1,2,2168,Forced Air-Duc,1
+3250,    222,     21,      0,       ,66-68 BOSTON RD ,3400,2,1,1200,Forced Air-Duc,1
+3256,    222,     17,      0,       ,112 BOSTON RD,3400,1,1.75,4755,Forced Air-Duc,1
+3257,    222,     18,      0,       ,110 BOSTON RD,9411,1,1,5344,Forced Air-Duc,1
+3258,    222,     20,      0,       ,80 BOSTON RD,9000,1,1,7403,Forced Air-Duc,1
+3260,    222,     15,      0,       ,120 BOSTON RD,3420,1,,8324,Forced Air-Duc,1
+3261,    222,     16,      0,       ,116 BOSTON RD ,3250,1,1,3152,Forced Air-Duc,1
+3269,    222,      5,      0,       ,152-158 BOSTON RD,0130,2,1.75,1188,Forced Air-Duc,1
+3270,    235,     31,      1,       ,164 BOSTON RD,3260,1,1,2117,Forced Air-Duc,1
+3289,    112,     84,      0,       ,274 MAIN ST ,3400,1,2,3928,Hot Water,1
+3297,    112,     33,      0,       ,15 ELM ST,3320,1,1,3854,Forced Air-Duc,1
+3305,    112,     41,      0,       ,235 MAIN ST,3250,1,2,4568,Hot Air-no Duc,1
+3306,    112,     42,      0,       ,235 MAIN ST,3260,1,1,1430,Forced Air-Duc,1
+3308,    112,    106,      0,       ,75 HOLLIS ST,9541,1,2,3820,Forced Air-Duc,1
+3315,    112,     90,      0,       ,240 MAIN ST ,3420,1,1,11408,Forced Air-Duc,1
+3321,    112,     91,      0,       ,230 MAIN ST,3250,1,1,1232,Forced Air-Duc,1
+3327,    112,    109,      0,       ,78 HOLLIS ST,9341,1,1,8526,Forced Air-Duc,1
+3340,    112,    123,      0,       ,74 WILLOWDALE RD ,9701,1,2.75,24140,Electr Basebrd,1
+3343,    109,      3,      0,       ,99 PLEASANT ST,9351,1,2,13117,Forced Air-Duc,1
+3367,    113,     75,      0,       ,39 STATION AVE,3540,1,1,4849,Forced Air-Duc,1
+3374,    113,     55,      0,       ,OFF STATION AVE ,3160,1,1,7308,Forced Air-Duc,1
+3451,    233,     99,      0,       ,LOWELL RD ,9711,1,1,728,None,1
+3451,    233,     99,      0,       ,LOWELL RD ,9711,2,1,3200,None,1
+3516,    117,     19,   3516,       ,PRESCOTT ST,9601,2,1,3200,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,1,2,6048,Hot Water,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,2,1,948,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,3,1,8616,Electr Basebrd,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,4,1,2256,Electr Basebrd,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,5,1,1320,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,6,1,6416,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,7,1,1848,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,8,1,1056,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,13,1,800,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,15,1,1056,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,21,3,3456,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,22,1,602,Hot Air-no Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,23,1,400,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,24,1,2996,Forced Air-Duc,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,27,1,1280,None,1
+3529,    117,     19,      0,       ,167 PRESCOTT ST ,9602,33,1,3200,Forced Air-Duc,1
+3548,    235,     16,      0,       ,316 BOSTON RD ,0310,1,2,3600,Forced Air-Duc,1
+3634,    125,     83,      0,       ,185 LOST LAKE DR,9351,1,1,5643,Hot Water,1
+3644,    250,     96,      0,       ,864 LOWELL RD,9711,1,1,324,Forced Air-Duc,1
+3818,    219,      4,      0,       ,35 SHIRLEY RD,9410,3,1,4261,Forced Air-Duc,1
+3818,    219,      4,      0,       ,35 SHIRLEY RD,9410,8,2,29643,Forced Air-Duc,1
+3836,    219,      2,      0,       ,295 FARMERS ROW,9410,5,1,2976,None,1
+3836,    219,      2,      0,       ,295 FARMERS ROW,9410,6,1,1530,None,1
+3836,    219,      2,      0,       ,295 FARMERS ROW,9410,7,2,6558,Forced Air-Duc,1
+3836,    219,      2,      0,       ,295 FARMERS ROW,9410,8,1,2902,None,1
+3836,    219,      2,      0,       ,295 FARMERS ROW,9410,9,1,2342,None,1
+3836,    219,      2,      0,       ,295 FARMERS ROW,9410,10,1,3772,None,1
+3836,    219,      2,      0,       ,295 FARMERS ROW,9410,11,2,2260,None,1
+3836,    219,      2,      0,       ,295 FARMERS ROW,9410,14,1,666,Forced Air-Duc,1
+3836,    219,      2,      0,       ,295 FARMERS ROW,9410,20,1,2520,None,1
+3836,    219,      2,      0,       ,295 FARMERS ROW,9410,21,1,1748,None,1
+3886,    222,     46,      0,       ,255 OLD AYER RD,0101,2,1.5,8029,Hot Water,1
+3999,    119,      4,      0,       ,130 SANDY POND RD,920C,1,2,6007,Forced Air-Duc,1
+4015,    121,     15,      0,       ,611 BOSTON RD,0130,2,1.5,2528,Forced Air-Duc,1
+4016,    121,     16,      0,       ,619 BOSTON RD,3340,1,1,1280,Hot Air-no Duc,1
+4090,    121,      2,      0,       ,573 BOSTON RD,0101,2,2,624,None,1
+4105,    133,     55,      0,       ,768 BOSTON RD,3220,1,1,7400,Forced Air-Duc,1
+4106,    120,      3,      0,       ,760 BOSTON RD #A,3240,1,1,69921,Forced Air-Duc,1
+4106,    120,      3,      0,       ,760 BOSTON RD #A,3240,2,1,10000,None,1
+4297,    133,      1,      0,       ,765 BOSTON RD,3260,1,1,2124,Forced Air-Duc,1
+4298,    133,     54,      0,       ,788 BOSTON RD ,3420,1,1,8044,Forced Air-Duc,1
+4298,    133,     54,      0,       ,788 BOSTON RD ,3420,2,1,3298,Forced Air-Duc,1
+4298,    133,     54,      0,       ,788 BOSTON RD ,3420,3,1,2126,Forced Air-Duc,1
+4299,    133,     11,      0,       ,1 FORGE VILLAGE RD,3400,1,2,7185,Forced Air-Duc,1
+4299,    133,     11,      0,       ,1 FORGE VILLAGE RD,3400,2,2,6764,Forced Air-Duc,1
+4300,    133,     10,      0,       ,777 BOSTON RD,0130,2,1,1512,Forced Air-Duc,1
+4475,    134,      7,      0,       ,871 BOSTON RD,3250,1,1.75,6402,Forced Air-Duc,1
+4476,    134,      6,      0,       ,867 BOSTON RD,3400,1,1,2235,Forced Air-Duc,1
+4561,    135,     36,      0,       ,27 GILSON RD,0310,1,2,2752,Hot Water,1
+4572,    138,     19,      0,       ,20 ORR RD,0101,2,1,0,None,1
+4672,    222,     19,      0,       ,100 BOSTON RD ,3250,1,1,9735,Forced Air-Duc,1
+4672,    222,     19,      0,       ,100 BOSTON RD ,3250,2,2.5,16020,Forced Air-Duc,1
+4955,    234,      1,      0,       ,245 LOWELL RD,0310,1,1,8400,Forced Air-Duc,1
+4959,    206,      7,      1,       ,293 TOWNSEND RD,9391,1,1,1362,Forced Air-Duc,1
+100232,    216,     12,      0,     12,501 MAIN ST ,3520,1,1,4012,Forced Air-Duc,1
+100502,    253,     23,      0,       ,99 SHIRDI WAY,906C,1,2,41562,Forced Air-Duc,1
+100740,    113,      7,      2,       ,142B MAIN ST #B,0310,1,2,2200,Hot Water,1
+101143,    108,      1,      4,       ,45 FARMERS ROW,9351,1,2,13786,Forced Air-Duc,1
+

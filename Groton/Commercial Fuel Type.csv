@@ -1,0 +1,208 @@
+﻿MBLU,Block,Lot,Unit,Location,Usrfld_207_Desc
+    101,      5,      0,       ,44 WEST MAIN ST,Oil
+    101,      9,      0,       ,8 WEST MAIN ST,Gas
+    101,     10,      0,       ,6 WEST MAIN ST,Oil
+    101,     12,      0,       ,3 WEST MAIN ST ,Coal or Wood
+    101,     15,      0,       ,9 WEST MAIN ST,Oil
+    101,     16,      0,       ,1 PEPPERELL RD,Oil
+    101,     23,      0,       ,37 WEST MAIN ST,Oil
+    102,      1,      0,       ,CANNERY ROW,Oil
+    102,      1,      0,       ,CANNERY ROW,Oil
+    102,     10,      0,       ,29 ST JAMES AVE,Oil
+    103,      2,      0,       ,219 TOWNSEND RD,Oil
+    103,      2,      0,       ,219 TOWNSEND RD,Oil
+    103,      2,      0,       ,219 TOWNSEND RD,Oil
+    103,      2,      0,       ,219 TOWNSEND RD,Oil
+    103,      2,      0,       ,219 TOWNSEND RD,Oil
+    106,     15,      0,       ,94 WEST MAIN ST,Gas
+    106,     33,      0,       ,159 WEST MAIN ST ,Oil
+    106,     38,      0,       ,163 WEST MAIN ST,Gas
+    106,     45,      0,       ,217 WEST MAIN ST,Oil
+    108,      1,      4,       ,45 FARMERS ROW,Oil
+    109,      3,      0,       ,99 PLEASANT ST,Oil
+    109,     52,   3068,       ,46 WEST ST,Gas
+    109,     52,   3071,       ,22 HILLSIDE AVE,Oil
+    110,      1,      0,       ,365 MAIN ST ,Oil
+    110,      2,      0,       ,371-375 MAIN ST ,Gas
+    110,      2,      0,       ,371-375 MAIN ST ,Gas
+    110,     29,      0,       ,445 MAIN ST,Coal or Wood
+    110,     37,      0,       ,412 MAIN ST,Gas
+    110,     37,      0,       ,412 MAIN ST,Gas
+    110,     40,      0,       ,368 MAIN ST,Gas
+    110,     42,      0,       ,342 MAIN ST ,Electric
+    110,     42,      0,       ,342 MAIN ST ,Oil
+    110,     43,      0,       ,346 MAIN ST,Oil
+    110,     43,      0,       ,346 MAIN ST,Oil
+    111,      4,      0,       ,80 CHAMPNEY ST ,Oil
+    111,     27,      0,       ,139 HOLLIS ST,Electric
+    112,      1,      0,       ,201 MAIN ST,Oil
+    112,      2,      0,       ,205-207 MAIN ST ,Oil
+    112,     33,      0,       ,15 ELM ST,Gas
+    112,     41,      0,       ,235 MAIN ST,Electric
+    112,     42,      0,       ,235 MAIN ST,Oil
+    112,     70,      0,       ,318 MAIN ST,Gas
+    112,     71,      0,       ,308 MAIN ST,Gas
+    112,     72,      0,       ,306 MAIN ST,Oil
+    112,     73,      0,       ,300 MAIN ST,Gas
+    112,     74,      0,       ,292 MAIN ST ,Oil
+    112,     84,      0,       ,274 MAIN ST ,Oil
+    112,     90,      0,       ,240 MAIN ST ,Gas
+    112,     91,      0,       ,230 MAIN ST,Gas
+    112,     94,      0,       ,218 MAIN ST ,Oil
+    112,     97,      0,       ,17 HOLLIS ST,Oil
+    112,    106,      0,       ,75 HOLLIS ST,Oil
+    112,    109,      0,       ,78 HOLLIS ST,Oil
+    112,    123,      0,       ,74 WILLOWDALE RD ,Electric
+    112,    131,      0,       ,28 WILLOWDALE RD ,Gas
+    112,    132,      0,       ,30 HOLLIS ST,Gas
+    113,      1,      0,       ,186 MAIN ST,Gas
+    113,      1,      0,       ,186 MAIN ST,Gas
+    113,      6,      0,       ,148-150 MAIN ST,Oil
+    113,      7,      2,       ,142B MAIN ST #B,Oil
+    113,      8,      0,       ,140 MAIN ST,Oil
+    113,     10,      0,       ,128 MAIN ST,Gas
+    113,     10,      0,       ,128 MAIN ST,Gas
+    113,     18,      0,       ,99 MAIN ST,Gas
+    113,     41,      0,       ,127 MAIN ST,Oil
+    113,     42,      0,       ,143 MAIN ST,Gas
+    113,     43,      0,       ,145 MAIN ST,Oil
+    113,     45,      0,       ,155-157 MAIN ST ,Gas
+    113,     46,      0,       ,159-161 MAIN ST,Oil
+    113,     47,      0,       ,163 MAIN ST,Gas
+    113,     48,      0,       ,167 MAIN ST ,Gas
+    113,     51,      0,       ,STATION AVE,Gas
+    113,     55,      0,       ,OFF STATION AVE ,Oil
+    113,     59,      0,       ,20 STATION AVE ,Gas
+    113,     61,      0,       ,173 MAIN ST,Oil
+    113,     65,      0,       ,195 MAIN ST,Electric
+    113,     75,      0,       ,39 STATION AVE,Oil
+    113,     76,      0,       ,36 COURT ST ,Oil
+    113,     83,      0,       ,21 ADAMS AVE ,Oil
+    113,     84,      0,       ,31 ADAMS AVE,Oil
+    115,      2,      0,       ,14 MAIN ST,Oil
+    115,      2,      0,       ,14 MAIN ST,Oil
+    115,      2,      0,       ,14 MAIN ST,Oil
+    115,     33,      0,       ,LOVERS LN,Oil
+    115,     33,      0,       ,LOVERS LN,Oil
+    115,     33,      0,       ,LOVERS LN,Oil
+    115,     36,      0,       ,48 BOSTON RD ,Gas
+    115,     37,      0,       ,40 BOSTON RD,Oil
+    115,     40,      0,       ,6 BOSTON RD,Oil
+    116,      1,      0,       ,19 LOWELL RD,Oil
+    116,      1,      0,       ,19 LOWELL RD,Oil
+    116,      3,      0,       ,55 LOWELL RD,Gas
+    116,      3,      0,       ,55 LOWELL RD,Gas
+    116,      6,      0,       ,171 LOWELL RD,Oil
+    116,     10,      0,       ,ACADEMY DR,Gas
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     10,      0,       ,ACADEMY DR,Oil
+    116,     11,   3169,       ,1 POWDERHOUSE RD,Oil
+    116,     12,      0,       ,86 MAIN ST,Oil
+    116,     12,      0,       ,86 MAIN ST,Oil
+    116,     12,      0,       ,86 MAIN ST,Oil
+    116,     12,      0,       ,86 MAIN ST,Oil
+    117,     19,      0,       ,167 PRESCOTT ST ,Coal or Wood
+    117,     19,      0,       ,167 PRESCOTT ST ,Electric
+    117,     19,      0,       ,167 PRESCOTT ST ,Electric
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Gas
+    117,     19,      0,       ,167 PRESCOTT ST ,Oil
+    117,     19,      0,       ,167 PRESCOTT ST ,Oil
+    117,     19,      0,       ,167 PRESCOTT ST ,Oil
+    117,     19,      0,       ,167 PRESCOTT ST ,Oil
+    117,     19,      0,       ,167 PRESCOTT ST ,Oil
+    117,     19,      0,       ,167 PRESCOTT ST ,Oil
+    117,     19,      0,       ,167 PRESCOTT ST ,Oil
+    117,     19,      0,       ,167 PRESCOTT ST ,Oil
+    117,     19,   3516,       ,PRESCOTT ST,Oil
+    119,      4,      0,       ,130 SANDY POND RD,Oil
+    120,      3,      0,       ,760 BOSTON RD #A,Gas
+    120,      3,      0,       ,760 BOSTON RD #A,None
+    121,      2,      0,       ,573 BOSTON RD,None
+    121,     15,      0,       ,611 BOSTON RD,Oil
+    121,     16,      0,       ,619 BOSTON RD,Gas
+    125,     83,      0,       ,185 LOST LAKE DR,Oil
+    126,      8,      0,       ,541 LOWELL RD,Oil
+    133,      1,      0,       ,765 BOSTON RD,Oil
+    133,     10,      0,       ,777 BOSTON RD,Oil
+    133,     11,      0,       ,1 FORGE VILLAGE RD,Oil
+    133,     11,      0,       ,1 FORGE VILLAGE RD,Oil
+    133,     54,      0,       ,788 BOSTON RD ,Gas
+    133,     54,      0,       ,788 BOSTON RD ,Gas
+    133,     54,      0,       ,788 BOSTON RD ,Gas
+    133,     55,      0,       ,768 BOSTON RD,Gas
+    134,      6,      0,       ,867 BOSTON RD,Oil
+    134,      7,      0,       ,871 BOSTON RD,Gas
+    135,     36,      0,       ,27 GILSON RD,Oil
+    138,     19,      0,       ,20 ORR RD,Gas
+    203,     33,      0,       ,24 TOWN LINE RD,Electric
+    203,     34,      0,       ,14 TOWN LINE RD,Oil
+    206,      7,      1,       ,293 TOWNSEND RD,Oil
+    206,      8,      0,       ,305 TOWNSEND RD,Gas
+    206,     10,      0,       ,TOWNSEND RD,Gas
+    216,     12,      0,     12,501 MAIN ST ,Gas
+    216,     86,      0,       ,592 MAIN ST,Gas
+    216,     93,      0,       ,536 MAIN ST,Gas
+    216,     99,      0,       ,468 MAIN ST ,None
+    218,      6,      0,       ,398 WEST MAIN ST,Oil
+    219,      2,      0,       ,295 FARMERS ROW,Coal or Wood
+    219,      2,      0,       ,295 FARMERS ROW,Coal or Wood
+    219,      2,      0,       ,295 FARMERS ROW,Coal or Wood
+    219,      2,      0,       ,295 FARMERS ROW,Coal or Wood
+    219,      2,      0,       ,295 FARMERS ROW,Coal or Wood
+    219,      2,      0,       ,295 FARMERS ROW,Coal or Wood
+    219,      2,      0,       ,295 FARMERS ROW,Coal or Wood
+    219,      2,      0,       ,295 FARMERS ROW,Coal or Wood
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      2,      0,       ,295 FARMERS ROW,Oil
+    219,      4,      0,       ,35 SHIRLEY RD,Gas
+    219,      4,      0,       ,35 SHIRLEY RD,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Coal or Wood
+    219,      9,      0,       ,282 FARMERS ROW,Electric
+    219,      9,      0,       ,282 FARMERS ROW,Gas
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    219,      9,      0,       ,282 FARMERS ROW,Oil
+    222,      5,      0,       ,152-158 BOSTON RD,Gas
+    222,     15,      0,       ,120 BOSTON RD,Gas
+    222,     16,      0,       ,116 BOSTON RD ,Oil
+    222,     17,      0,       ,112 BOSTON RD,Gas
+    222,     18,      0,       ,110 BOSTON RD,Gas
+    222,     19,      0,       ,100 BOSTON RD ,Gas
+    222,     19,      0,       ,100 BOSTON RD ,Gas
+    222,     20,      0,       ,80 BOSTON RD,Gas
+    222,     21,      0,       ,66-68 BOSTON RD ,Gas
+    222,     21,      0,       ,66-68 BOSTON RD ,Gas
+    222,     46,      0,       ,255 OLD AYER RD,Oil
+    222,     55,      0,       ,122 OLD AYER RD ,Gas
+    229,     34,      0,       ,66 NORTH ST,Oil
+    230,     46,      0,       ,703 CHICOPEE ROW,Oil
+    231,     45,      0,       ,495 CHICOPEE ROW,Gas
+    231,     90,      0,       ,370 CHICOPEE ROW,Oil
+    231,     91,      0,       ,CHICOPEE ROW ,Oil
+    233,     99,      0,       ,LOWELL RD ,Coal or Wood
+    233,     99,      0,       ,LOWELL RD ,None
+    234,      1,      0,       ,245 LOWELL RD,Gas
+    235,     16,      0,       ,316 BOSTON RD ,Oil
+    235,     31,      1,       ,164 BOSTON RD,Gas
+    246,     35,      0,       ,ISLAND POND RD,Oil
+    246,     36,      0,       ,ISLAND POND RD,Coal or Wood
+    250,     96,      0,       ,864 LOWELL RD,Oil
+    253,     23,      0,       ,99 SHIRDI WAY,Gas
+
