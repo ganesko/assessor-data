@@ -24,7 +24,7 @@ res_fuel <- read_csv(here("Groton", "Residential Fuel Type.csv"), show_col_types
 ```
 
 ```{r}
-com_other <- com_other %>%
+com_other_filter <- com_other %>%
   select(Location, Primary_Use, Stories, Living_AreaGBA) %>%
   rename(USECODE = Primary_Use, STORYHEIGHT = Stories, AREASQ = Living_AreaGBA) %>%
   group_by(Location) %>%
@@ -32,7 +32,7 @@ com_other <- com_other %>%
   ungroup() %>%
   unite("Location", Location, cumsum, sep = "_")
 
-com_fuel <- com_fuel %>%
+com_fuel_filter <- com_fuel %>%
   select(Location, Usrfld_207_Desc) %>%
   rename(FUELTYPE = Usrfld_207_Desc) %>%
   group_by(Location) %>%
@@ -40,7 +40,7 @@ com_fuel <- com_fuel %>%
   ungroup() %>%
   unite("Location", Location, cumsum, sep = "_")
 
-condo_other <- condo_other %>%
+condo_other_filter <- condo_other %>%
   select(Location, Primary_Use, Stories, Living_AreaGBA) %>%
   rename(USECODE = Primary_Use, STORYHEIGHT = Stories, AREASQ = Living_AreaGBA) %>%
   group_by(Location) %>%
@@ -48,7 +48,7 @@ condo_other <- condo_other %>%
   ungroup() %>%
   unite("Location", Location, cumsum, sep = "_")
 
-condo_fuel <- condo_fuel %>%
+condo_fuel_filter <- condo_fuel %>%
   select(Location, Heat_Sys_Desc) %>%
   rename(FUELTYPE = Heat_Sys_Desc) %>%
   group_by(Location) %>%
@@ -56,34 +56,52 @@ condo_fuel <- condo_fuel %>%
   ungroup() %>%
   unite("Location", Location, cumsum, sep = "_")
 
-res_other
+res_other_filter <- res_other %>%
+  select(Location, Primary_Use, Stories, Living_AreaGBA) %>%
+  rename(USECODE = Primary_Use, STORYHEIGHT = Stories, AREASQ = Living_AreaGBA) %>%
+  group_by(Location) %>%
+  mutate(cumsum = row_number()) %>%
+  ungroup() %>%
+  unite("Location", Location, cumsum, sep = "_")
+
+res_fuel_filter <- res_fuel %>%
+  select(Location, Usrfld_82_Desc) %>%
+  rename(FUELTYPE = Usrfld_82_Desc) %>%
+  group_by(Location) %>%
+  mutate(cumsum = row_number()) %>%
+  ungroup() %>%
+  unite("Location", Location, cumsum, sep = "_")
   
 ```
 
 ```{r}
-com <- inner_join(com_other, com_fuel, by = "Location")
-condo <- inner_join(condo_other, condo_fuel, by = "Location")
+com_merge <- inner_join(com_other_filter, com_fuel_filter, by = "Location")
+condo_merge <- inner_join(condo_other_filter, condo_fuel_filter, by = "Location")
+res_merge <- inner_join(res_other_filter, res_fuel_filter, by = "Location")
 ```
 
 ```{r}
-# if four digits:
-#      if first digit 0, and first three digits are NOT 013, 031, 037, or 021: remove first digit
-#      else: remove last digit
+# if four digits: remove last digit
 # else: nothing
 
-com <- com %>%
-  mutate(USECODE = 
-           ifelse(grepl("^.{4}$", USECODE),
-                  ifelse(grepl("^0", USECODE) & !substr(USECODE, 1, 3) %in% c("013", "031", "037", "021"), 
-                         sub("^.", "", USECODE),
-                         sub(".$", "", USECODE)),
-                  USECODE)
-         ) %>%
+com <- com_merge %>%
+  mutate(USECODE = substr(USECODE, 1, 3)) %>%
   select(USECODE, FUELTYPE, AREASQ, STORYHEIGHT)
 
-condo <- condo %>%
-  mutate(USECODE = substr(USECODE, 1, 3))
+condo <- condo_merge %>%
+  mutate(USECODE = substr(USECODE, 1, 3)) %>%
+  select(USECODE, FUELTYPE, AREASQ, STORYHEIGHT)
+
+res <- res_merge %>%
+  mutate(USECODE = substr(USECODE, 1, 3)) %>%
+  select(USECODE, FUELTYPE, AREASQ, STORYHEIGHT)
 ```
 
+```{r}
+df <- bind_rows(com, condo, res)
+```
 
+```{r}
+write.csv(df, file = "Groton_Final.csv", row.names = FALSE)
+```
 
