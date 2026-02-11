@@ -1,0 +1,48 @@
+---
+title: "westfield"
+author: "greta-anesko"
+date: "2026-02-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(here)
+```
+
+```{r}
+com_unedited <- read_csv(here("Westfield", "UPDATED COMMERCIAL SEPTEMBER 2025 REQUEST.csv"), show_col_types = FALSE, skip = 2)
+condo_unedited <- read_csv(here("Westfield", "UPDATED CONDO SEPTEMBER 2025 REQUEST.csv"), show_col_types = FALSE, skip = 2)
+res_unedited <- read_csv(here("Westfield", "UPDATED RESIDENTIAL SEPTEMBER 2025 REQUEST.csv"), show_col_types = FALSE, skip = 2)
+```
+
+```{r}
+com_filtered <- com_unedited %>%
+  select("USE CODE", "HEAT TYPE", "LIVING AREA")
+
+condo_filtered <- condo_unedited %>%
+  select("USE CODE", "HEAT TYPE", "LIVING AREA")
+
+res_filtered <- res_unedited %>%
+  select("USE CODE", "HEAT TYPE", "LIVING AREA")
+```
+
+```{r}
+df_unedited <- bind_rows(com_filtered, condo_filtered, res_filtered)
+```
+
+```{r}
+df <- df_unedited %>%
+  rename(USECODE = "USE CODE", FUELTYPE = "HEAT TYPE", AREASQ = "LIVING AREA") %>%
+  mutate(USECODE = substr(USECODE, 1, 3))
+```
+
+```{r}
+write.csv(df, file = "Westfield_Final.csv", row.names = FALSE)
+```
+
+
