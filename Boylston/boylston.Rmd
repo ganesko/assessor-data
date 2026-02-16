@@ -1,0 +1,39 @@
+---
+title: "boylston"
+author: "greta-anesko"
+date: "2026-02-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(here)
+library(readxl)
+```
+
+```{r}
+df_unedited <- read_excel(here("Boylston", "Boylston.xlsx"))
+```
+
+```{r}
+# USECODE
+# FUELTYPE
+# AREASQ
+# STORYHEIGHT
+
+df_filtered <- df_unedited %>%
+  select(`Primary Use`, VNS_HEAT_FUEL_DESC, `Living Area/GBA`, VNS_STORIES) %>%
+  rename(USECODE = `Primary Use`, FUELTYPE = VNS_HEAT_FUEL_DESC, AREASQ =  `Living Area/GBA`, STORYHEIGHT = VNS_STORIES) %>%
+  mutate(USECODE = substr(USECODE, 1, 3))
+```
+
+```{r}
+write.csv(df_filtered, file = "Boylston_Final.csv", row.names = FALSE)
+```
+
+
+
