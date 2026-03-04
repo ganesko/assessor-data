@@ -30,18 +30,21 @@ df3 <- read_csv(here("Ashburnham", "Ashburnham-Residential_20251113.csv"), show_
 df1_select <- df1 %>%
   select(`ASSESS CODE 1`, `Usrfld 207 Desc`, `LIVING AREA`, `Stories:`) %>%
   rename(USECODE = `ASSESS CODE 1`, FUELTYPE = `Usrfld 207 Desc`, AREASQ = `LIVING AREA`, STORYHEIGHT = `Stories:`) %>%
-  mutate(USECODE = substr(USECODE, 1, 3))
+  mutate(USECODE = substr(USECODE, 1, 3)) %>%
+  mutate(FUELTYPE = ifelse(FUELTYPE == "Gas", "Propane", FUELTYPE))
 
 df2_select <- df2 %>%
   select(`ASSESS CODE 1`, `Heat Sys Desc`, `LIVING AREA`, `Stories:`) %>%
   rename(USECODE = `ASSESS CODE 1`, FUELTYPE = `Heat Sys Desc`, AREASQ = `LIVING AREA`, STORYHEIGHT = `Stories:`) %>%
   mutate(USECODE = as.character(USECODE)) %>%
-  mutate(USECODE = substr(USECODE, 1, 3))
+  mutate(USECODE = substr(USECODE, 1, 3)) %>%
+  mutate(FUELTYPE = ifelse(FUELTYPE == "Gas", "Propane", FUELTYPE))
 
 df3_select <- df3 %>%
   select(`ASSESS CODE 1`, `Usrfld 82 Desc`, `LIVING AREA`, `Stories:`) %>%
   rename(USECODE = `ASSESS CODE 1`, FUELTYPE = `Usrfld 82 Desc`, AREASQ = `LIVING AREA`, STORYHEIGHT = `Stories:`) %>%
-  mutate(USECODE = substr(USECODE, 1, 3))
+  mutate(USECODE = substr(USECODE, 1, 3)) %>%
+  mutate(FUELTYPE = ifelse(FUELTYPE == "Gas", "Propane", FUELTYPE))
 ```
 
 ```{r}
