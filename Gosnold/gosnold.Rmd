@@ -1,0 +1,38 @@
+---
+title: "gosnold"
+author: "greta-anesko"
+date: "2026-03-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(here)
+library(readxl)
+```
+
+```{r}
+df_unedited <- read_excel(here("Gosnold", "FY26-Town Data-BT-2-20-26.xlsx"))
+```
+
+```{r}
+# USECODE
+# FUELTYPE
+# AREASQ
+# STORYHEIGHT
+
+df_filtered <- df_unedited %>%
+  select(StateClass, FUEL, NetSF, STORIES) %>%
+  rename(USECODE = StateClass, FUELTYPE = FUEL, AREASQ = NetSF, STORYHEIGHT = STORIES) %>%
+  mutate(USECODE = substr(USECODE, 1, 3))
+```
+
+```{r}
+write.csv(df_filtered, file = "Gosnold_Final.csv", row.names = FALSE)
+```
+
+

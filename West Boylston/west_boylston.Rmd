@@ -1,0 +1,59 @@
+---
+title: "West_Boylston"
+author: "greta-anesko"
+date: "2026-03-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(here)
+```
+
+```{r}
+cdu_unedited <- read_delim(here("West Boylston", "WarrenGroup-Cdu_01072026.txt"), delim = "|", show_col_types = FALSE)
+com_unedited <- read_delim(here("West Boylston", "WarrenGroup-Com_01072026.txt"), delim = "|", show_col_types = FALSE)
+res_unedited <- read_delim(here("West Boylston", "WarrenGroup-Residential_01072026.txt"), delim = "|", show_col_types = FALSE)
+```
+
+```{r}
+# USECODE
+# FUELTYPE
+# AREASQ
+# STORYHEIGHT
+
+cdu_filtered <- cdu_unedited %>%
+  select("ASSESS CODE 1", "Heat Sys Desc", "LIVING AREA", "Stories:") %>%
+  rename(USECODE = "ASSESS CODE 1", FUELTYPE = "Heat Sys Desc", AREASQ = "LIVING AREA", STORYHEIGHT = "Stories:")
+
+com_filtered <- com_unedited %>%
+  select("ASSESS CODE 1", "LIVING AREA", "Usrfld 207 Desc", "Stories:") %>%
+  rename(USECODE = "ASSESS CODE 1", FUELTYPE = "Usrfld 207 Desc", AREASQ = "LIVING AREA", STORYHEIGHT = "Stories:")
+
+res_filtered <- res_unedited %>%
+  select(`ASSESS CODE 1`, `LIVING AREA`, `Stories:`, `Usrfld 82 Desc`) %>%
+  rename(USECODE = "ASSESS CODE 1", FUELTYPE = "Usrfld 82 Desc", AREASQ = "LIVING AREA", STORYHEIGHT = "Stories:")
+
+cdu_filtered$USECODE <- as.character(cdu_filtered$USECODE)
+com_filtered$STORYHEIGHT <- as.numeric(com_filtered$STORYHEIGHT)
+res_filtered$AREASQ <- as.numeric(res_filtered$AREASQ)
+res_filtered$STORYHEIGHT <- as.numeric(res_filtered$STORYHEIGHT)
+```
+
+
+```{r}
+df <- bind_rows(cdu_filtered, com_filtered, res_filtered)
+```
+
+```{r}
+df <- df %>%
+  mutate(USECODE = substr(USECODE, 1, 3))
+```
+
+```{r}
+write.csv(df, file = "West_Boylston_Final.csv", row.names = FALSE)
+```
