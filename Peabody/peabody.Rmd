@@ -13,11 +13,16 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(readr)
 library(here)
+library(readxl)
+library(stringr)
 ```
 
 ```{r, warning=FALSE}
-df1 <- read_tsv(here("Peabody", "Peabody FY25 Comm.txt"), col_names = FALSE, show_col_types = FALSE)
-df4 <- read_tsv(here("Peabody", "Peabody FY25 Res.txt"), col_names = FALSE, show_col_types = FALSE)
+#df1 <- read_tsv(here("Peabody", "Peabody FY25 Comm.txt"), col_names = FALSE, show_col_types = FALSE)
+#df4 <- read_tsv(here("Peabody", "Peabody FY25 Res.txt"), col_names = FALSE, show_col_types = FALSE)
+df1 <- read_excel(here("Peabody", "Comm lis2.xlsx"), col_names = FALSE)
+df4 <- read_excel(here("Peabody", "res lis2.xlsx"), col_names = FALSE)
+df5 <- read_excel(here("Peabody", "LUC with description exported 032426.xlsx"))
 ```
 
 ```{r}
@@ -27,16 +32,20 @@ df4 <- read_tsv(here("Peabody", "Peabody FY25 Res.txt"), col_names = FALSE, show
 # STORYHEIGHT
 
 df1_select <- df1 %>%
-  select(X13, X36, X23, X29) %>%
-  rename(USECODE_char = X13, FUELTYPE = X36, AREASQ = X23, STORYHEIGHT = X29) 
+  select(...1, ...13, ...36, ...23, ...29) %>%
+  rename(id = ...1, USECODE_char = ...13, FUELTYPE = ...36, AREASQ = ...23, STORYHEIGHT = ...29) 
 # use gross building area instead of residential living area for commercial
 # missing fuel type for commercial
 
 df1_select$STORYHEIGHT = as.numeric(df1_select$STORYHEIGHT)
 
 df4_select <- df4 %>%
-  select(X13, X36, X25, X29) %>%
-  rename(USECODE_char = X13, FUELTYPE = X36, AREASQ = X25, STORYHEIGHT = X29)
+  select(...1, ...13, ...36, ...25, ...29) %>%
+  rename(id = ...1, USECODE_char = ...13, FUELTYPE = ...36, AREASQ = ...25, STORYHEIGHT = ...29)
+
+df5_select <- df5 %>%
+  select(PARID, LUC) %>%
+  rename(id = PARID, USECODE_code = LUC)
 ```
 
 ```{r}
@@ -44,101 +53,305 @@ df <- bind_rows(df1_select, df4_select)
 ```
 
 ```{r}
-usecodes <- data.frame(unique(df$USECODE_char))
+joined_df <- left_join(df, df5_select, by = "id") %>%
+  mutate(USECODE = substr(USECODE_code, 1, 3)) %>%
+  select(USECODE, FUELTYPE, AREASQ, STORYHEIGHT)
+```
+
+# ```{r}
+# usecodes <- data.frame(unique(df$USECODE_char))
+# ```
+# 
+# ```{r}
+# df <- df %>%
+#   mutate(USECODE = recode(USECODE_char,
+#                           "Improved, Education" = 934,
+#                           "Sand And Gravel" = 410,
+#                           "Utility Authority, Electric, Light, Sewe" = 971,
+#                           "Gas Pressure Control Stations" = 428,
+#                           "Gymnasiums & Athletic Clubs" = 376,
+#                           "Apartments - More than Eight Units" = 112,
+#                           "Storage, Warehouses And Distribution" = NA_real_, # warehouses for storage of manufactured products is 401, but could also be any code 31 because this is the title of code 31
+#                           "Truck Terminals" = 314,
+#                           "General Office" = 340,
+#                           "Small Retail And Service Stores Under 10" = 325,
+#                           "Commercial Condominium" = NA_real_, # there is only a code for residential condominiums
+#                           "Church, Mosque, Synagogue, Temple etc" = 960,
+#                           "Religious Group - Other" = 962,
+#                           "Churches, Synagogues And Temples" = 960,
+#                           "Medical Office" = 342,
+#                           "Shopping Centers" = 323,
+#                           "Rectory or Parsonage etc" = 961,
+#                           "Charitable - Other" = 951,
+#                           "Improved - Selectman/City Council" = 931,
+#                           "Improved, Municipal Public Safety" = 935,
+#                           "Multiple Use - Primarily Residential" = 013,
+#                           "Automobile Repair" = 332,
+#                           "Commercial Greenhouses" = 318,
+#                           "Automotive Vehicles Sales & Services" = 330,
+#                           "Fuel Service Only" = 333,
+#                           "Office Condominium" = NA_real_, # there is only a code for residential condominiums
+#                           "Discount Stores" = 322,
+#                           "Multiple Use - Primarily Commercial" = 031,
+#                           "Eating And Drinking Establishments" = 326,
+#                           "Manufacturing Facilities" = 400, # check
+#                           "Automotive Gas Sales & Service" = 334, # check
+#                           "Telephone Exchange Stations" = 430,
+#                           "Retail Building Materials, Farm Equipmen" = 321, # check
+#                           "Other" = NA_real_, # could be other in any section, or any code 99
+#                           "Child Care Facility" = 140,
+#                           "Improved Municipal or Public Safety Othe" = 935, # check
+#                           "Banks" = 341,
+#                           "Nursing Homes" = 304,
+#                           "Elementary School" = 940,
+#                           "Educational  Private - Other" = 947,
+#                           "Motels" = 301,
+#                           "Supermarkets Greater Than 10,000 Sf" = 324,
+#                           "Medical Condominium" = NA_real_, # there is only a code for residential condominiums
+#                           "Automotive Supplies Retail" = 331,
+#                           "Cemetaries" = 953,
+#                           "Manufacturing Warehouse Facilities" = 401,
+#                           "Other Motor Vehicles Sales & Services" = 338,
+#                           "Industrial Condo" = NA_real_, # there is only a code for residential condominiums
+#                           "Secondary Level" = 941,
+#                           "Golfing - Areas Of Land Arranged As A Go" = 283,
+#                           "Charitable - Hospitals" = 955,
+#                           "U.S. Government" = 900,
+#                           "Housing Authority" = 970,
+#                           "Apartments - 4 To 8 Units" = 111,
+#                           "Fraternal Organizations" = 353,
+#                           "Other Congregate Housing" = 125,
+#                           "Car Wash Facilities" = 335,
+#                           "Day Care Center" = 352,
+#                           "Private Hospitals" = 305,
+#                           "Charitable Organizations" = 951, # check: charitable - other
+#                           "Function Halls, Community Centers, Fater" = 954,
+#                           "Hotels" = 300,
+#                           "Vacant - Selectman/City Council" = 930,
+#                           "Multiple Use- Part Taxable/Exempt" = NA_real_, # check
+#                           "Rooming & Boarding Houses" = 121,
+#                           "Property Used For Postal Services" = 350,
+#                           "Charitable Services" = 957,
+#                           "Bowling" = 370,
+#                           "Funeral Homes" = 355,
+#                           "Judiciary" = 926,
+#                           "Cable Tv Transmitting Facilities" = 432,
+#                           "Office Building- manufacturing" = 402,
+#                           "Housing, Other" = 959,
+#                           "Municipality" = NA_real_, # check
+#                           "Single Family Residence" = 101,
+#                           "Two-Family" = 104,
+#                           "Multiple Houses On One Parcel" = 109,
+#                           "Residential Condominium" = 102,
+#                           "Three-Family" = 105,
+#                           "Necessary Related Land - farm roads/pond" = 276
+#                           ))
+# ```
+# 
+# ```{r}
+# na_count_B <- sum(is.na(df$USECODE)) # 241 properties with no use code out of 15902
+# ```
+
+```{r, warning=FALSE}
+# extrapolate commercial fuel type
+salem_raw <- read_excel(here("Peabody", "Salem_FY2026 B&T file.xlsx"))
+
+salem_filter <- salem_raw %>%
+  select("Primary Land Use Code", "Heating Fuel", "Finished Building Area") %>%
+  rename(USECODE = 'Primary Land Use Code', FUELTYPE = 'Heating Fuel', AREASQ = "Finished Building Area")
+
+# Small: All 300s, 500s, and 900s (excl. 39X, 93X, 942, 927, 917); area < 30,000 sq ft
+# Large: All 300s, 500s, and 900s (excl. 39X, 93X, 942, 927, 917); area >= 30,000 sq ft
+# Ind: All 400s (excluding 44X)
+salem_com <- salem_filter %>%
+  filter(
+    (str_starts(USECODE, "3") |
+    str_starts(USECODE, "5") |
+    str_starts(USECODE, "9")) &
+    (!(str_starts(USECODE, "39") |
+       str_starts(USECODE, "93") |
+       str_starts(USECODE, "942") |
+       USECODE == (942 | 927 | 917)))
+  )
+
+salem_small <- salem_com %>%
+  filter(AREASQ < 30000)
+
+salem_large <- salem_com %>%
+  filter(AREASQ >= 30000)
+
+salem_ind <- salem_filter %>%
+  filter(str_starts(USECODE, "4")) %>%
+  filter(!(str_starts(USECODE, "44")))
+
+# calculate percents per fuel type
+s_small_types <- as.data.frame(table(salem_small$FUELTYPE)) %>%
+  rename("small_count" = "Freq")
+s_large_types <- as.data.frame(table(salem_large$FUELTYPE)) %>%
+  rename("large_count" = "Freq")
+s_ind_types <- as.data.frame(table(salem_ind$FUELTYPE)) %>%
+  rename("ind_count" = "Freq")
+
+salem_fuel1 <- merge(s_small_types, s_large_types, by = "Var1")
+salem_fuel <- merge(salem_fuel1, s_ind_types, by = "Var1")
+
+salem_fuel_percents <- salem_fuel %>%
+  mutate(small_count = small_count/854) %>%
+  mutate(large_count = large_count/54) %>%
+  mutate(ind_count = ind_count/58)
 ```
 
 ```{r}
-df <- df %>%
-  mutate(USECODE = recode(USECODE_char,
-                          "Improved, Education" = 934,
-                          "Sand And Gravel" = 410,
-                          "Utility Authority, Electric, Light, Sewe" = 971,
-                          "Gas Pressure Control Stations" = 428,
-                          "Gymnasiums & Athletic Clubs" = 376,
-                          "Apartments - More than Eight Units" = 112,
-                          "Storage, Warehouses And Distribution" = NA_real_, # warehouses for storage of manufactured products is 401, but could also be any code 31 because this is the title of code 31
-                          "Truck Terminals" = 314,
-                          "General Office" = 340,
-                          "Small Retail And Service Stores Under 10" = 325,
-                          "Commercial Condominium" = NA_real_, # there is only a code for residential condominiums
-                          "Church, Mosque, Synagogue, Temple etc" = 960,
-                          "Religious Group - Other" = 962,
-                          "Churches, Synagogues And Temples" = 960,
-                          "Medical Office" = 342,
-                          "Shopping Centers" = 323,
-                          "Rectory or Parsonage etc" = 961,
-                          "Charitable - Other" = 951,
-                          "Improved - Selectman/City Council" = 931,
-                          "Improved, Municipal Public Safety" = 935,
-                          "Multiple Use - Primarily Residential" = 013,
-                          "Automobile Repair" = 332,
-                          "Commercial Greenhouses" = 318,
-                          "Automotive Vehicles Sales & Services" = 330,
-                          "Fuel Service Only" = 333,
-                          "Office Condominium" = NA_real_, # there is only a code for residential condominiums
-                          "Discount Stores" = 322,
-                          "Multiple Use - Primarily Commercial" = 031,
-                          "Eating And Drinking Establishments" = 326,
-                          "Manufacturing Facilities" = 400, # check
-                          "Automotive Gas Sales & Service" = 334, # check
-                          "Telephone Exchange Stations" = 430,
-                          "Retail Building Materials, Farm Equipmen" = 321, # check
-                          "Other" = NA_real_, # could be other in any section, or any code 99
-                          "Child Care Facility" = 140,
-                          "Improved Municipal or Public Safety Othe" = 935, # check
-                          "Banks" = 341,
-                          "Nursing Homes" = 304,
-                          "Elementary School" = 940,
-                          "Educational  Private - Other" = 947,
-                          "Motels" = 301,
-                          "Supermarkets Greater Than 10,000 Sf" = 324,
-                          "Medical Condominium" = NA_real_, # there is only a code for residential condominiums
-                          "Automotive Supplies Retail" = 331,
-                          "Cemetaries" = 953,
-                          "Manufacturing Warehouse Facilities" = 401,
-                          "Other Motor Vehicles Sales & Services" = 338,
-                          "Industrial Condo" = NA_real_, # there is only a code for residential condominiums
-                          "Secondary Level" = 941,
-                          "Golfing - Areas Of Land Arranged As A Go" = 283,
-                          "Charitable - Hospitals" = 955,
-                          "U.S. Government" = 900,
-                          "Housing Authority" = 970,
-                          "Apartments - 4 To 8 Units" = 111,
-                          "Fraternal Organizations" = 353,
-                          "Other Congregate Housing" = 125,
-                          "Car Wash Facilities" = 335,
-                          "Day Care Center" = 352,
-                          "Private Hospitals" = 305,
-                          "Charitable Organizations" = 951, # check: charitable - other
-                          "Function Halls, Community Centers, Fater" = 954,
-                          "Hotels" = 300,
-                          "Vacant - Selectman/City Council" = 930,
-                          "Multiple Use- Part Taxable/Exempt" = NA_real_, # check
-                          "Rooming & Boarding Houses" = 121,
-                          "Property Used For Postal Services" = 350,
-                          "Charitable Services" = 957,
-                          "Bowling" = 370,
-                          "Funeral Homes" = 355,
-                          "Judiciary" = 926,
-                          "Cable Tv Transmitting Facilities" = 432,
-                          "Office Building- manufacturing" = 402,
-                          "Housing, Other" = 959,
-                          "Municipality" = NA_real_, # check
-                          "Single Family Residence" = 101,
-                          "Two-Family" = 104,
-                          "Multiple Houses On One Parcel" = 109,
-                          "Residential Condominium" = 102,
-                          "Three-Family" = 105,
-                          "Necessary Related Land - farm roads/pond" = 276
-                          ))
+danvers_raw <- read_csv(here("Peabody", "Danvers_Final.csv"))
+
+# Small: All 300s, 500s, and 900s (excl. 39X, 93X, 942, 927, 917); area < 30,000 sq ft
+# Large: All 300s, 500s, and 900s (excl. 39X, 93X, 942, 927, 917); area >= 30,000 sq ft
+# Ind: All 400s (excluding 44X)
+danvers_com <- danvers_raw %>%
+  filter(
+    (str_starts(USECODE, "3") |
+    str_starts(USECODE, "5") |
+    str_starts(USECODE, "9")) &
+    (!(str_starts(USECODE, "39") |
+       str_starts(USECODE, "93") |
+       str_starts(USECODE, "942") |
+       USECODE == (942 | 927 | 917)))
+  )
+
+danvers_small <- danvers_com %>%
+  filter(AREASQ < 30000)
+
+danvers_large <- danvers_com %>%
+  filter(AREASQ >= 30000)
+
+danvers_ind <- danvers_raw %>%
+  filter(str_starts(USECODE, "4")) %>%
+  filter(!(str_starts(USECODE, "44")))
+
+# calculate percents per fuel type
+d_small_types <- as.data.frame(table(danvers_small$FUELTYPE)) %>%
+  rename("small_count" = "Freq")
+d_large_types <- as.data.frame(table(danvers_large$FUELTYPE)) %>%
+  rename("large_count" = "Freq")
+d_ind_types <- as.data.frame(table(danvers_ind$FUELTYPE)) %>%
+  rename("ind_count" = "Freq")
+
+danvers_fuel1 <- merge(d_small_types, d_large_types, by = "Var1")
+danvers_fuel <- merge(danvers_fuel1, d_ind_types, by = "Var1")
+
+danvers_fuel_percents <- danvers_fuel %>%
+  mutate(small_count = small_count/581) %>%
+  mutate(large_count = large_count/83) %>%
+  mutate(ind_count = ind_count/77)
 ```
 
 ```{r}
-na_count_B <- sum(is.na(df$USECODE)) # 241 properties with no use code out of 15902
+# number small com peabody
+peabody_small_com <- joined_df %>%
+  filter(
+    (str_starts(USECODE, "3") |
+    str_starts(USECODE, "5") |
+    str_starts(USECODE, "9")) &
+    (!(str_starts(USECODE, "39") |
+       str_starts(USECODE, "93") |
+       str_starts(USECODE, "942") |
+       USECODE == (942 | 927 | 917)))
+  ) %>%
+  filter(AREASQ < 30000)
+# 625 small commercial
+
+# number large com peabody
+peabody_large_com <- joined_df %>%
+  filter(
+    (str_starts(USECODE, "3") |
+    str_starts(USECODE, "5") |
+    str_starts(USECODE, "9")) &
+    (!(str_starts(USECODE, "39") |
+       str_starts(USECODE, "93") |
+       str_starts(USECODE, "942") |
+       USECODE == (942 | 927 | 917)))
+  ) %>%
+  filter(AREASQ >= 30000)
+# 86 large commercial
+
+# number ind peabody
+peabody_ind <- joined_df %>%
+  filter(str_starts(USECODE, "4")) %>%
+  filter(!(str_starts(USECODE, "44")))
+# 186 industrial
 ```
 
 ```{r}
-write.csv(df, file = "Peabody_Incomplete.csv", row.names = FALSE)
+electric <- c( 
+  round(((0.08899297 + 0.03958692)/2) * 625), 
+  round(((0.09259259 + 0.1686747)/2) * 86), 
+  round(((0.06896552 + 0.02597403)/2) * 186) 
+  )
+
+gas <- c(
+  round(((0.41451991 + 0.66609294)/2) * 625),
+  round(((0.70370370 + 0.6867470)/2) * 86),
+  round(((0.29310345 + 0.71428571)/2) * 186)
+)
+
+oil <- c(
+  round(((0.28337237 + 0.16351119)/2) * 625),
+  round(((0.14814815 + 0.1325301)/2) * 86),
+  round(((0.12068966 + 0.11688312)/2) * 186)
+)
+
+fuel_percents <- data.frame(electric = electric, gas = gas, oil = oil)
+names <- c("small", "large", "ind")
+rownames(fuel_percents) <- names
+fuel_percents
+```
+
+```{r}
+# assign small, large, and ind to each property
+peabody <- joined_df %>%
+  mutate(SECTOR = case_when (
+    USECODE %in% peabody_small_com$USECODE ~ "small",
+    USECODE %in% peabody_large_com$USECODE ~ "large",
+    USECODE %in% peabody_ind$USECODE ~ "ind", 
+    TRUE ~ "res"
+  )
+  ) %>%
+  group_by(SECTOR) %>%
+  mutate(count = row_number())
+
+# for the first 40 small: electric
+# for the next 338 small: gas
+# for the next 140 small: oil
+
+# for the first 11 large: electric
+# for the next 60 large: gas
+# for the next 12 large: oil
+
+# for the first 9 ind: electric
+# for the next 94 ind: gas
+# for the next 22 ind: oil
+peabody <- peabody %>%
+  mutate(
+    FUELTYPE = case_when(
+      SECTOR == "small" & count <= 40 ~ "Electric",
+      SECTOR == "small" & count <= 378 ~ "Gas",
+      SECTOR == "small" & count <= 518 ~ "Oil",
+
+      SECTOR == "large" & count <= 11 ~ "Electric",
+      SECTOR == "large" & count <= 71 ~ "Gas",
+      SECTOR == "large" & count <= 83 ~ "Oil",
+
+      SECTOR == "ind" & count <= 9 ~ "Electric",
+      SECTOR == "ind" & count <= 103 ~ "Gas",
+      SECTOR == "ind" & count <= 125 ~ "Oil",
+
+      TRUE ~ FUELTYPE
+    )
+  )
+```
+
+```{r}
+write.csv(joined_df, file = "Peabody_Incomplete.csv", row.names = FALSE)
 ```
 
 
