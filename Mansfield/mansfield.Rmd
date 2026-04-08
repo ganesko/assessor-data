@@ -1,0 +1,19 @@
+---
+title: "mansfield"
+author: "greta-anesko"
+date: "2026-04-06"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(readr)
+library(here)
+library(readxl)
+library(stringr)
+```
+
+```{r}
+df <- read_csv(here("Mansfield", "Mansfield_Final (1).csv"))
+```
+
