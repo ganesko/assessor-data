@@ -351,7 +351,7 @@ peabody <- peabody %>%
 ```
 
 ```{r}
-write.csv(joined_df, file = "Peabody_Incomplete.csv", row.names = FALSE)
+write.csv(joined_df, file = "Peabody_Complete.csv", row.names = FALSE)
 ```
 
 
