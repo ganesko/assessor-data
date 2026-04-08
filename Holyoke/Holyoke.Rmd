@@ -1,0 +1,38 @@
+---
+title: "holyoke"
+author: "greta-anesko"
+date: "2026-04-08"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(readr)
+library(here)
+library(readxl)
+library(stringr)
+```
+
+```{r}
+spec <- fwf_empty(here("Holyoke", "B& T Standard FY 26 output (1)"))
+df <- read_fwf(here("Holyoke", "B& T Standard FY 26 output (1)"), spec)
+```
+```{r}
+# usecode: x19
+# fueltype: x41
+# areasq: x26
+# storyheight:x28
+```
+
+
+```{r}
+df_filter <- df %>%
+  select(X19, X41, X26, X28) %>%
+  rename(USECODE = X19, FUELTYPE = X41, AREASQ = X26, STORYHEIGHT = X28)
+```
+
+```{r}
+write.csv(df_filter, file = "Holyoke_Final.csv")
+```
+
+
