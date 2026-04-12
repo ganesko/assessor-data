@@ -1,0 +1,24 @@
+---
+title: "hudson"
+author: "greta-anesko"
+date: "2026-04-12"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(here)
+library(readr)
+```
+
+```{r}
+df_unedited <- read_csv(here("Hudson", "MassGIS_01092026090234.csv"))
+```
+```{r}
+# usecode: D_GIS.USE_CODE
+# fuel type: not in dataset :(
+# area: D_GIS.RES_AREA
+# stories: D_GIS.STORIES
+```
+
+
